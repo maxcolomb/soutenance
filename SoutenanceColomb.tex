@@ -45,202 +45,226 @@
 \begin{document}
 
 \maketitle
-
+\section{Introduction}
 \begin{frame}{Contexte : le phénomène d'étalement urbain}
-\begin{itemize}
-	\item Répond aux souhaits d'un grand nombre de ménages
-	\item Multiples effets négatifs
-	\item Objectif de régulation
-\end{itemize}
-\includegraphics[height=2.8cm]{Images/consome.jpg}
-\includegraphics[height=2.8cm]{Images/sto.jpeg}
+	\begin{block}{}
+		\begin{itemize}
+			\item Répond aux souhaits d'un grand nombre de ménages
+			\item Multiples effets négatifs
+			\item Objectif de régulation
+		\end{itemize}
+		\includegraphics[height=2.8cm]{Images/consome.jpg}
+		\includegraphics[height=2.8cm]{Images/sto.jpeg}
+	\end{block}
+	\begin{block}{}
+		Dynamiques résidentielles prépondérantes %Le logement étant le principal levier de ce développement, nous nous concentrons sur le développement résidentiel
+	\end{block}
 \end{frame}
 
-\begin{frame}{Les différents documents d'aménagement} 
-\includegraphics[width=11cm]{Images/planification-globale-Prez.png}
+\begin{frame}{Contexte : documents d'aménagement réglementant l'extension résidentielle} 
+	\includegraphics[width=11cm]{Images/planification-globale-Prez.png}
 \end{frame}
 
-\begin{frame}{Documents de planification régionale}
-Le \textbf{Schéma de Cohérence Territoriale} (SCoT) \textbf{synchronise} les politiques territoriales régionales
-\begin{itemize}
-\item Territorialise la construction de logements
-\item Fixe des contraintes morphologiques et de densité
-\end{itemize}
-\uncover<2->{Le \textbf{Programme Local de l’Habitat} (PLH) fixe la \textbf{politique du logement}
-\begin{itemize}
-\item Précise le nombre et le type de logements prévus par communes
-\item Programme de futures opérations
-\end{itemize}
-\uncover<3>{\textbf{Relation de compatibilité entre ces deux documents}}
+%\begin{frame}{Objectifs principaux}
+%	\begin{itemize}
+%		\item Étude des effets des documents d'aménagement sur le développement résidentiel
+%		\item Développer un outils pour permettre aux rédacteurs de les rendre plus efficaces
+%	\end{itemize}
+%\end{frame}
+
+\begin{frame}{Enjeux : concordance des documents d'urbanisme}
+	\begin{itemize}
+		\item Leurs rédacteurs sont différents
+		\item Leurs objectifs peuvent varier
+		\item Leurs effets peuvent être contradictoires
+	\end{itemize}
+	\uncover<2->{	
+		\begin{block}{}
+			Prévoir en amont leurs effets afin d'améliorer leurs concordance et de préciser leurs effets
+			%\textbf{Nécessité d'uniformiser les documents d'urbanisme et de planification pour que leurs actions soient concordantes}
+		\end{block}
+	}
+\end{frame}
+
+\begin{frame}{Outils d'aide à la décision pour l'aménagement}
+	\begin{block}{}
+		\textbf{Objectifs}\\
+		Modélise un ou plusieurs phénomènes\\
+		Simulations réapplicables et systématisables\\
+		...
+	\end{block}
+	\uncover<2->{	
+	\begin{block}{}
+		\textbf{Utilisations}\\
+		Représenter des futurs potentiels, enviables ou non\\
+		Permettre de comparer plusieurs versions de document\\
+		... 
+	\end{block}
+	}
+\end{frame}
+
+\begin{frame}{Outils d'aide à la décision pour l'aménagement}
+\begin{block}{}
+	\textbf{Objectifs}\\
+	Modélise un ou plusieurs phénomènes\\
+	Simulations réapplicables et systématisables\\
+	...
+\end{block}
+\uncover<2->{	
+	\begin{block}{}
+		\textbf{Utilisations}\\
+		Représenter des futurs potentiels, enviables ou non\\
+		Permettre de comparer plusieurs versions de document\\
+		... 
+	\end{block}
 }
 \end{frame}
 
-\begin{frame}{Documents de planification régionale - Exemple}
-\includegraphics[width=11cm]{cartes/prevision-plh.png}
+\begin{frame}{Problématique}
+		Comment développer un outil permettant de simuler différents types de contraintes et à différentes échelles? 
 \end{frame}
 
-\begin{frame}{Documents de planification locale - Les PLU}
-Le \textbf{Plan Local de l’Urbanisme (PLU)} détaille et spatialise les contraintes de constructibilité au sein d’une commune
-\begin{itemize}
-\item a des \textbf{effets directs sur la constructibilité} mais ne planifie pas la construction 
-\item \textbf{donne un cadre} pour la création de programmes de construction de logements \textit{(OAP, ZAC, ZAD)}
-\item se compose en partie d'un \textbf{zonage} et d'un \textbf{règlement}
-\end{itemize}
-\end{frame}	
-
-\begin{frame}{Application d'un PLU - Le zonage}
-\begin{columns}[T]
-\begin{column}[T]{7cm}
-Zones générales et sous-zones particulières
-\begin{itemize}
-\item \alert{Naturelles} \textbf{(N)} \emph{non constructibles}
-\item \alert{Agricoles} \textbf{(A)} \emph{non constructibles}
-\item \alert{Urbanisées} \textbf{(U)}
-\item \alert{À Urbaniser} \textbf{(AU)}
-\end{itemize}
-\end{column}
-\begin{column}[T]{4cm}
-\begin{textblock*}{6cm}(7.5cm,1.5cm)
-\includegraphics[width=5cm]{cartes/plu-roche.png}
-\end{textblock*}	
-\end{column}
-\end{columns}
-
-\end{frame}
-
-\begin{frame}{Application d'un PLU - Le règlement}
-\begin{columns}[T]
-\begin{column}[T]{5cm}
-Pour chaque sous-zone : 
-\begin{itemize}
-\item Articles 1, 2 : restrictions d’\textbf{usage du sol}
-\item Articles 6, 7, 8 : \textbf{position des bâtiments} relativement aux autres bâtiments, aux limites de parcelles ou à la voirie
-\item Article 10 : \textbf{hauteur maximale}
-\item Article 11 : \textbf{aspect extérieur}
-\end{itemize}
-\end{column}
-\begin{column}[T]{5.5cm}
-\centering
-\includegraphics[width=6cm]{Images/codesplu.png}
-\\
-\textit{Exemple de prescriptions graphiques (PLU de Strasbourg)}
-\end{column}
-\end{columns}
-\end{frame}
-
-\begin{frame}{Concordance des documents d'urbanisme}
-\begin{itemize}
-\item Leurs rédacteurs sont différents
-\item Leurs objectifs peuvent varier
-\item Leurs effets peuvent être contradictoires
-\end{itemize}
-\uncover<2->{	
-\begin{block}{}
-\textbf{Nécessité d'uniformiser les documents d'urbanisme et de planification pour que leurs actions soient concordantes}
-\end{block}}
-\end{frame}
-
-\begin{frame}{Les modèles de simulation spatiale}
-\begin{columns}[T]
-\begin{column}[T]{7cm}
-\begin{block}{}
-\textbf{Modélise} un ou plusieurs phénomènes\\
-
-Simulations réapplicables et systématisables\\
-
-\end{block}
-\uncover<2->{\begin{block}{}Beaucoup de modèles coexistent\end{block}}
-\uncover<3>{\begin{block}{}\textbf{Couplage de modèles existants}\end{block}}
-\end{column}
-\begin{column}[T]{4cm}
-
-\end{column}
-\end{columns}
-\end{frame}
-
-\begin{frame}{Problématique : planification régionale -- planification locale}		
-	\begin{columns}[T]
-	\begin{column}[T]{6cm}
+\begin{frame}{Objectifs de la thèse}
+	\begin{block}{}
+	Étude des \textbf{documents d'aménagements}
+		\begin{itemize}
+			\item représenter leurs \textbf{effets} sur le développement résidentiel
+			\item Assister les aménageurs dans leurs élaborations
+		\end{itemize}
+	\end{block}
+	\uncover<2->{
 		\begin{block}{}
-			\textbf{Scot + PLH : Objectifs de logements
-			\\
-			PLU : Contraintes de construction
-			\\}	
-		\end{block}
-		\uncover<2->{
-			\begin{block}{}
-				Comment vérifier la compatibilité entre ces différents documents ?					
-			\end{block}	
-		}
-		
-		\uncover<3->{
-			\begin{block}{}
-				\textbf{Couplage de deux modèles}
-				\\
-				\uncover<4>{
-				Développement résidentiel régional : \textbf{MUP-City} 
-				\\
-				Constructibilité locale : \textbf{SimPLU} }
-			\end{block}
-		}	
-	\end{column}
-	\begin{column}[T]{4cm}
-		\only<1>{\includegraphics[width=4.5cm]{Images/final0.png}}
-		\only<2-3>{\includegraphics[width=4.5cm]{Images/final1.png}}
-		\only<4>{\includegraphics[width=4.5cm]{Images/final2.png}}
-	\end{column}
-\end{columns}
-\end{frame}
-
-\begin{frame}{Enjeux}
-	\begin{columns}[T]
-		\begin{column}[T]{7cm}
-			\begin{block}{}Beaucoup de modèles pour simuler certains aspects du développement résidentiel\end{block}
-			\uncover<2>{\begin{block}{}\textbf{Couplage de modèles existants}\end{block}}
-	 	\end{column}
-	 	\begin{column}[T]{4cm}
-	 	\end{column}
-	 \end{columns}
-\end{frame}
-
-\begin{frame}{Verrous méthodologiques}
-	\begin{block}{Fiabilité des modèles de simulation}
-	\uncover<2->{{\textit{validation ! calibration ! stabilité ? sensibilité ?}}}
+		Création d'un modèle de développement résidentiel afin de simuler des évolutions~:
+		\begin{itemize}
+			\item réaliste (respectant les règlements et les contraintes physiques et fonctionnelles)
+			\item multi-échelle (d'une agglomération à la parcelle)
+		\end{itemize}
 	\end{block}
-	\uncover<3->{	
-		\begin{block}{Interopérabilité des modèles}
-			Différentes échelle\\
-			Différents objets\\
-			Différentes interprétations\\
-			Différentes temporalités\\
-		\end{block}
-	}
-	\uncover<4->{	
-		\begin{block}{Données}
-			Différentes sources\\
-			Différentes granularités\\
-		\end{block}		
 	}
 \end{frame}
 
-\begin{frame}{Objectif de la thèse}
-	\begin{block}{}
-			Simulation du \textbf{développement résidentiel}
-	\end{block}
-	\begin{block}{}
-			\textbf{Couplage} de deux modèles existants: MUP-City et SimPLU
-	\end{block}
-\end{frame}
+
+
+
+\section[Plan]{Plan de la présentation}
+
+
+
+
 \begin{frame}{Plan de la présentation}
-	\begin{itemize}[<+- | alert@+>]
-		\item Présentation et analyse de la \textbf{variabilité} de ces deux simulateurs
-		\item Présentation d'un \textbf{couplage expérimental}
-		\item Application à une commune péri-urbaine
-		\item Esquisse d'un outil d'aide à la planification territoriale
+	\begin{itemize}
+		\item Présentation d'\textbf{ArtiScales}
+		\item Présentation des \textbf{modules} d'ArtiScales
+		\item Présentation d'une \textbf{expérimentation} d'ArtiScales
 	\end{itemize}
 \end{frame}
 
+
+
+
+\section{ArtiScales}
+
+
+\begin{frame}{Caractéristiques nécessaires du modèle}
+\begin{block}{}
+	Création d'un modèle de développement résidentiel afin de simuler des évolutions~:
+	\begin{itemize}
+		\item Simuler un développement résidentiel potentiel à l'échelle de l'agglomération 
+		\item Traiter différemment certains types de zones (types de communes, interdictions de construire)
+		\item Simuler la construction de bâtiments (position, type de bâtiment) en fonction des contraintes réglementaires afin d'estimer les logements créées 
+	\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Résultats attendus}
+\begin{block}{}
+Afin d'assister à la rédaction des documents d'aménagements~:
+\begin{itemize}
+	\item Simulation de nouvelles parcelles, bâtiments, logements 
+	\item Expliciter l'articulation entre les différents documents d'aménagement
+	\item Calcul d'indicateurs (fonctionnels, environnementaux, morphologiques) afin d'évaluer les développements résidentiels provoqués par ces documents
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}{Résultats attendus}
+
+
+\uncover<2->{
+\begin{block}{}
+	Différents mécanismes à différentes échelles 
+\end{block}
+\uncover<3->{
+	\begin{block}{}
+		Couplage de modèles de simulation~: \textbf{ArtiScales} 
+	\end{block}
+}
+}
+\end{frame}
+
+
+\begin{frame}{ArtiScales}
+	Trois différents modèles nécessaire~:
+	\begin{itemize}
+		\item Détection d'emplacements intéressants à urbaniser au sein de l'agglomération
+		\item Recomposition du tissus parcellaire
+		\item Simulation sous contraintes des bâtiments
+	\end{itemize}
+	\uncover<2->{
+	\begin{block}{}
+		Ouverts pour permettre leurs réutilisations 
+	\end{block}
+	}
+\end{frame}
+
+\begin{frame}{Détection d'emplacements intéressants à urbaniser}
+Faire un tableau avec les avantages et les inconvénients des différentes approches
+	\begin{itemize}
+		\item LUTI (UrbanSim ou MobiSim)
+		\item MMA (Artznete 10)
+		\item Aide à la décision multi objective
+		\item Automate cellulaire
+	\end{itemize}
+	\uncover<2->{MUP-City (Automate cellulaire avec aide à la décision multi objective)\\
+	modèle stylisé
+}
+\end{frame}
+
+\begin{frame}{Recomposition du tissus parcellaire}
+	\begin{itemize}
+		\item UrbanSimul : marché foncier mais ne permet pas d'opérations de remodelage des parcelles
+		\item Algorithmes de découpages parcellaire	existent (Vanegas 12).. 
+	\end{itemize}
+	\begin{block}{}
+		Réemploi de ces algorithmes pour développer un module : \textbf{Parcel Manager}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Simulation des bâtiments}
+	\begin{itemize}
+		\item Modèle paramètrique (Coors 2009)
+		\item Modèle d'optimisation sous contrainte	: \textbf{SimPLU}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{ArtiScales : Schéma}
+	\includegraphics[width=3cm]{Images/mup.png}
+\end{frame}
+
+\begin{frame}{Simulation des bâtiments}
+	\begin{itemize}
+		\item Modèle paramètrique (Coors 2009)
+		\item Modèle d'optimisation sous contrainte	
+	\end{itemize}
+\end{frame}
+
+
+
+
 \section[MUP-City]{MUP-City et le développement résidentiel régional}
+
+
+
 
 \begin{frame}{MUP-City}
 	\centering{\includegraphics[width=3cm]{Images/mup.png}}
@@ -301,7 +325,13 @@ Simulations réapplicables et systématisables\\
 	\begin{block}{}\centering\includegraphics[width=11cm]{Images/exMup.png}\end{block}	
 \end{frame}
 
+
+
+
 \section[SimPLU]{SimPLU et la simulation de configurations bâties}
+
+
+
 
 \begin{frame}{Présentation de SimPLU}
 	\centering{\textbf{SimPLU}}
@@ -338,97 +368,15 @@ Simulations réapplicables et systématisables\\
 	\FontPetit\centering{\textit{Explorations systématiques visant à la mise au point de de bonnes pratiques pour la création de PLU (Chapron, Brasebin, Perret et al, 2017)}}
 \end{frame}
 
-\section[PLUCities]{PLUCities : Couplage de deux modèles de développement résidentiel}
 
-\begin{frame}{Focalisation sur le développement résidentiel}
-	\begin{block}{}
-		\centering
-		\textbf{Objectif :} Contrôler la construction de logements
-	\end{block}
-	\begin{block}{}
 
-	\end{block}
-\end{frame}
 
-\begin{frame}{Documents de planification régionale}
-	Le \textbf{Schéma de Cohérence Territoriale} (SCoT) \textbf{synchronise} les politiques territoriales régionales
-	\begin{itemize}
-		\item Territorialise la construction de logements
-		\item Fixe des contraintes morphologiques et de densité
-	\end{itemize}
-	\uncover<2->{Le \textbf{Programme Local de l’Habitat} (PLH) fixe la \textbf{politique du logement}
-		\begin{itemize}
-			\item Précise le nombre et le type de logements prévus par communes
-			\item Programme de futurs opérations
-		\end{itemize}
-		\uncover<3>{\textbf{Relation de compatibilité entre ces deux documents}}
-	}
-\end{frame}
 
-\begin{frame}{Documents de planification régionale - Exemple}
-	\includegraphics[width=10.5cm]{cartes/prevision-plh.png}
-\end{frame}
+\section[Expérimentation]{Expérimentation d'ArtiScales sur l'agglomération du Grand Besançon}
 
-\begin{frame}{Documents de planification locale - Les PLU}
-	Le \textbf{Plan Local de l’Urbanisme (PLU)} détaille et spatialise les contraintes de constructibilité au sein d’une commune
-	\begin{itemize}
-		\item a des \textbf{effets directs sur la constructibilité} mais ne planifie pas la construction 
-		\item \textbf{donne un cadre} pour la création de programmes de construction de logements \textit{(OAP, ZAC, ZAD)}
-		\item se compose en partie d'un \textbf{zonage} et d'un \textbf{règlement}
-	\end{itemize}
-\end{frame}	
 
-\begin{frame}{Application d'un PLU - Le zonage}
-	\begin{columns}[T]
-		\begin{column}[T]{7cm}
-			Zones générales et sous-zones particulières
-			\begin{itemize}
-				\item \alert{Naturelles} \textbf{(N)} \emph{non constructibles}
-				\item \alert{Agricoles} \textbf{(A)} \emph{non constructibles}
-				\item \alert{Urbanisées} \textbf{(U)}
-				\item \alert{À Urbaniser} \textbf{(AU)}
-			\end{itemize}
-		\end{column}
-		\begin{column}[T]{4cm}
-			\begin{textblock*}{6cm}(7.5cm,1.5cm)
-				\includegraphics[width=5cm]{cartes/plu-roche.png}
-			\end{textblock*}	
-		\end{column}
-	\end{columns}
-	
-\end{frame}
 
-\begin{frame}{Application d'un PLU - Le règlement}
-	\begin{columns}[T]
-		\begin{column}[T]{5cm}
-			Pour chaque sous-zone : 
-			\begin{itemize}
-				\item Articles 1, 2 : restrictions d’\textbf{usage du sol}
-				\item Articles 6, 7, 8 : \textbf{position des bâtiments} relativement aux autres bâtiments, aux limites de parcelles ou à la voirie
-				\item Article 10 : \textbf{hauteur maximale}
-				\item Article 11 : \textbf{aspect extérieur}
-			\end{itemize}
-		\end{column}
-		\begin{column}[T]{5.5cm}
-			\centering
-			\includegraphics[width=6cm]{Images/codesplu.png}
-			\\
-			\textit{Exemple de prescriptions graphiques (PLU de Strasbourg)}
-		\end{column}
-	\end{columns}
-\end{frame}
 
-\begin{frame}{Concordance des documents d'urbanisme}
-	\begin{itemize}
-		\item Leurs rédacteurs sont différents
-		\item Leurs objectifs peuvent varier
-		\item Leurs effets peuvent être contradictoires
-	\end{itemize}
-	\uncover<2->{	
-		\begin{block}{}
-			\textbf{Nécessité d'uniformiser les documents d'urbanisme et de planification pour que leurs actions soient concordantes}
-		\end{block}}
-\end{frame}
 
 \begin{frame}{Le couplage PLUCities}
 %\includegraphics[width=9cm]{Images/schema-ectqg-fr.png}\\
@@ -452,34 +400,16 @@ Simulations réapplicables et systématisables\\
 	\end{block}
 \end{frame}
 
+
+
+
 \section{Conclusion}
 
-\begin{frame}{Conclusion sur mes travaux de thèse}
-	\begin{block}{Travaux en parachèvement}
-		\begin{itemize}
-			\item \textbf{Diversité des sorties} de modèles de simulation
-			\item \textbf{Couplage} de modèles de simulation produisant des \textbf{développements résidentiels}
-			\item Différents paramétrages pour \textbf{orienter} ces développements
-		\end{itemize}
-	\end{block}
-	\begin{block}{Perspectives d'utilisation}
-		\begin{itemize}
-			\item \textbf{Expérimentation} avec l'agglomération de Besançon (CAGB)
-			\item Assistance à la \textbf{révision} des PLU et des PLH (et PLU-H)
-			\item \textbf{Auto-génération} de cartes thématiques
-			\item \textbf{Couplage} avec des modèles simulant l'évolution du \textbf{marché immobilier}
-		\end{itemize}
-	\end{block}			
-\end{frame}
 
-\begin{frame}{Opportunités pour l'IGN}
-%	\centering{\includegraphics[width=4cm]{Images/franceGPU.png}}\\
-%	\FontPetit{\textit{Dépôt des PLU sur le GPU}}
-	\begin{itemize}
-	\item Définition de données adaptées à la simulation des évolutions
-	\item Proposition de service aux acteurs de la planification sur l'ensemble du territoire français
-	\item Certification de la robustesse du processus de simulation relativement à la qualité des données
-	\end{itemize}
+
+
+\begin{frame}{Conclusion sur mes travaux de thèse}
+		
 \end{frame}
 
 \begin{frame}[standout]
@@ -494,19 +424,94 @@ Simulations réapplicables et systématisables\\
 		\large
 		\textbf{MUP-City}: \url{https://sourcesup.renater.fr/mupcity/} \\
 		\textbf{SimPLU}: \url{https://github.com/IGNF/simplu3D}\\
-		\textbf{PLUCities :} \url{https://github.com/maxcolomb/PLUCities}  
+		\textbf{PLUCities :} \url{https://github.com/ArtiScales/}  
 	\end{block}
-%	\begin{block}{}
-%		\centering{Questions?}\\
-%		\uncover<2>{\includegraphics[width=7.5cm]{Images/DELAHOUSSE.png}}
-%	\end{block}
 \end{frame}
 
-\begin{frame}{Données nécessaire à l'éxecution de MUP-City}
+\begin{frame}{Données nécessaire à l'exécution de MUP-City}
 	\centering{\includegraphics[width=10cm]{Images/schemaSetData.png}}
 \end{frame}
-\begin{frame}{Données nécessaire à l'éxecution de SimPLU}
+\begin{frame}{Données nécessaire à l'exécution de SimPLU}
 %		\centering{\includegraphics[width=8.5cm]{Images/simplu3DNbConfigs.png}}
 %	\centering{\includegraphics[width=5cm]{Images/simplumodel.png}}
 \end{frame}
 \end{document}
+
+
+\begin{frame}{Documents de planification régionale}
+Le \textbf{Schéma de Cohérence Territoriale} (SCoT) \textbf{synchronise} les politiques territoriales régionales
+\begin{itemize}
+	\item Territorialise la construction de logements
+	\item Fixe des contraintes morphologiques et de densité
+\end{itemize}
+\uncover<2->{Le \textbf{Programme Local de l’Habitat} (PLH) fixe la \textbf{politique du logement}
+	\begin{itemize}
+		\item Précise le nombre et le type de logements prévus par communes
+		\item Programme de futures opérations
+	\end{itemize}
+	\uncover<3>{\textbf{Relation de compatibilité entre ces deux documents}}
+}
+\end{frame}
+
+\begin{frame}{Documents de planification régionale - Exemple}
+\includegraphics[width=11cm]{cartes/prevision-plh.png}
+\end{frame}
+
+\begin{frame}{Documents de planification locale - Les PLU}
+Le \textbf{Plan Local de l’Urbanisme (PLU)} détaille et spatialise les contraintes de constructibilité au sein d’une commune
+\begin{itemize}
+\item a des \textbf{effets directs sur la constructibilité} mais ne planifie pas la construction 
+\item \textbf{donne un cadre} pour la création de programmes de construction de logements \textit{(OAP, ZAC, ZAD)}
+\item se compose en partie d'un \textbf{zonage} et d'un \textbf{règlement}
+\end{itemize}
+\end{frame}	
+
+\begin{frame}{Application d'un PLU - Le zonage}
+\begin{columns}[T]
+\begin{column}[T]{7cm}
+Zones générales et sous-zones particulières
+\begin{itemize}
+\item \alert{Naturelles} \textbf{(N)} \emph{non constructibles}
+\item \alert{Agricoles} \textbf{(A)} \emph{non constructibles}
+\item \alert{Urbanisées} \textbf{(U)}
+\item \alert{À Urbaniser} \textbf{(AU)}
+\end{itemize}
+\end{column}
+\begin{column}[T]{4cm}
+\begin{textblock*}{6cm}(7.5cm,1.5cm)
+\includegraphics[width=5cm]{cartes/plu-roche.png}
+\end{textblock*}	
+\end{column}
+\end{columns}
+
+\end{frame}
+
+\begin{frame}{Application d'un PLU - Le règlement}
+\begin{columns}[T]
+\begin{column}[T]{5cm}
+Pour chaque sous-zone : 
+\begin{itemize}
+\item Articles 1, 2 : restrictions d’\textbf{usage du sol}
+\item Articles 6, 7, 8 : \textbf{position des bâtiments} relativement aux autres bâtiments, aux limites de parcelles ou à la voirie
+\item Article 10 : \textbf{hauteur maximale}
+\item Article 11 : \textbf{aspect extérieur}
+\end{itemize}
+\end{column}
+\begin{column}[T]{5.5cm}
+\centering
+\includegraphics[width=6cm]{Images/codesplu.png}
+\\
+\textit{Exemple de prescriptions graphiques (PLU de Strasbourg)}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Opportunités pour l'IGN}
+%	\centering{\includegraphics[width=4cm]{Images/franceGPU.png}}\\
+%	\FontPetit{\textit{Dépôt des PLU sur le GPU}}
+\begin{itemize}
+	\item Définition de données adaptées à la simulation des évolutions
+	\item Proposition de service aux acteurs de la planification sur l'ensemble du territoire français
+	\item Certification de la robustesse du processus de simulation relativement à la qualité des données
+\end{itemize}
+\end{frame}
