@@ -53,15 +53,17 @@
 			\item Multiples effets négatifs
 			\item Objectif de régulation des pouvoirs publics
 		\end{itemize}
-		\includegraphics[height=2.8cm]{Images/consome.jpg}
-		\includegraphics[height=2.8cm]{Images/sto.jpeg}
+		\includegraphics[height=2.5cm]{Images/consome.jpg}
+		\includegraphics[height=2.5cm]{Images/sto.jpeg}
+		\includegraphics[height=2.5cm]{Images/consome.jpg}
 	\end{block}
 	\begin{block}{}
-		Dynamiques résidentielles prépondérantes %Le logement étant le principal levier de ce développement, nous nous concentrons sur le développement résidentiel
+		Dynamiques résidentielles prépondérantes (Joly 03, Wiel 13)
+		%Le logement étant le principal levier de ce développement, nous nous concentrons sur le développement résidentiel 
 	\end{block}
 \end{frame}
 
-\begin{frame}{Contexte : documents d'aménagement réglementant l'extension résidentielle} 
+\begin{frame}{Divers documents d'aménagement réglementant l'extension résidentielle} 
 	\includegraphics[width=11cm]{Images/planification-globale-Prez.png}
 \end{frame}
 
@@ -70,102 +72,162 @@
 \end{frame}
 
 
-%\begin{frame}{Objectifs principaux}
-%	\begin{itemize}
-%		\item Étude des effets des documents d'aménagement sur le développement résidentiel
-%		\item Développer un outils pour permettre aux rédacteurs de les rendre plus efficaces
-%	\end{itemize}
-%\end{frame}
-
 \begin{frame}{Enjeux : concordance des documents d'urbanisme}
 	\begin{itemize}
-		\item Différentes \textbf{échelles} d'application
 		\item Différents \textbf{rédacteurs}
+		\item Différentes \textbf{échelles} d'application
 		\item Objectifs divers
-		\item Effets potentiellement \textbf{contradictoires}
+		\item Effets incertains 
+		\item Combinaison potentiellement \textbf{contradictoire}
 	\end{itemize}
 	\uncover<2->{	
 		\begin{block}{}
-			\textbf{Anticiper} les effets des documents d'urbanisme en les \textbf{simulant} afin d'améliorer leurs \textbf{concordance} %et d'expliciter leurs \textbf{}
+			\textbf{Anticiper} les effets combinés des documents d'urbanisme sur le développement résidentiel afin d'améliorer leurs \textbf{concordance} grâce à la \textbf{modélisation} %et d'expliciter leurs \textbf{}
 		\end{block}
 	}
+	\uncover<3>{	
+	\begin{block}{}
+		Trouver une modélisation adapté aux phénomènes agissant aux diffrentes échelles 
+	\end{block}
+}
 \end{frame}
 
 \begin{frame}{Moyens : Outils d'aide à la décision pour l'aménagement}
-\centering
-		\includegraphics[width=5.7cm]{Images/bureau.jpg}	
-\\
-		\includegraphics[width=5.7cm]{Images/simcity.jpg}	
+	\centering
+	\includegraphics[width=5.7cm]{Images/bureau.jpg}	
+	\\
+	\includegraphics[width=5.7cm]{Images/simcity.jpg}	
 \end{frame}
 
 \begin{frame}{Moyens : Outils d'aide à la décision pour l'aménagement à visée prospective}
 \begin{block}{}
 	\textbf{Objectifs}\\
 	Modélise \textbf{un ou plusieurs phénomènes} réels\\
-	Simule les \textbf{évolution} probables du système étudié\\
+	Simule des \textbf{évolutions} probables du système étudié\\
 %	Simulations réapplicables et systématisables\\
 \end{block}
 \uncover<2->{	
 	\begin{block}{}
 		\textbf{Utilisations}\\
 		Représenter des futurs potentiels, recherchés, redoutés\\
-		Permettre de comparer plusieurs \textbf{scénarios}	
+		Permettre de comparer plusieurs \textbf{scénario}	
+		Utilisation en tant qu'\textbf{outil} pour l'\textbf{aide} à la conception de documents %et non pour une rédaction \textit{automatisée}
 	\end{block}
 }
 \uncover<3->{	
 	\begin{block}{}
 		\textbf{Limites}\\
-		Approximations inhérentes aux \textbf{niveaux de détails} et à la \textbf{modélisation} des phénomènes\\
-		Utilisation pour l'aide à la conception de documents %et non pour une rédaction \textit{automatisée}
+		Approximations inhérentes à la \textbf{modélisation} des phénomènes et aux \textbf{niveaux de détails} \\
+Possibilitées plutôt que prédictions
 	\end{block}
 }
 \end{frame}
 
-\begin{frame}{État de l'art des modèles de simulation du développement résidentiel}
-	Différents modèles permettent d'étudier le développement résidentiel :
-	\\
-	À une échelle régionale, de nombreuses familles de modèles
-\end{frame}
-
-\begin{frame}{État de l'art des modèles de simulation du développement résidentiel}
-À une échelle locale, d'autre dynamiques
-Différents modèles permettent d'étudier le développement résidentiel :
-\\
-À une échelle régionale, de nombreuses familles de modèles
-\end{frame}
-
-\begin{frame}{Détection d'emplacements intéressants à urbaniser}
-Faire un tableau avec les avantages et les inconvénients des différentes approches
+\begin{frame}{État de l'art des outils d'aide à la décision dans l'aménagement à visée prospectif}
+	\begin{block}{}
+		\uncover<1>{\textbf{État de l'Art :}
+			\\
+			De nombreux outils à visée prospective existent}
+	\end{block}	
+	\only<2>{Modèle d'\textbf{aide à la décision multi-critères} permet de~:
 	\begin{itemize}
-		\item LUTI (UrbanSim, MobiSim)
-		\item Modèles Multi Agents (Artznete 10)
-		\item Aide à la décision multi objective
-		\item Analyse du foncier (UrbanSimul)
-		\item Automate cellulaire
+		\item Prends en compte de nombreux paramètres pondérés pour dégager une décision
+		\item Pondérer les différents systèmes intéressants pour le développement résidentiel
+	\end{itemize}
+	}
+	\only<3>{Problèmes des modèles d'\textbf{aide à la décision multi-critères}~:
+	\begin{itemize}
+		\item Solutions pré-déterminées
+		\item Un phénomène plutôt qu'une interaction complexe entre différents systèmes
+	\end{itemize}
+	}
+	\only<4>{
+	Les modèles d'\textbf{étude du marché immobilier} (UrbanSimul (), ...) 
+	\begin{itemize}
+		\item Analyser le marché de l'immobilier, la pression foncière
+		\item Propose des prédictions sur l'état du marché et sur les futures urbanisations
+	\end{itemize}
+	}
+	\only<5>{
+	Problèmes des \textbf{modèles d'étude du marché immobilier}~:
+	\begin{itemize}
+			\item Peu adapté à représenter la compléxité des mécanismes multi-échelles d'un développement résidentiel 
+			\item Solution guidée par le marché et difficile à contraindre par les règlements d'urbanisme
+			\item Très contextualisé
+	\end{itemize}}
+\only<6>{Modèles appliqués à la résolution d'un problème défini et peu réutilisable}
+\end{frame}
+
+\begin{frame}{État de l'art des modèles de simulation du développement résidentiel de faits stylisés}
+	\only<1>{Fait stylisée~: modélisation \textit{simplifiée} de phénomènes complexes\\}
+	\only<2>{	Les \textbf{automates cellulaires} (Yeh 2015, Mustafa 2018) sont utilisés pour 
+		\begin{itemize}
+			\item fournir une représentation synthétique et simplifiée de l'espace grâce à un carroyage
+			\item simuler des changements d'états dynamiques pour chacune des cellules en fonction d'équations 
+		\end{itemize}
+	}
+	\only<3>{
+	Les \textbf{automates cellulaires} (Yeh 2015, Mustafa 2018) ne permettent pas de 
+		\begin{itemize}
+			\item traiter des formes géographiques complexes (parcelles, bâtiments)
+		\end{itemize}
+	}
+		\only<4>{
+		Les \textbf{modèles Multi-Agents} (Artznete 10, ...) permettent de 
+		\begin{itemize}
+			\item représenter un système en reproduisant les comportements d'agents et leurs interactions 
+			\item permet l'émergence de configurations particulières
+		\end{itemize}
+	}
+	\only<5>{
+		Problèmes des \textbf{modèles Multi-Agents} (Artznete 10, ...)~:
+		\begin{itemize}
+			\item dans notre cas, modélisation difficile (définition des agents, des interactions et des contraintes)
+		\end{itemize}
+	}
+	\only<6>{Les modèles stylisés ne sont pas assez descriptifs pour représenter le développement résidentiel à un niveau très local}
+\end{frame}
+
+\begin{frame}{État de l'art des modèles de simulation du développement résidentiel génératif}
+	\only<1>{Génération d'îlots urbains}
+	\only<2>{Génération de parcelles}
+	\only<3>{Génération de bâtiments}
+	%À une échelle très locale, d'autre dynamiques et d'autre types de modèles
+	%	(trouver des références sur l'étude des parcelles cf. rapport JT)
+	\begin{itemize}
+		\item<1-2> processus géo-historiques \only<1>{(Perret 2010)} \only<2>{(Perret 2015)} 
+		\item<2-> génération procédurale \only<2>{(Vanegas 2012)} \only<3>{(BIM)} 
+		\item<2-> génération paramétrique \only<2>{(Yazýcý 2016)} \only<3>{(Coors 2009)}
+		\item<3> optimisation sous contrainte (Brasebin 2014)
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Recomposition du tissus parcellaire}
-	(trouver des références sur l'étude des parcelles cf. rapport JT)
+\begin{frame}{État de l'art des modèles de simulation intégré de développement résidentiel}
+\only<1>{
+	Les approches intégrées, tel que les LUTI (Land-Use and Transportation Interaction), permettent de 
 	\begin{itemize}
-		\item Algorithmes de découpages parcellaire	existent (Vanegas 12).. 
+		\item simuler les interactions entre différents modèles (occupation du sol, transport, systèmes économiques ...)
+		\item Comparer les évolutions des systèmes modélisés dans une approche prospectives
 	\end{itemize}
-\end{frame}
+	}
+\only<2->{
+	Les approches intégrés, tel que les LUTI, présentent les inconvénients suivants~:
+	\begin{itemize}
+		\item mise en œuvre conséquente
+		\item peu d'utilité pour la modélistation des flux de transports
+	\end{itemize}
+}
+\only<3>{Approche intéressante du \textbf{couplage} de \textbf{différents modules} agissant à \textbf{différentes échelles}}
 
-\begin{frame}{Simulation des bâtiments}
-	\begin{itemize}
-		\item Modèle paramétrique (Coors 2009)
-		\item Modèle d'optimisation sous contrainte	: \textbf{SimPLU}
-	\end{itemize}
 \end{frame}
 
 \begin{frame}{Problématique}
-\only<1>{Il n'existe pas de modèles permettant de simuler un développement résidentiel multi-échelle, multi-contraint et suffisamment descriptif pour s'adapter aux contraintes locales.}
-\only<2>{Comment \textbf{simuler} le \textbf{développement résidentiel} d'une région urbaine à un niveau \textbf{très détaillé}, afin d'\textbf{assister} à la rédaction des différents types de \textbf{documents de planification et d'urbanisme} ?}
+	\only<1>{Il n'existe pas de modèles permettant de simuler un développement résidentiel multi-échelle, multi-contraint et suffisamment descriptif pour s'adapter aux contraintes locales.}
+	\only<2>{Comment \textbf{simuler} le \textbf{développement résidentiel} d'une région urbaine à un niveau \textbf{très détaillé}, afin d'\textbf{assister} à la rédaction des différents types de \textbf{documents de planification et d'urbanisme} ?}
 \end{frame}
 
 \begin{frame}{Objectifs de la thèse}
-		\begin{block}{}
+	\begin{block}{}
 		Création d'un modèle de développement résidentiel afin de simuler des évolutions~:
 		\begin{itemize}
 			\item réaliste (respectant les règlements et les contraintes physiques et fonctionnelles)
@@ -173,7 +235,10 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 			\item ouvert (réutilisable et discutable) %\textit{Préciser les objectifs (back/forecasting)} ? ou avant? 
 		\end{itemize}
 	\end{block}
-	Couplage de modèles pré-existant~: \textbf{ArtiScales} 
+	\only<2>{\begin{block}{}
+	Visée \textbf{prospective} pour \textbf{aider} à la conception \textbf{conjointe} de documents d'urbanisme et de planification en \textbf{représentant différents développements} résidentiels
+	\end{block}}
+\only<3>{Couplage de modèles pré-existant~: \textbf{ArtiScales}}
 \end{frame}
 
 
@@ -197,9 +262,13 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 
 \section{ArtiScales}
 
-
-
-
+\begin{frame}{Objectifs et contraintes régionales}
+Au niveau communal~:
+\begin{itemize}
+	\item Création quantitative de logements de différents types
+	\item Densité de logements
+\end{itemize}
+\end{frame}
 
 \begin{frame}{Contraintes à modéliser}
 	\only<1>{\includegraphics[width=10.7cm]{Images/contraintes0.png}}
@@ -208,51 +277,29 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 	\only<4>{\includegraphics[width=10.7cm]{Images/contraintes3.png}}
 \end{frame}
 
-\begin{frame}{Résultats nécessaires au modèle}
-		\begin{itemize}
-			\item Estimation de logements de différents types
-			\item Bâtiments en trois dimensions
-			\item Modification parcellaire
-			\item Densité de logements et de bâtiments
-			\item 
-		\end{itemize}
-\end{frame}
-
-\begin{frame}{Entrées nécessaires au modèle}
-	\begin{block}{}
-		\begin{itemize}
-			\item Morphologie des bâtiments (réelle et réglementaire)
-			\item Parcelles et zonages
-			\item Orientations et contraintes sur la forme du développement résidentiel
-		\end{itemize}
-	\end{block}
-	\uncover<2->{
-		\begin{block}{}
-			Couplage de modèles de simulation~: \textbf{ArtiScales} 
-		\end{block}
-	}
-\end{frame}
-
 \begin{frame}{ArtiScales}
-	Trois différents modèles nécessaire~:
+	Trois différents modèles nécessaires~:
 	\begin{itemize}
 		\item Détection d'emplacements intéressants à urbaniser au sein de l'agglomération
 		\item Recomposition du tissus parcellaire
-		\item Simulation sous contraintes des bâtiments
+		\item Simulation sous contraintes des bâtiments en trois dimensions (puis estimation du nombre de logements)
 	\end{itemize}
 \end{frame}
 
-
+\begin{frame}{ArtiScales : Couplage de modèles}
+	Répartition de l'extension résidentielle dans la région urbaine~: modèle stylisé
+	\\
+	Simulation du parcellaire et des bâtiments~: modèles génératifs
+	\\
+	Estimation du nombre de logements: indicateur
+\end{frame}
 
 \begin{frame}{ArtiScales : Couplage de modèles}
 	\centering
-	\includegraphics[width=8cm]{Images/schemGenPrez0.png}
-\end{frame}
-
-
-\begin{frame}{ArtiScales : Travaux entrepris}
-	\centering
-	\includegraphics[width=8cm]{Images/schemGenPrez1.png}
+	\only<1>{\includegraphics[width=8cm]{Images/schemGenPrez0.png}}
+	\only<2>{\includegraphics[width=8cm]{Images/schemGenPrez1.png}}
+	\only<3>{\includegraphics[width=8cm]{Images/schemGenPrez2.png}}
+	\only<4>{\includegraphics[width=8cm]{Images/schemGenPrez3.png}}
 \end{frame}
 
 
@@ -279,26 +326,27 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 	\end{itemize}
 	\textbf{Sorties}
 	\begin{itemize}
-		\item \textbf{Cellules de 20m} représentant des emplacements potentiellement urbanisables
+		\item \textbf{Cellules de 20m} de côté représentant des emplacements potentiellement urbanisables
 		\item Évaluations suivant des critères morphologiques et d'accessibilité
 	\end{itemize}
 	\begin{block}{}\centering{\includegraphics[width=9.5cm]{Images/schema_mupcity.png}}\end{block}
 \end{frame}
 
 \begin{frame}{MUP-City: analyse de variabilité}
-	\begin{block}{Principe}
-				Analyser la variation des résultats de simulation d'un modèle\\
-				Sélection de \textbf{configurations résidentielles} à exploiter
-			\end{block}
-
+	Sorties de simulation très variables (Tannier 2012, Frémont 2015)
+	\\
+	\textbf{Analyse de la variabilité des sorties de MUP-City}
+	\uncover<2->{\begin{block}{Principe}
+			Analyser la variation des résultats de simulation d'un modèle\\
+			Sélection de \textbf{configurations résidentielles} à exploiter
+		\end{block}
+	}
+	\uncover<3->{
 	\begin{block}{Objectifs}
-				\textbf{Fiabilité} des résultats de simulation\\
-				Sélection de \textbf{configurations résidentielles} à exploiter
-			\end{block}
-
-	\begin{block}{Verrous}
-				Définition des indicateurs utilisés pour caractériser les résultats\\
-			\end{block}
+		\textbf{Fiabilité} des résultats de simulation\\
+		Sélection de \textbf{configurations résidentielles} à exploiter
+	\end{block}
+	}
 	\includegraphics[width=11cm]{Images/ex-sorties-mup2.png}
 \end{frame}
 
@@ -308,23 +356,70 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 		Étude des paramètres dits \alert{techniques}\\
 		Étude des paramètres dits \alert{scénaristiques}
 	\end{block}
+\uncover<2>{Modèle différemment variables selon les paramètres}
 \end{frame}
 
-\begin{frame}{Exemples}
-	une variation pour chaque type ? 
+\begin{frame}{Conclusion de l'analyse de variabilité}
+	\begin{block}{}
+	Plusieurs configurations résidentielles simulées
+	\\
+	La variation des paramètres d'entrées n'ont pas tous les mêmes effets sur les sorties
+	\\
+	Détections d'indicateurs pertinents à optimiser
+	\end{block}
+	\begin{block}{}
+
+		Différents scénarios de développement résidentiel
+		\\
+		Différentes variantes à ces scénarios
+	\end{block}
 \end{frame}
 
 \section[Parcel Manager]{Parcel Manager pour la gestion du tissus parcellaire}
 
 \begin{frame}{Présentation du modèle}
- 	\centering{\includegraphics[width=9cm]{Images/schemGenParcelManager.png}}
+ 	\centering{\includegraphics[width=8cm]{Images/schemGenParcelManager-prez.png}}
 \end{frame}
 
-\begin{frame}{Trois types de décompositions parcellaires}
+\begin{frame}{Algorithme de découpage parcellaire}
+	\only<1>{adapté de Vannegas, 2012
+	\\
+	\centering{\includegraphics[width=9cm]{Images/decompositionParcelle-prez.png}}}
+	\only<2>{\centering{\includegraphics[width=11cm]{Images/routes.png}}}
+\end{frame}
 	
+\begin{frame}<1>[label=PM]
+	\frametitle{Algorithmes de remodelage parcellaire}
+	\begin{itemize}
+		\item \alert<1>{Densification}
+		\item \alert<2>{Recomposition parcellaire totale}
+		\item \alert<3>{Recomposition parcellaire partielle}
+	\end{itemize}
 \end{frame}
 
+\begin{frame}{Algorithme de découpage parcellaire avec potentielle création de voie d'accès}
+\centering{\includegraphics[width=9cm]{Images/decompositionParcelleFlag-prez.png}}
+\end{frame}
 
+\begin{frame}{Densification}
+ 	\centering{\includegraphics[width=9cm]{Images/splitParcelU.png}}
+\end{frame}
+
+\againframe<2>{PM}
+
+\begin{frame}{Recomposition parcellaire totale}
+ 	\centering{\includegraphics[width=9.5cm]{Images/splitParcelZone-prez.png}}
+\end{frame}
+
+\againframe<3>{PM}
+
+\begin{frame}{Recomposition parcellaire partielle}
+ 	\centering{\includegraphics[width=8cm]{Images/splitParcelNC-prez.png}}
+\end{frame}
+
+\begin{frame}{Évaluation du modèle}
+	TODO?! %TODO? 
+\end{frame}
 
 \section[SimPLU]{SimPLU et la simulation de bâtiments}
 
@@ -335,7 +430,7 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 	\\
 	Génère des configurations bâties en 3D
 	\begin{itemize}
-		\item Produit un ensemble de configurations potentiellement constructibles selon les \textbf{contraintes du PLU}
+		\item Génère un ensemble de bâtiments selon les \textbf{contraintes du PLU}
 		\item Optimise certains paramètres afin de poursuivre différents \textbf{objectifs de construction}
 		\item Simule le comportement d'agents constructeurs
 	\end{itemize} 
@@ -354,7 +449,7 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 		\textbf{Sortie}
 		\begin{itemize}
 			\small
-			\item Configuration en 3D représentant un potentiel constructible
+			\item Bâtiments en 3D représentant des potentiels constructibles
 		\end{itemize}
 	\end{block}
 	\begin{block}
@@ -363,10 +458,11 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 \end{frame}
 
 \begin{frame}{Contraintes paramétriques sur les ``boîtes''}
-		\begin{block}{}
-			Cinq types de bâtiments~:\\
-		\end{block}
-	
+	\begin{block}{}
+		Adapter la forme des bâtiments simulés aux secteurs %approche prospective et non exploratoire
+		\\
+		Cinq types de bâtiments définis selons les secteurs~:
+	\end{block}
 	\only<1>{\textbf{Maison isolée}\\
 		\begin{block}{}
 		\centering{\includegraphics[width=7cm]{Images/detachedHouse.png}}	
@@ -384,12 +480,12 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 	}
 	\only<4>{\textbf{Petit immeuble collectif}\\
 		\begin{block}{}
-		\centering{\includegraphics[width=7cm]{Images/smallBlockFlat.png}}	
+		\centering{\includegraphics[width=6.5cm]{Images/smallBlockFlat.png}}	
 		\end{block}
 	}
 	\only<5>{\textbf{Immeuble collectif de taille moyenne}\\
 		\begin{block}{}
-		\centering{\includegraphics[width=7cm]{Images/midBlockFlat.png}}	
+		\centering{\includegraphics[width=6.5cm]{Images/midBlockFlat.png}}	
 		\end{block}
 	}
 \end{frame}
@@ -399,7 +495,7 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 		\centering
 		\textbf{Optimisation du volume des bâtiments}
 	\end{block}
-	\centering{\includegraphics[width=11cm]{Images/fatAmericanHouse.jpg}}
+	\centering{\includegraphics[width=10cm]{Images/fatAmericanHouse.jpg}}
 \end{frame}
 
 \begin{frame}{SimPLU: étude des sorties - Exemple}
@@ -423,15 +519,13 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 
 \section[Expérimentation]{Expérimentation d'ArtiScales sur l'agglomération du Grand Besançon}
 
-
-
-
 \begin{frame}{Expérimentation menée au cours de la thèse}
 	\begin{block}
 		\textbf{Objectifs de l'expérimentation}\\
 		\begin{itemize}
 			\item Évaluer le fonctionnement d'ArtiScales
-			\item Analyser les effets de la variabilité des simulation de MUP-City sur les résultats finaux 
+%			\item Analyser les effets de la variabilité des simulation de MUP-City sur les résultats finaux 
+			\item Déterminer de potentiels usages pour l'aide à la conception de documents d'aménagements
 		\end{itemize}
 	\end{block}
 	\uncover<2->{
@@ -444,46 +538,34 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 \end{frame}
 
 \begin{frame}{Protocole des simulations}
-\begin{block}{Deux paramétrage de Parcel Manager et SimPLU3D}
-	\begin{itemize}
-		\item Forte augmentation de la densité
-		\item Augmentation modérée de la densité
-	\end{itemize}
-\end{block}
-\end{frame}
-
-\begin{frame}{Protocole des simulations}
-\begin{block}{Deux scénarios de développement résidentiels}
-	\begin{itemize}
-		\item Densité fractale moyenne et permissif quand aux critères d'évaluation (\textit{Scenario c})
-		\item Forte densité fractale et sévère sur les critères d'évaluation (\textit{Scenario d})
-	\end{itemize}
-\end{block}
-\begin{block}{Neuf variantes de développement résidentiels}
-\vspace{0.1cm}
-	Deux réplications de la modification des paramètres techniques~:
-	\begin{itemize}
-		\item graine aléatoire
-		\item taille des cellules
-		\item petits mouvements de la grille de décomposition
-		\item grands mouvements de la grille de décomposition
-	\end{itemize}
-\end{block}
+	\begin{block}{Deux paramétrages de Parcel Manager et SimPLU3D}
+		\begin{itemize}
+			\item Forte augmentation de la densité
+			\item Augmentation modérée de la densité
+		\end{itemize}
+	\end{block}
+	\begin{block}{Deux scénarios de développement résidentiels}
+		\begin{itemize}
+			\item Densité fractale moyenne et permissif quand aux critères d'évaluation (\textit{Scenario c})
+			\item Forte densité fractale et sévère sur les critères d'évaluation (\textit{Scenario d})
+		\end{itemize}
+	\end{block}
 \end{frame}
 
 \begin{frame}{Exécution du code informatique}
 	\begin{itemize}
-		\item temps théorique sur un ordinateur personnel pour le plan d'expérience~: 285 jours
-		\item temps théorique sur la grille de calcul européenne pour le plan d'expérience~: 110 heures
-		\item temps constaté sur la grille européenne pour une simulation~: 35 heures
+		\item temps théorique sur un ordinateur personnel pour ce plan d'expérience~: \textbf{18 jours}
+		\item temps théorique sur la grille de calcul européenne pour le plan d'expérience~: \textbf{36 heures}
+		\item temps constaté sur la grille européenne pour une simulation~: \textbf{140 heures}
 	\end{itemize}
 \end{frame}
 
-\subsection{Comparaison des scénarios}
+\section{Évaluation du fonctionnement du modèle}
 
 \begin{frame}{Présentation des résultats de simulation}
-	\textbf{résolution observé préférentielle : l'armature des communes (peu présent dans le document, mais permet la comparaison avec l'éval du SCoT)}
-	présenter l'éval du SCoT
+	Données d'entrées du modèle~:~2012
+	\\
+	Comparaison à l'évaluation territoriale sur le bassin de vie de Besançon de 2012 à 2016 
 	\\
 	Dans une logique décroissante~: (pas forcé de l'indiquer)
 	\begin{itemize}
@@ -495,75 +577,175 @@ Faire un tableau avec les avantages et les inconvénients des différentes appro
 \end{frame}
 
 \begin{frame}{Sélection parcellaire et consommation foncière}
-Chiffres généraux (trouver des comparaisons avec la conso résidentielle d'avant/ de pendant?!)
-\\
-Comparaison de l'extension/\textit{renouvellement} avec les chiffres du SCoT 
-\end{frame}
-
-\begin{frame}{Simulation de bâtiments}
-	Types simulés (problèmes dans SimPLU3D)
+	Chiffres généraux (trouver des comparaisons avec la conso résidentielle d'avant/ de pendant?!)
+	\begin{table}
+		\caption{Consommation foncière des différents scénarios}
+		\scriptsize
+		\begin{tabular}{|lcc|}
+			\hline 
+		Scenario - paramétrage&\textbf{c} - densité modérée&\textbf{d} - forte densité\\
+			\hline 
+		Surface de parcelles urbanisée ($km^{2}$)&6,623 &3,406 \\	
+			\hline 
+		Surface de parcelles densifiées ($km^{2}$)&4,006 \only<2>{(61\%)}&1,174 \only<2>{(34\%)}\\	
+			\hline 
+		Surface de parcelles en extension ($km^{2}$)&2,617&2,232\\ 
+			\hline 
+		\end{tabular} 
+	\end{table}
+	À titre de comparaison, 11,58 $km^{2}$ d’espaces artificialisés de 2001 à 2012
+	\\
+	\uncover<2>{De 2012 à 2016, on compte 60\% de \textit{renouvellement urbain}}
 \end{frame}
 
 \begin{frame}{Simulation de logements}
-	Comparaison du nombre de logements simulés avec 
-	
-	pour tous ou presque: rapport de trois
+	\begin{table}[h]
+		\caption{Comparaison de la création de logements mesurée par le SCoT avec les estimations des simulations d'ArtiScales}
+		\label{Result:ConstLgt}
+		\tiny
+		\begin{center}
+			\begin{tabular}{m{2.2cm}m{1.5cm}m{1.5cm}m{1cm}m{1.5cm}m{1.5cm}} 
+				Typologie de l'armature&
+				Objectif du SCoT sur 25 ans&
+				Nombre de logements produits en 4 ans&
+				pourcentage atteind de l'objectif&
+				scenario \textbf{d} - paramétrage \textit{dense} 
+				& scenario \textbf{c} - paramétrage \textit{modérément dense} \\
+				\hline
+				Ville centre&18 200&2 621&14\%&3 192&3 891\\\hline
+				Communes périphériques&3 500&505&14\%&1 764&1 519\\\hline
+				Communes relais &1 250&147&12\%&489&331\\\hline
+				Communes équipées&600&42&7\%&21&102\\\hline
+				Halte ferroviaire&2 200&328&15\%&948&1 207\\\hline
+				Commune hors armature&5 250&1 055&20\%&2 718&4 729\\\hline
+			\end{tabular}
+		\end{center}
+	\end{table}
+%	pour tous ou presque: rapport de trois
 \end{frame}
 
-\subsection{Comparaison des variantes}
-
-\begin{frame}{Présentation rapide des résultats des variantes}
-\textit{pas sur d'en parler si ?}
-	\textit{min/max sur les quatre scénarios des tableaux et cartes pour situer ces différences}
+\begin{frame}{Densité nette de logements par $m^{2}$}
+\begin{table}[h]
+	\caption{Comparaison des densités nettes de logements par hectare selon le diagnostic du document et les simulations d'ArtiScales}
+	\tiny 
+	\begin{center}
+		\begin{tabular}{m{2.5cm}m{1.5cm}m{1.3cm}m{2cm}m{2cm}}
+			\toprule
+			&&&\multicolumn{2}{c}{Densité moyenne simulée par ArtiScales} \\ \hline
+			Typologie de l'armature &
+			Densité moyenne fixée par le SCoT &
+			Densité moyenne observée&
+			scenario \textbf{d} - paramétrage \textit{dense} &
+			scenario \textbf{c} - paramétrage \textit{modérément dense} \\ \hline
+			Ville centre&50&60&49,4&56,2\\ \hline
+			Communes périphériques&23&21&23&16\\ \hline
+			Communes relais &20&20&21,3&15,6\\ \hline
+			Communes équipées&15&12&16,8&14,1\\ \hline
+			Halte ferroviaire&20&18&25,8&16,7 \\ \hline
+			Commune hors armature&13&13&19,3 &14,6\\ \hline
+		\end{tabular}
+	\end{center}
+\end{table}
 \end{frame}
 
+\begin{frame}{Comparaison d'OAP et des résultats de simulation}
+	\only<1>{\textbf{Orientations d'Aménagement et de Programmation}~: Définition de l'organisation pour l'urbanisation de certaines zones. 
+	} 
+	\only<2>{
+		\begin{table}
+		\scriptsize
+		 \caption{Comparaison de la simulation utilisant le scénario \textbf{c} et un paramétrage induisant une \textit{forte densité} avec les objectifs de création de logements dans les OAP de Saône (25532)}
+		\begin{tabular}{|m{3cm}ccccc|}
+	   Nom de la zone&Petite Saône&La Messarde&Au Cras&La Gilleroye \\ \hline
+	   Objectif de création \newline de logements &9&62&24&219 \\\hline
+	   Estimation d'ArtiScales&7&54&16&151 \\\hline
+	   Ressemblance des plans&non &oui&oui&non\\
+	\end{tabular}
+	\end{table}
+	}
+	\only<3>{
+	\includegraphics[width=10cm]{Images/OAPTour-de-Say2.png}
+	\\
+	\tiny Illustration superposant l'OAP du \textit{Champ Sera} à La Tour De Say (25640) et les résultats de la simulation provenant du scénario \textbf{c} avec le paramétrage induisant une \textit{forte densité}
+	}
+\end{frame}
+
+\section{Utilisation thématique des résultats}
+
+\begin{frame}{Compatibilité entre les documents}
+	Incompatibilité entre les objectifs de création de logements et les documents d'urbanisme (objectifs sur-dimensionnés ?)
+	\only<1>{\includegraphics[width=8.7cm]{Images/nancray.png}}
+	\only<2>{\textit{carte d'une commune qui ne peut pas atteindre les objectifs}}
+\end{frame}
+
+\begin{frame}{Détecter la nécessité d'un zonage}
+	Commune sans zonage défini $\Longrightarrow$ application d'une délimitation floue appellée Parties Actuellement Urbanisée (PAU)
+	Quelques unes de ces communes connaissent une forte urbanisation selon tous les scénarios 
+	\\
+	\textit{carte d'une telle commune}
+\end{frame}
+
+\begin{frame}{Rétro-action : ouverture du zonage à l'urbanisation}
+	\textit{rétro-action expérimentale}
+	\\
+	\only<1>{\includegraphics[width=8.7cm]{Images/schemCompatibleResult-prez0.png}}
+	\only<2>{\includegraphics[width=8.7cm]{Images/schemCompatibleResult-prez1.png}}
+	\only<3>{\includegraphics[width=8.7cm]{Images/schemCompatibleResult-prez2.png}}
+\end{frame}
+
+\begin{frame}{Rétro-action : ouverture du zonage à l'urbanisation}
+		\includegraphics[width=8cm]{Images/ecoleVal.png}
+\\
+		\tiny{Mise en compatibilité de l'extension résidentielle pour la commune d'École Valentin (25212)}
+\end{frame}
 
 \section{Conclusion}
 
-
-\begin{frame}{MUP-City : un modèle variable}
-	\begin{block}{}
-		Plusieurs configurations résidentielles simulés
-		\\
-		\textbf{conclusions communes sur certaines communes}
-	\end{block}
-	
-	\begin{block}{}
-		Possibilité d'utiliser d'autre modèles pour ce bloc? 
-	\end{block}
-\end{frame}
-
-\begin{frame}{ArtiScales : un modèle hybride}
-Mêle des modèles descriptifs à des modèles stylisés~: simulateur hybride
-\\
-Pas de temporalité - peut être qu'une nouvelle itération devrait être faite tous les 12 ans (cf rapport de 3 x pour chaque 4 ans) pour parvenir à remplir les objectifs ()?
-Permettrait aussi de remettre en cause les objectifs (comme dans le cas de Besac, sur-évalués)
-		
+\begin{frame}{Conclusions sur ArtiScales}
+	Couplage des modèles descriptifs/génératifs à un modèle stylisé~: simulateur hybride
+	\\
+	Résultats réalistes et plausibles en comparaison avec les évolutions du territoire
+	\\
+	Pas de temporalité - peut être qu'une nouvelle itération devrait être faite tous les X ans ? % (cf rapport de 3 x pour chaque 4 ans) pour parvenir à remplir les objectifs ?
+	\\
 \end{frame}
 
 
-\begin{frame}{Utilisation dans l'aide à la décision territoriale}
-	Rendre variable certaines restrictions pour voir comment rendre compatible les docs
-\\
+\begin{frame}{Utilisation d'ArtiScales dans l'aide à la décision territoriale}
+	Rendre variable certaines restrictions pour voir comment rendre compatible entre eux les règlements
+	\\
 	par exemple : 
 	\begin{itemize}
 		\item Zonage (expérimenté dans la thèse)
-		\item articles du PLU (hauteur?)
-		\item 
+		\item articles du PLU (hauteur, retraits)
+		\item Objectifs de création de logements et de densité
 	\end{itemize}
-\end{frame}
-
-\begin{frame}{Perspectives de recherche : Automatisation des analyses de sensibilité}
-	Pour AS : nécessité d'optimisation des simus de SimPLU3D
+	\uncover<2>{Mise en œuvre opérationnelle dans le cadre d'un postdoc sur le PLU intercommunal de Besançon}
 \end{frame}
 
 \begin{frame}{Perspectives de recherche : Prise en compte de nouveaux processus}
 	Nouveaux modes de densification (rendre ArtiScales plus opérant en milieu urbain)
 	\\
-	Adapter le modèle aux évolutions réglementaires suites aux lois ALUR et ELAN (plus de qualitatif (\textit{performantiel}) grâce à SimPLU3D)
+	Adapter SimPLU3D aux évolutions réglementaires suite aux lois ALUR et ELAN (plus de qualitatif (\textit{performantiel}) grâce à SimPLU3D)
+	\\
+	Développer de nouveaux indicateurs pour évaluer les scénarios de développement résidentiels
 \end{frame}
 
+\begin{frame}{Perspectives de recherche : Génération automatique de Cartes Communales}
+	Certaines communes n'ont pas de zonages et leur génération pourraient être automatisées~:
+	\begin{itemize}
+		\item<2-> enveloppe morphologique de base
+		\item<3-> ajout des parcelles les plus intéressantes à urbaniser 
+		\item<4-> respect des densités objectives et des objectifs de création de logements
+		\item<5-> non étalement urbain (respect des parties actuellement urbanisées)
+	\end{itemize}
+\end{frame}
 
+\begin{frame}{D'un outil prospectif à un outil normatif}
+	Permettre de rédiger les documents d'urbanisme afin d'orienter le développement résidentiel
+%	Nécessite le couplage avec d'autres approches ?
+\end{frame}
+%\note{c'est peut être malin de ne pas proposer d'autre modèles pour faire la répartition et de laisser venir la question (quit à préparer une slide de réserve? Ou alors mettre ça dans les conclusions)
 \begin{frame}[standout]
 	\centering
 	\begin{block}{}	
@@ -576,7 +758,7 @@ Permettrait aussi de remettre en cause les objectifs (comme dans le cas de Besac
 		\large
 		\textbf{MUP-City}: \url{https://sourcesup.renater.fr/mupcity/} \\
 		\textbf{SimPLU}: \url{https://github.com/IGNF/simplu3D}\\
-		\textbf{PLUCities :} \url{https://github.com/ArtiScales/}  
+		\textbf{PLUCities :} \url{https://github.com/ArtiScales/}
 	\end{block}
 \end{frame}
 
@@ -587,7 +769,7 @@ Permettrait aussi de remettre en cause les objectifs (comme dans le cas de Besac
 %		\centering{\includegraphics[width=8.5cm]{Images/simplu3DNbConfigs.png}}
 %	\centering{\includegraphics[width=5cm]{Images/simplumodel.png}}
 \end{frame}
-\end{document}
+
 
 
 \begin{frame}{Documents de planification régionale}
@@ -662,6 +844,25 @@ Pour chaque sous-zone :
 \end{columns}
 \end{frame}
 
+\subsection{Comparaison des variantes}
+
+\begin{frame}{Présentation rapide des résultats des variantes}
+\textit{pas sur d'en parler si ?}
+\textit{min/max sur les quatre scénarios des tableaux et cartes pour situer ces différences}
+\begin{block}{Neuf variantes de développement résidentiels}
+	\vspace{0.1cm}
+	Deux réplications de la modification des paramètres techniques~:
+	\begin{itemize}
+		\item graine aléatoire
+		\item taille des cellules
+		\item petits mouvements de la grille de décomposition
+		\item grands mouvements de la grille de décomposition
+	\end{itemize}
+\end{block}
+\end{frame}
+
+
+
 \begin{frame}{Opportunités pour l'IGN}
 %	\centering{\includegraphics[width=4cm]{Images/franceGPU.png}}\\
 %	\FontPetit{\textit{Dépôt des PLU sur le GPU}}
@@ -671,3 +872,4 @@ Pour chaque sous-zone :
 	\item Certification de la robustesse du processus de simulation relativement à la qualité des données
 \end{itemize}
 \end{frame}
+\end{document}
