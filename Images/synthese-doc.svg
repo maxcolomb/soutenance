@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="226.62105mm"
-   height="124.99376mm"
-   viewBox="0 0 802.98794 442.89115"
+   width="262.51917mm"
+   height="124.99377mm"
+   viewBox="0 0 930.18598 442.89118"
    id="svg4747"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4436129"
-     inkscape:cx="225.62799"
-     inkscape:cy="189.2331"
+     inkscape:zoom="0.8872258"
+     inkscape:cx="430.22379"
+     inkscape:cy="252.6142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -173,7 +173,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1093"
-       d="M 636.09977,1034.1484 V 591.25718"
+       d="M 636.09974,1034.1484 V 591.25718"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
@@ -185,7 +185,7 @@
        style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16882"
        xml:space="preserve"
-       transform="translate(222.03608,122.90807)"><flowRegion
+       transform="translate(222.03608,134.19217)"><flowRegion
          id="flowRegion16884"
          style="line-height:1;font-family:sans-serif"><rect
            style="font-size:22.50000191px;line-height:1;font-family:sans-serif"
@@ -194,8 +194,8 @@
            height="78.285454"
            width="186.67972"
            id="rect16886" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-         id="flowPara16890">Plan de prévention des risques</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
+         id="flowPara16890">Prévention des risques</flowPara></flowRoot>    <flowRoot
        transform="translate(234.87235,-64.392707)"
        xml:space="preserve"
        id="flowRoot16852"
@@ -223,7 +223,7 @@
            width="177.33844"
            id="rect16866" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-         id="flowPara16870">Position des logements</flowPara></flowRoot>    <flowRoot
+         id="flowPara16870">Position des bâtiments</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16810"
        xml:space="preserve"
@@ -237,11 +237,11 @@
            width="112.78527"
            id="rect16814" /></flowRegion><flowPara
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:end;text-anchor:end"
-         id="flowPara16818">Type de règle</flowPara></flowRoot>    <g
+         id="flowPara16818">Type de contrainte</flowPara></flowRoot>    <g
        id="g1120"
-       transform="translate(-6.3348137,10.526625)">
+       transform="translate(-61.346805,33.77324)">
       <flowRoot
-         transform="translate(429.52011,24.581208)"
+         transform="translate(614.43637,50.997816)"
          xml:space="preserve"
          id="flowRoot16922"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -254,11 +254,11 @@
              y="665.5946"
              style="font-size:19.40116692px;font-family:sans-serif" /></flowRegion><flowPara
            id="flowPara16930"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Contraintes sur la <flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"><flowSpan
    style="font-weight:bold;font-size:25.00000191px"
-   id="flowSpan1124">densification</flowSpan> des tissus bâtis </flowPara></flowRoot>    </g>
+   id="flowSpan1124">Densification</flowSpan> </flowPara></flowRoot>    </g>
     <flowRoot
-       transform="translate(431.77514,121.53154)"
+       transform="translate(431.77514,149.23121)"
        xml:space="preserve"
        id="flowRoot16932"
        style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -272,12 +272,12 @@
            style="font-size:19.40116692px;line-height:1;font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara16940"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"><flowSpan
-   style="font-weight:bold;font-size:25.00000191px"
-   id="flowSpan1139">Accessibilité </flowSpan>aux réseaux de transports</flowPara></flowRoot>    <flowRoot
+           style="font-weight:bold;font-size:25.00000191px"
+           id="flowSpan1139">Accessibilité</flowSpan></flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16962"
        xml:space="preserve"
-       transform="translate(639.43064,125.40569)"><flowRegion
+       transform="translate(620.91098,136.61192)"><flowRegion
          style="line-height:1;font-family:sans-serif"
          id="flowRegion16964"><rect
            style="font-size:19.40116692px;line-height:1;font-family:sans-serif"
@@ -287,24 +287,22 @@
            width="165.00194"
            id="rect16966" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-         id="flowPara16968">Objectifs de <flowSpan
-   id="flowSpan1059"
-   style="font-weight:bold;font-size:25.00000191px">création de logements</flowSpan></flowPara></flowRoot>    <flowRoot
-       transform="translate(537.98503,308.04314)"
+         id="flowPara16968">Types de bâtiments</flowPara></flowRoot>    <flowRoot
+       transform="translate(537.98503,318.09303)"
        xml:space="preserve"
        id="flowRoot16912"
        style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><flowRegion
          id="flowRegion16914"
          style="line-height:1;font-family:sans-serif"><rect
            id="rect16916"
-           width="162.92047"
-           height="64.209938"
+           width="402.63528"
+           height="77.071236"
            x="16.203072"
            y="665.5946"
            style="font-size:19.40116692px;line-height:1;font-family:sans-serif;stroke:none;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara16920"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Opérations d'aménagement </flowPara></flowRoot>    <flowRoot
-       transform="translate(655.61895,-63.416147)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Opérations spéciales d'aménagement </flowPara></flowRoot>    <flowRoot
+       transform="translate(636.29914,-63.416147)"
        xml:space="preserve"
        id="flowRoot4270"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -317,7 +315,7 @@
            y="665.5946"
            style="font-size:19.40116692px;font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara4278"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Type des logements</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Type des bâtiments</flowPara></flowRoot>    <g
        transform="translate(113.59546,244.89258)"
        id="g4349">
       <g
@@ -326,7 +324,7 @@
            id="g1075"
            transform="translate(0.52833216,-12.15164)">
           <flowRoot
-             transform="translate(109.3852,-198.02985)"
+             transform="translate(109.3852,-177.10896)"
              xml:space="preserve"
              id="flowRoot4294"
              style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -339,9 +337,7 @@
                  y="665.5946"
                  style="font-size:19.40116692px;line-height:1;font-family:sans-serif" /></flowRegion><flowPara
                id="flowPara4303"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Contraintes sur <flowSpan
-   style="font-weight:bold;font-size:25.00000191px"
-   id="flowSpan1122">l'artificialisation</flowSpan> des sols</flowPara></flowRoot>          <flowRoot
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Artificialisation</flowPara></flowRoot>          <flowRoot
              transform="translate(136.003,-131.23618)"
              xml:space="preserve"
              id="flowRoot4305"
@@ -432,11 +428,11 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1135"
-       d="M 38.710613,958.61164 H 841.69845"
+       d="M 38.710613,958.61164 H 964.71411"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 38.710613,869.68401 H 841.69845"
+       d="M 38.710613,869.68401 H 965.68008"
        id="path1137"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -444,29 +440,15 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1139"
-       d="M 38.710613,780.75635 H 841.69845"
+       d="M 38.710613,780.75637 H 966.20841"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 38.710613,691.88992 H 841.69845"
+       d="M 38.710613,691.88992 H 967.26507"
        id="path1141"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <flowRoot
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot16902"
-       xml:space="preserve"
-       transform="translate(334.19407,189.93969)"><flowRegion
-         id="flowRegion16904"
-         style="font-family:sans-serif"><rect
-           style="font-size:19.40116692px;font-family:sans-serif"
-           y="665.5946"
-           x="16.203072"
-           height="38.092323"
-           width="150.44571"
-           id="rect16906" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-         id="flowPara16910">Servitudes</flowPara></flowRoot>    <flowRoot
        transform="translate(334.39183,233.52094)"
        xml:space="preserve"
        id="flowRoot16892"
@@ -484,7 +466,7 @@
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16954"
        xml:space="preserve"
-       transform="translate(530.71989,219.30787)"><flowRegion
+       transform="translate(530.71989,234.02143)"><flowRegion
          id="flowRegion16956"
          style="font-family:sans-serif"><rect
            style="font-size:19.40116692px;font-family:sans-serif"
@@ -495,12 +477,86 @@
            id="rect16958" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
          id="flowPara16960"><flowSpan
-   style="font-weight:bold"
-   id="flowSpan960">Règlement</flowSpan> du PLU</flowPara></flowRoot>    <path
+           style="font-weight:bold"
+           id="flowSpan960">Règlement</flowSpan></flowPara></flowRoot>    <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 841.09256,1034.1484 V 591.25718"
+       d="M 802.23944,1034.1484 V 591.25718"
        id="path1143"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <flowRoot
+       transform="translate(425.29427,-63.416147)"
+       xml:space="preserve"
+       id="flowRoot967"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         style="font-family:sans-serif"
+         id="flowRegion963"><rect
+           id="rect961"
+           width="177.33844"
+           height="100.90746"
+           x="16.203072"
+           y="665.5946"
+           style="font-size:19.40116692px;font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara965"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Position des bâtiments</flowPara></flowRoot>    <flowRoot
+       transform="translate(786.0924,125.40569)"
+       xml:space="preserve"
+       id="flowRoot979"
+       style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion973"
+         style="line-height:1;font-family:sans-serif"><rect
+           id="rect971"
+           width="165.00194"
+           height="76.406967"
+           x="16.203072"
+           y="665.5946"
+           style="font-size:19.40116692px;line-height:1;font-family:sans-serif" /></flowRegion><flowPara
+         id="flowPara977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Objectifs de <flowSpan
+   style="font-weight:bold;font-size:25.00000191px"
+   id="flowSpan975">création de logements</flowSpan></flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot987"
+       xml:space="preserve"
+       transform="translate(802.33198,-63.416147)"><flowRegion
+         id="flowRegion983"
+         style="font-family:sans-serif"><rect
+           style="font-size:19.40116692px;font-family:sans-serif"
+           y="665.5946"
+           x="16.203072"
+           height="105.85812"
+           width="133.68506"
+           id="rect981" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
+         id="flowPara985">Type des logements</flowPara></flowRoot>    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 802.23932,1034.1484 V 591.25718"
+       id="path1035"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1037"
+       d="M 968.37912,1034.1484 V 591.25718"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="translate(-64.390248,-12.71999)"
+       id="g1049">
+      <flowRoot
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1047"
+         xml:space="preserve"
+         transform="translate(485.52332,45.714494)"><flowRegion
+           id="flowRegion1041"
+           style="font-family:sans-serif"><rect
+             style="font-size:19.40116692px;font-family:sans-serif"
+             y="665.5946"
+             x="16.203072"
+             height="80.556015"
+             width="185.29034"
+             id="rect1039" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
+           id="flowPara1045">Orientation du developpement résidentiel </flowPara></flowRoot>    </g>
   </g>
 </svg>

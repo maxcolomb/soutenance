@@ -261,9 +261,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="1017.8685"
-     inkscape:cy="51.462385"
+     inkscape:zoom="0.175"
+     inkscape:cx="-1368.1782"
+     inkscape:cy="-1075.4652"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -280,7 +280,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -549,53 +549,9 @@
        sodipodi:nodetypes="cc"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <g
-       id="g2639"
-       transform="matrix(0.28222223,0,0,0.28222223,12.930105,1560.7965)"
-       inkscape:export-filename="./decompositionParcelle-prez.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         inkscape:connector-curvature="0"
-         id="path1266"
-         d="m -801.28158,-4710.6424 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
-         style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81656241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         inkscape:connector-curvature="0"
-         id="path1268"
-         d="m -811.03175,-4618.8977 276.51018,-13.1491"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:39.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
-         id="text1276"
-         y="-4402.896"
-         x="-655.13251"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         inkscape:export-filename="./decompositionParcelle.png"><tspan
-           id="tspan1274"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.00000763px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:1px"
-           y="-4402.896"
-           x="-655.13251"
-           sodipodi:role="line">création de voirie?</tspan></text>
-      <path
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:16.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91860465"
-         d="m -811.03175,-4618.8977 276.51018,-13.1491"
-         id="path1544"
-         inkscape:connector-curvature="0"
-         inkscape:export-xdpi="96"
-         inkscape:export-ydpi="96"
-         sodipodi:nodetypes="cc" />
-    </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1906)"
-       d="m -318.94513,234.13929 75.73271,48.69193"
+       d="m -318.94513,234.13929 65.04193,-0.48566"
        id="path1902"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -607,7 +563,7 @@
     <flowRoot
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       transform="matrix(0.28222223,0,0,0.28222223,344.94723,184.66416)"
+       transform="matrix(0.28222223,0,0,0.28222223,290.19929,216.90945)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2921"
        xml:space="preserve"
@@ -714,25 +670,6 @@
          d="m -1463.1811,-3248.3789 477.14287,-20"
          style="fill:none;fill-rule:evenodd;stroke:#6b6b6b;stroke-width:3.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.7, 11.1;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <text
-       inkscape:export-filename="./decompositionParcelleFlag-prez.png"
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="489.07855"
-       y="240.78079"
-       id="text1251"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="491.03534"
-         y="240.78079"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
-         id="tspan1247">Possibilité de générer une route </tspan><tspan
-         id="tspan1249"
-         sodipodi:role="line"
-         x="489.07855"
-         y="258.41968"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px">sur un côté de la parcelle ?</tspan></text>
     <path
        inkscape:export-filename="./decompositionParcelleFlag-prez.png"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -831,45 +768,67 @@
          id="tspan1279"
          sodipodi:role="line">non</tspan></text>
     <g
-       inkscape:export-filename="./decompositionParcelleFlag-prez.png"
-       transform="matrix(0.28222223,0,0,0.28222223,836.74369,1098.2726)"
-       id="g1313"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       id="g285">
+      <text
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         transform="matrix(0.99964384,-0.0266868,0.07122471,0.9974603,0,0)"
-         ry="0"
-         y="-3483.418"
-         x="-1233.3096"
-         height="344.55881"
-         width="477.91339"
-         id="rect1307"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6b6b6b;stroke-width:3.70184064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70184063, 11.1055219;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         id="text1251"
+         y="240.78079"
+         x="489.07855"
+         style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:export-filename="./decompositionParcelleFlag-prez.png"><tspan
+           id="tspan1247"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+           y="240.78079"
+           x="491.03534"
+           sodipodi:role="line">Possibilité de générer une route </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+           y="258.41968"
+           x="489.07855"
+           sodipodi:role="line"
+           id="tspan1249">sur un côté de la parcelle ?</tspan></text>
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="g1313"
+         transform="matrix(0.28222223,0,0,0.28222223,836.74369,1098.2726)"
+         inkscape:export-filename="./decompositionParcelleFlag-prez.png">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6b6b6b;stroke-width:3.70184064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70184063, 11.1055219;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect1307"
+           width="477.91339"
+           height="344.55881"
+           x="-1233.3096"
+           y="-3483.418"
+           ry="0"
+           transform="matrix(0.99964384,-0.0266868,0.07122471,0.9974603,0,0)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81631207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1362.4122,-3343.0597 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
+           id="path1309"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#6b6b6b;stroke-width:3.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.7, 11.1;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -1463.1811,-3248.3789 477.14287,-20"
+           id="path1311"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
       <path
-         inkscape:export-ydpi="96"
-         inkscape:export-xdpi="96"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:9.19504356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 455.15729,180.41702 -6.2461,42.48565"
+         id="path1315"
          inkscape:connector-curvature="0"
-         id="path1309"
-         d="m -1362.4122,-3343.0597 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
-         style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81631207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:connector-curvature="0"
-         id="path1311"
-         d="m -1463.1811,-3248.3789 477.14287,-20"
-         style="fill:none;fill-rule:evenodd;stroke:#6b6b6b;stroke-width:3.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.7, 11.1;stroke-dashoffset:0;stroke-opacity:1" />
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="./decompositionParcelleFlag-prez.png" />
     </g>
-    <path
-       inkscape:export-filename="./decompositionParcelleFlag-prez.png"
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       inkscape:connector-curvature="0"
-       id="path1315"
-       d="m 455.15729,180.41702 -6.2461,42.48565"
-       style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:9.19504356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(0.28222223,0,0,0.28222223,25.740435,1560.7965)"
        id="g2758"
@@ -1143,6 +1102,405 @@
            x="2059.8604"
            id="tspan2174"
            sodipodi:role="line">oui</tspan></text>
+    </g>
+    <path
+       style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.9372549;fill-rule:evenodd;stroke:#000000;stroke-width:1.07704818;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -570.81038,481.80271 13.24119,-28.80538 35.22147,14.4027 27.54162,30.54362 -1.58891,50.65773 -82.36004,1.24161 z"
+       id="path159"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-584.54333"
+       y="431.31345"
+       id="text163"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><tspan
+         sodipodi:role="line"
+         id="tspan161"
+         x="-584.54333"
+         y="431.31345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.28222224px">Parcelle initiale</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11055)"
+       d="m -480.59994,501.96024 h 83.05397"
+       id="path165"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-326.4747"
+       y="577.02527"
+       id="text169"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><tspan
+         sodipodi:role="line"
+         x="-326.4747"
+         y="577.02527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan167">Accès route?</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -326.72617,584.02357 v 20.14229"
+       id="path171"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11149)"
+       d="M -326.79963,603.08656 -363.861,644.74731"
+       id="path173"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1738)"
+       d="m -327.36981,602.87274 75.73271,48.69191"
+       id="path175"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <g
+       id="g183"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.28222223,0,0,0.28222223,20.360205,1432.111)"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png">
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         transform="matrix(0.99964384,-0.0266868,0.07122471,0.9974603,0,0)"
+         ry="0"
+         y="-3483.418"
+         x="-1233.3096"
+         height="344.55881"
+         width="477.91339"
+         id="rect177"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6b6b6b;stroke-width:3.70184064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70184063, 11.1055219;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:connector-curvature="0"
+         id="path179"
+         d="m -1362.4122,-3343.0597 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
+         style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81631207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:connector-curvature="0"
+         id="path181"
+         d="m -1463.1811,-3248.3789 477.14287,-20"
+         style="fill:none;fill-rule:evenodd;stroke:#6b6b6b;stroke-width:3.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.7, 11.1;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-360.94821"
+       y="765.68341"
+       id="text187"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><tspan
+         sodipodi:role="line"
+         x="-360.94821"
+         y="765.68341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan185">Découpage sur la largeur</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text191"
+       y="619.33661"
+       x="-288.61322"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111355px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.28222224px"
+         y="619.33661"
+         x="-288.61322"
+         id="tspan189"
+         sodipodi:role="line">oui</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text195"
+       y="618.02057"
+       x="-380.20032"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111145px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';stroke-width:0.28222224px"
+         y="618.02057"
+         x="-380.20032"
+         id="tspan193"
+         sodipodi:role="line">non</tspan></text>
+    <g
+       transform="matrix(0.28222223,0,0,0.28222223,25.740435,1432.111)"
+       id="g203"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6b6b6b;stroke-width:3.70184064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70184063, 11.1055219;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect197"
+         width="362.91653"
+         height="311.16415"
+         x="-2864.821"
+         y="1145.6586"
+         ry="0"
+         transform="matrix(0.0266868,0.99964384,-0.9974603,0.07122471,0,0)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81631207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1490.6333,-2658.4075 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
+         id="path199"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#6b6b6b;stroke-width:3.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.7, 11.1;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -1388.8308,-2772.3803 20,362.2278"
+         id="path201"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-327.30496"
+       y="433.43851"
+       id="text209"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><tspan
+         sodipodi:role="line"
+         x="-325.34814"
+         y="433.43851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan205">Boite englobante orientée </tspan><tspan
+         sodipodi:role="line"
+         x="-327.30496"
+         y="451.07739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan207">et séparée en deux</tspan></text>
+    <flowRoot
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="matrix(0.28222223,0,0,0.28222223,439.04009,561.80876)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot217"
+       xml:space="preserve"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"><flowRegion
+         id="flowRegion213"
+         style="text-align:center;text-anchor:middle"><rect
+           y="-56.209225"
+           x="-1880"
+           height="122.97609"
+           width="341.93622"
+           id="rect211"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+         id="flowPara215">Parcelles retenues</flowPara></flowRoot>    <g
+       id="g223"
+       transform="matrix(0.28222223,0,0,0.28222223,-186.43525,1445.353)"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:connector-curvature="0"
+         id="path219"
+         d="m 78.8197,-3395.1479 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
+         style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81656241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:connector-curvature="0"
+         id="path221"
+         d="m 69.069533,-3303.4032 276.510177,-13.1491"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -190.17063,622.20262 V 642.3449"
+       id="path225"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2925)"
+       d="m -190.68186,622.92136 46.83768,-49.07726"
+       id="path227"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path229"
+       d="m -190.17063,622.20262 -75.16252,-48.4781"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1548)"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"
+       transform="matrix(0.28222223,0,0,0.28222223,37.876533,2012.7035)"
+       id="g241">
+      <path
+         style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81656241;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -801.28158,-4710.6424 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
+         id="path231"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:39.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -811.03175,-4618.8977 276.51018,-13.1491"
+         id="path233"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         sodipodi:nodetypes="cc" />
+      <text
+         inkscape:export-filename="./decompositionParcelle.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-655.13251"
+         y="-4402.896"
+         id="text237"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           x="-655.13251"
+           y="-4402.896"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.00000763px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:1px"
+           id="tspan235">création de voirie?</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:connector-curvature="0"
+         id="path239"
+         d="m -811.03175,-4618.8977 276.51018,-13.1491"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:16.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91860465" />
+    </g>
+    <path
+       inkscape:transform-center-y="-243.42468"
+       inkscape:transform-center-x="1.4137483"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path243"
+       d="m -318.94513,685.29024 75.73271,48.69193"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.69333339;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1906)" />
+    <flowRoot
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"
+       xml:space="preserve"
+       id="flowRoot251"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.28222223,0,0,0.28222223,344.94723,635.81511)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         style="text-align:start;text-anchor:start"
+         id="flowRegion247"><rect
+           style="text-align:start;text-anchor:start"
+           id="rect245"
+           width="392.61459"
+           height="129.7332"
+           x="-1880"
+           y="-56.209225" /></flowRegion><flowPara
+         id="flowPara249"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start">Condition surfacique d'arrêt</flowPara></flowRoot>    <g
+       transform="translate(-680.15732,655.99552)"
+       id="g285-3"
+       inkscape:export-filename="./decompositionParcelle-prez-apports.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text1251-5"
+         y="240.78079"
+         x="489.07855"
+         style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         inkscape:export-filename="./decompositionParcelleFlag-prez.png"><tspan
+           id="tspan1247-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+           y="240.78079"
+           x="491.03537"
+           sodipodi:role="line">Possibilité de générer une route </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111164px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+           y="258.41968"
+           x="489.07855"
+           sodipodi:role="line"
+           id="tspan1249-2">sur un côté de la parcelle ?</tspan></text>
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="g1313-9"
+         transform="matrix(0.28222223,0,0,0.28222223,836.74369,1098.2726)"
+         inkscape:export-filename="./decompositionParcelleFlag-prez.png">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6b6b6b;stroke-width:3.70184064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70184063, 11.1055219;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect1307-1"
+           width="477.91339"
+           height="344.55881"
+           x="-1233.3096"
+           y="-3483.418"
+           ry="0"
+           transform="matrix(0.99964384,-0.0266868,0.07122471,0.9974603,0,0)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="opacity:0.93999999;fill:#dd696b;fill-opacity:0.99607843;fill-rule:evenodd;stroke:#000000;stroke-width:3.81631207;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1362.4122,-3343.0597 46.9176,-102.0663 124.8005,51.0332 97.5884,108.2254 -5.63,179.4959 -291.8269,4.3994 z"
+           id="path1309-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#6b6b6b;stroke-width:3.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.7, 11.1;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -1463.1811,-3248.3789 477.14287,-20"
+           id="path1311-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:9.19504356;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 455.15729,180.41702 -6.2461,42.48565"
+         id="path1315-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="./decompositionParcelleFlag-prez.png" />
     </g>
   </g>
 </svg>

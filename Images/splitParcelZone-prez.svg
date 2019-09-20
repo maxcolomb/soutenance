@@ -173,9 +173,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5883632"
-     inkscape:cx="545.91977"
-     inkscape:cy="424.47172"
+     inkscape:zoom="0.41603561"
+     inkscape:cx="605.74261"
+     inkscape:cy="493.3294"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1232,5 +1232,33 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1066"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.9690059,0,0,2.9690059,-1405.2741,-469.39425)"><flowRegion
+         style="text-align:end;text-anchor:end"
+         id="flowRegion1062"><rect
+           id="rect1060"
+           width="64.531418"
+           height="37.476181"
+           x="281.39941"
+           y="299.93054"
+           style="font-size:18.75px;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara1064"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.57993698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end">Totale</flowPara></flowRoot>    <flowRoot
+       transform="matrix(2.9690059,0,0,2.9690059,-955.37778,-469.39425)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1083"
+       xml:space="preserve"><flowRegion
+         id="flowRegion1079"
+         style="text-align:end;text-anchor:end"><rect
+           style="font-size:18.75px;text-align:end;text-anchor:end"
+           y="299.93054"
+           x="281.39941"
+           height="37.476181"
+           width="64.531418"
+           id="rect1077" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.57993698px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end"
+         id="flowPara1081">Partielle</flowPara></flowRoot>  </g>
 </svg>
