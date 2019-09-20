@@ -792,9 +792,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50307642"
-     inkscape:cx="1955.7373"
-     inkscape:cy="264.99365"
+     inkscape:zoom="0.35572875"
+     inkscape:cx="2686.4822"
+     inkscape:cy="16.377239"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -828,11 +828,11 @@
      transform="translate(-939.16577,-314.73419)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7791)"
-       d="m 1541.8604,416.41072 c 0.2916,3.85366 1.4611,-4.61159 1.61,28.11278"
+       d="m 1771.6879,416.41072 c 0.2916,3.85366 1.4611,-4.61159 1.61,28.11278"
        id="path7787"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
     <path
@@ -1824,32 +1824,6 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.26458335">SimPLU3D</tspan></text>
     </g>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1094.0768,451.14453)"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot6455"
-       xml:space="preserve"
-       inkscape:export-filename="./schemGenPrez4.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><flowRegion
-         style="line-height:68.90000105%"
-         id="flowRegion6451"><rect
-           style="line-height:68.90000105%"
-           y="-353.19562"
-           x="662.0213"
-           height="163.04558"
-           width="348.58026"
-           id="rect6449" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
-         id="flowPara6453">Cellules d'environ 20 mètres de côté</flowPara></flowRoot>    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path6457"
-       d="m 1314.8442,344.73083 v 12.8853"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1699)"
-       inkscape:export-filename="./schemGenPrez4.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <flowRoot
        xml:space="preserve"
        id="flowRoot6481"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1877,11 +1851,11 @@
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1219.5703,413.79209)"
+       transform="matrix(0.26458333,0,0,0.26458333,1449.3978,413.79209)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6491"
        xml:space="preserve"
-       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
          style="line-height:68.90000105%;text-align:end;text-anchor:end"
@@ -1895,8 +1869,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end"
          id="flowPara6489">Sélection d'emplacements intéressants à urbaniser traduisant des contraintes d'aménagement</flowPara></flowRoot>    <g
        id="g6499"
-       transform="translate(1442.93,344.41627)"
-       inkscape:export-filename="./schemGenPrez5.png"
+       transform="translate(1672.7575,344.41627)"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100">
       <rect
@@ -1922,8 +1896,8 @@
        xml:space="preserve"
        id="flowRoot6507"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,1219.5703,502.03556)"
-       inkscape:export-filename="./schemGenPrez5.png"
+       transform="matrix(0.26458333,0,0,0.26458333,1449.3978,502.03556)"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
          id="flowRegion6503"
@@ -1937,8 +1911,8 @@
          id="flowPara6505"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end">Simulation de bâtiments contraints par les règlements d'urbanisme sur certaines parcelles</flowPara></flowRoot>    <g
        id="g6515"
-       transform="translate(1440.0037,286.10851)"
-       inkscape:export-filename="./schemGenPrez5.png"
+       transform="translate(1669.8312,286.10851)"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100">
       <rect
@@ -1962,19 +1936,19 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8275)"
-       d="m 1543.1841,344.73083 0,18.67054"
+       d="m 1773.0116,344.73083 v 18.67054"
        id="path6525"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1219.5703,461.57149)"
+       transform="matrix(0.26458333,0,0,0.26458333,1449.3978,461.57149)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6533"
        xml:space="preserve"
-       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
          style="line-height:68.90000105%;text-align:end;text-anchor:end"
@@ -1988,8 +1962,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end"
          id="flowPara6531">Sélection (et recomposition) parcellaire</flowPara></flowRoot>    <g
        id="g6541"
-       transform="translate(1439.4777,328.24862)"
-       inkscape:export-filename="./schemGenPrez5.png"
+       transform="translate(1669.3052,328.24862)"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100">
       <rect
@@ -2012,11 +1986,11 @@
            sodipodi:role="line">Parcel Manager</tspan></text>
     </g>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,1321.8307,539.90257)"
+       transform="matrix(0.26458333,0,0,0.26458333,1551.6582,539.90257)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6549"
        xml:space="preserve"
-       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100"><flowRegion
          style="line-height:68.90000105%;text-align:center;text-anchor:middle"
@@ -2030,20 +2004,192 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
          id="flowPara6547">Simulation d'un nombre et d'un type de logement</flowPara></flowRoot>    <rect
        y="314.73419"
-       x="1395.1019"
+       x="1624.9294"
        height="153.21832"
        width="198.58881"
        id="rect6551"
        style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-filename="./schemGenPrez6.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path8733"
-       d="m 1543.1841,388.56062 v 18.67054"
+       d="m 1773.0116,388.56062 v 18.67054"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8737)"
+       inkscape:export-filename="./schemGenPrez6.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7251)"
+       d="m 1559.7111,416.41072 c 0.2916,3.85366 1.4611,-4.61159 1.61,28.11278"
+       id="path349"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       transform="matrix(0.26458333,0,0,0.26458333,1237.4209,413.79209)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot357"
+       xml:space="preserve"><flowRegion
+         style="line-height:68.90000105%;text-align:end;text-anchor:end"
+         id="flowRegion353"><rect
+           style="line-height:68.90000105%;text-align:end;text-anchor:end"
+           y="-353.19562"
+           x="662.0213"
+           height="163.04558"
+           width="348.58026"
+           id="rect351" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end"
+         id="flowPara355">Sélection d'emplacements intéressants à urbaniser traduisant des contraintes d'aménagement</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       id="g365"
+       transform="translate(1460.7807,344.41627)">
+      <rect
+         y="-23.799746"
+         x="56.622311"
+         height="23.841232"
+         width="87.26358"
+         id="rect359"
+         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49523842;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text363"
+         y="-9.1428614"
+         x="76.387337"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.26458335"
+           y="-9.1428614"
+           x="76.387337"
+           id="tspan361"
+           sodipodi:role="line">MUP-City</tspan></text>
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       xml:space="preserve"
+       id="flowRoot373"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,1237.4209,502.03556)"><flowRegion
+         id="flowRegion369"
+         style="line-height:68.90000105%;text-align:end;text-anchor:end"><rect
+           id="rect367"
+           width="348.58026"
+           height="163.04558"
+           x="662.0213"
+           y="-353.19562"
+           style="line-height:68.90000105%;text-align:end;text-anchor:end" /></flowRegion><flowPara
+         id="flowPara371"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;text-anchor:end">Simulation de bâtiments contraints par les règlements d'urbanisme sur certaines parcelles</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       id="g381"
+       transform="translate(1457.8544,286.10851)">
+      <rect
+         y="122.77491"
+         x="59.597431"
+         height="23.841232"
+         width="87.26358"
+         id="rect375"
+         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.49523842;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text379"
+         y="138.47049"
+         x="76.233452"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.26458335"
+           y="138.47049"
+           x="76.233452"
+           id="tspan377"
+           sodipodi:role="line">SimPLU3D</tspan></text>
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       xml:space="preserve"
+       id="flowRoot389"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,1340.2674,451.14453)"><flowRegion
+         id="flowRegion385"
+         style="line-height:68.90000105%"><rect
+           id="rect383"
+           width="348.58026"
+           height="163.04558"
+           x="662.0213"
+           y="-353.19562"
+           style="line-height:68.90000105%" /></flowRegion><flowPara
+         id="flowPara387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'">Cellules d'environ 20 mètres de côté</flowPara></flowRoot>    <path
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1699)"
+       d="m 1561.0348,344.73083 v 12.8853"
+       id="path391"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       transform="matrix(0.26458333,0,0,0.26458333,1339.6814,539.90257)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot399"
+       xml:space="preserve"><flowRegion
+         style="line-height:68.90000105%;text-align:center;text-anchor:middle"
+         id="flowRegion395"><rect
+           style="line-height:68.90000105%;text-align:center;text-anchor:middle"
+           y="-353.19562"
+           x="662.0213"
+           height="163.04558"
+           width="348.58026"
+           id="rect393" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+         id="flowPara397">Simulation d'un nombre et d'un type de logement</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemGenPrez5.png"
+       y="314.73419"
+       x="1412.9526"
+       height="153.21832"
+       width="198.58881"
+       id="rect401"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,1364.6587,480.33368)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:68.90000105%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot409"
+       xml:space="preserve"
+       inkscape:export-filename="./schemGenPrez5.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><flowRegion
+         style="line-height:68.90000105%"
+         id="flowRegion405"><rect
+           style="line-height:68.90000105%"
+           y="-353.19562"
+           x="662.0213"
+           height="163.04558"
+           width="348.58026"
+           id="rect403" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:68.90000105%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
+         id="flowPara407">Parcelle d'entrée</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path411"
+       d="m 1561.0348,394.7234 v 12.8853"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1699)"
        inkscape:export-filename="./schemGenPrez5.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
