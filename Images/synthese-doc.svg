@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.8872258"
-     inkscape:cx="430.22379"
-     inkscape:cy="252.6142"
+     inkscape:zoom="0.62736338"
+     inkscape:cx="468.44475"
+     inkscape:cy="172.61383"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -316,7 +316,7 @@
            style="font-size:19.40116692px;font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara4278"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Type des bâtiments</flowPara></flowRoot>    <g
-       transform="translate(113.59546,244.89258)"
+       transform="translate(113.59546,225.53032)"
        id="g4349">
       <g
          id="g1506">
@@ -558,5 +558,46 @@
              id="rect1039" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
            id="flowPara1045">Orientation du developpement résidentiel </flowPara></flowRoot>    </g>
+    <g
+       id="g995"
+       transform="translate(113.59546,253.11871)">
+      <g
+         id="g993">
+        <g
+           transform="translate(0.52833216,-12.15164)"
+           id="g991">
+          <flowRoot
+             style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot981"
+             xml:space="preserve"
+             transform="translate(109.3852,-177.10896)"><flowRegion
+               style="line-height:1;font-family:sans-serif"
+               id="flowRegion977"><rect
+                 style="font-size:19.40116692px;line-height:1;font-family:sans-serif"
+                 y="665.5946"
+                 x="16.203072"
+                 height="79.937988"
+                 width="183.64825"
+                 id="rect975" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.49999619px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
+               id="flowPara979">Trames <flowSpan
+   style="font-weight:normal;font-size:22.49999619px"
+   id="flowSpan997">vertes et bleues</flowSpan></flowPara></flowRoot>          <flowRoot
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot989"
+             xml:space="preserve"
+             transform="translate(136.003,-131.23618)"><flowRegion
+               style="font-family:sans-serif"
+               id="flowRegion985"><rect
+                 style="font-size:19.40116692px;font-family:sans-serif"
+                 y="665.5946"
+                 x="16.203072"
+                 height="35.165054"
+                 width="122.14862"
+                 id="rect983" /></flowRegion><flowPara
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
+               id="flowPara987" /></flowRoot>        </g>
+      </g>
+    </g>
   </g>
 </svg>
