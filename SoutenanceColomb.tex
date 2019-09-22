@@ -468,7 +468,8 @@
 
 \begin{frame}{MUP-City : intensité du développement résidentiel}
 \vspace{1cm}
-\centering{\includegraphics[width=11.5cm]{Images/MUP/Intens.png}}
+\centering{\includegraphics[width=11.5cm]{Images/MUP/Intens.png}\\
+	\includegraphics[width=4cm]{Images/MUP/legend.png}}
 \\
 {\footnotesize Exemples d'un scénario peu dense et d'un scénario modérément dense} %TODO ajouter légende
 \end{frame}
@@ -477,7 +478,8 @@
 
 \begin{frame}{MUP-City : uniformité du développement résidentiel}
 \vspace{1cm}
-\centering{\includegraphics[width=11.5cm]{Images/MUP/Unif.png}}
+\centering{\includegraphics[width=11.5cm]{Images/MUP/Unif.png}\\
+	\includegraphics[width=4cm]{Images/MUP/legend.png}}}
 \\
 {\footnotesize Exemples d'un scénario uniforme et d'un scénario contrasté}%TODO ajouter légende
 \end{frame}
@@ -495,7 +497,7 @@
 
 \begin{frame}{MUP-City : caractère extensif ou non de l'extension résidentielle}
 \vspace{1cm}
-\centering{\includegraphics[width=9cm]{Images/MUP/Ahp.png}} %TODO changer l'image + légende
+\centering{\includegraphics[width=12cm]{Images/MUP/illuYagMoy.png}} %TODO changer l'image + légende
 %\centering{\includegraphics[width=11.5cm]{Images/MUP/Agreg.png}}
 
 {\footnotesize exemple de différentes agrégations des règles additionnelles d'aménagement, résultant en un scénario sélectionnant des cellules uniformément intéressantes à urbaniser ou non}
@@ -688,7 +690,7 @@ Pour ces quatre simulations~:
 	{\footnotesize \caption{Comparaison de la moyenne communale des densités nettes de logements par hectare entre le diagnostic du SCoT et les simulations d'ArtiScales}}	
 	\tiny 
 	\begin{center}
-		\begin{tabular}{m{2.5cm}m{1.5cm}m{1.3cm}m{1cm}m{1cm}m{1cm}m{1cm}}
+		\begin{tabular}{m{2.4cm}m{1.2cm}m{0.9cm}m{1cm}m{1cm}m{1cm}m{1cm}}
 			\rowcolor[gray]{0.8}
 			\multicolumn{3}{c}{Densité moyenne simulée pour le scénario~:}&\multicolumn{2}{c}{\textbf{étalement ciblé}} &\multicolumn{2}{c}{\textbf{intensification}}\\
 			
@@ -696,14 +698,15 @@ Pour ces quatre simulations~:
 			Typologie de l'armature &
 			Densité moyenne fixée par le SCoT &
 			Densité moyenne observée&
-			paramétrage \textit{dense} & paramétrage \textit{modérément dense}& paramétrage \textit{dense} & paramétrage \textit{modérément dense} \\ \hline
+			\cellcolor[gray]{0.8}paramétrage \textit{dense} & \cellcolor[gray]{0.8}paramétrage \textit{modérément dense}& \cellcolor[gray]{0.8}paramétrage \textit{dense} & \cellcolor[gray]{0.8}paramétrage \textit{modérément dense} \\ \hline
 			
 			Ville centre&50&60&45&56&49&57\\ \hline
 			\rowcolor[gray]{0.9}Communes périphériques&23&21&22&16&23&17\\ \hline
 			Communes relais &20&20&21&16&21&16\\ \hline
 			\rowcolor[gray]{0.9}Communes équipées&15&12&16&14&17&15\\ \hline
 			Halte ferroviaire&20&18&43&17&26&16 \\ \hline
-			\rowcolor[gray]{0.9}Commune hors armature&13&13&18&15&19&16\\ \hline
+			\rowcolor[gray]{0.9}Commune hors armature&13&13&18&15&19&16
+			\\ \hline
 		\end{tabular}
 	\end{center}
 \end{table}
@@ -746,7 +749,6 @@ Variantes serait un moyen de proposer des scénarios qui seraient ok?
 \\
 Extrapolation du parcel manager
 \end{frame}
-
 \section{Utilisation thématique des résultats d'ArtiScales}
 
 \begin{frame}{Compatibilité entre les documents}
@@ -772,8 +774,15 @@ Extrapolation du parcel manager
 \end{frame}
 
 \begin{frame}{Possibilité de génération automatique de Cartes Communales}
-%TODO repomper la diap des conclu qui a disparu
-reprendre la diap perdue
+Certaines communes n'ont pas de zonages et leur génération pourrait être automatisée~:
+\begin{itemize}
+	\item<2-> enveloppe des parcelles urbanisées
+	\item<3-> ajout des parcelles les plus intéressantes à urbaniser, tout en 
+	\begin{itemize}
+			\item<4-> respectant les densités objectives et des objectifs de création de logements
+			\item<5-> certifiant un certain non-étalement urbain
+	\end{itemize} 
+\end{itemize}
 \end{frame}
 
 
