@@ -16,9 +16,9 @@
    inkscape:export-filename="./schemCompatibleResult-prez2.png"
    id="svg7489"
    version="1.1"
-   viewBox="0 0 231.33691 194.55782"
-   height="194.5578mm"
-   width="231.3369mm">
+   viewBox="0 0 236.97149 143.61819"
+   height="143.61818mm"
+   width="236.97148mm">
   <sodipodi:namedview
      inkscape:measure-end="82.4116,483.792"
      inkscape:measure-start="84.0227,96.8004"
@@ -34,8 +34,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="556.92125"
-     inkscape:cx="370.65149"
+     inkscape:cy="403.10201"
+     inkscape:cx="484.25775"
      inkscape:zoom="0.48909148"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -45,6 +45,81 @@
      id="base" />
   <defs
      id="defs7483">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2787"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2785"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2081"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2079" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1933"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1931"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1472"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1470"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1222"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1220"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
@@ -61,29 +136,14 @@
          inkscape:connector-curvature="0" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker1381"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:collect="always">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1379" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
        refX="0"
        id="Arrow1Lend"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path2120"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
@@ -154,44 +214,14 @@
          id="path8348" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker7358"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path7356" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker6358"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:collect="always">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path6356" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
        refY="0"
        refX="0"
        id="marker3848"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path3846"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
@@ -202,7 +232,7 @@
     <inkscape:perspective
        id="perspective6543"
        inkscape:persp3d-origin="130.99588 : 61.397756 : 1"
-       inkscape:vp_z="261.99177 : 92.096636 : 1"
+       inkscape:vp_z="261.99176 : 92.096636 : 1"
        inkscape:vp_y="0 : 999.99994 : 0"
        inkscape:vp_x="0 : 92.096636 : 1"
        sodipodi:type="inkscape:persp3d" />
@@ -220,22 +250,6 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path5842" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker7806"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path7804"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:isstock="true"
@@ -351,669 +365,48 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-109.83064,-631.14307)"
+     transform="translate(-109.83064,-682.08269)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7806)"
-       d="m 192.73854,235.94734 16.8269,11.80498"
-       id="path7802"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5141-6"
-       width="61.536041"
-       height="31.092726"
-       x="131.69006"
-       y="204.56064" />
-    <g
-       id="g5379-7"
-       transform="matrix(0.53764848,0,0,0.53764848,81.317962,159.08403)">
-      <g
-         id="g5442-5">
-        <g
-           id="g5377-9"
-           transform="matrix(0.41057703,0,0,0.41057703,137.36764,117.24539)">
-          <path
-             inkscape:connector-curvature="0"
-             d="M 54,17.1 H 30.6 L 23.4,11.7 C 23.2,11.6 23,11.5 22.8,11.5 H 12 c -2.8,0 -5,2.2 -5,5 v 32.9 c 0,2.8 2.2,5 5,5 h 42 c 2.8,0 5,-2.2 5,-5 V 22.1 c 0,-2.7 -2.2,-5 -5,-5 z m 3,32.4 c 0,1.7 -1.3,3 -3,3 H 12 c -1.7,0 -3,-1.3 -3,-3 v -20 H 57 Z M 57,27.4 H 9 V 16.5 c 0,-1.7 1.3,-3 3,-3 h 10.5 l 7.2,5.4 c 0.2,0.1 0.4,0.2 0.6,0.2 H 54 c 1.7,0 3,1.3 3,3 z"
-             id="path5375-2" />
-        </g>
-      </g>
-    </g>
-    <g
-       transform="translate(0.248426,-46.378809)"
-       id="g2198">
-      <g
-         id="g2242">
-        <g
-           id="g3355">
-          <text
-             id="text1407-3"
-             y="252.59386"
-             x="161.92027"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="252.59386"
-               x="161.92027"
-               sodipodi:role="line"
-               id="tspan2172"> </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="259.59384"
-               x="162.89868"
-               sodipodi:role="line"
-               id="tspan987">Bâtiments simulés </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="266.59384"
-               x="162.89868"
-               sodipodi:role="line"
-               id="tspan1405-7"><tspan
-   id="tspan3713"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">par </tspan>SimPLU3D </tspan></text>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g6884">
-      <g
-         transform="translate(-33.402529,19.980313)"
-         id="g3737">
-        <rect
-           y="164.32236"
-           x="224.37831"
-           height="31.092716"
-           width="66.771561"
-           id="rect1104"
-           style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <g
-           id="g1122"
-           transform="translate(122.11956,-79.967228)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-             x="135.34825"
-             y="252.59386"
-             id="text1120"><tspan
-               id="tspan1118"
-               sodipodi:role="line"
-               x="136.32666"
-               y="252.59386"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">Objectif de création </tspan><tspan
-               sodipodi:role="line"
-               x="135.34825"
-               y="259.59387"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               id="tspan2105">de logements</tspan></text>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.61213449,0,0,0.61213449,13.152009,30.128454)"
-         id="g2203">
-        <path
-           id="path2189"
-           d="m 351.03348,286.85947 -2.53202,-2.58174 c -0.2964,-0.30222 -0.8362,-0.53013 -1.25496,-0.53013 h -0.55217 -1.76694 -4.85907 c -0.85233,0 -1.54607,0.70737 -1.54607,1.57643 v 13.51222 c 0,0.86906 0.69374,1.57642 1.54607,1.57642 h 9.93902 c 0.85232,0 1.54606,-0.70736 1.54606,-1.57642 v -6.75611 -3.37806 -0.56301 c 0,-0.42721 -0.22351,-0.97738 -0.51992,-1.2796 z m -0.98595,0.26821 c -0.0137,-2.2e-4 -0.0265,-0.002 -0.0402,-0.002 H 348.903 c -0.36531,0 -0.6626,-0.30313 -0.6626,-0.67561 v -1.12602 c 0,-0.014 -0.002,-0.027 -0.002,-0.0408 z m 0.62241,11.70857 c 0,0.37248 -0.29729,0.67561 -0.6626,0.67561 h -9.93902 c -0.36532,0 -0.6626,-0.30313 -0.6626,-0.67561 v -13.51222 c 0,-0.37249 0.29728,-0.67561 0.6626,-0.67561 h 4.85907 1.76694 c 0.36531,0 0.6626,0.30312 0.6626,0.67561 v 1.12602 c 0,0.86906 0.69374,1.57642 1.54607,1.57642 h 1.10434 c 0.36531,0 0.6626,0.30313 0.6626,0.67561 v 3.37806 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke-width:0.22302482" />
-        <g
-           id="g2201">
-          <rect
-             y="293.6698"
-             x="341.41025"
-             height="1.8232981"
-             width="7.0722556"
-             id="rect2191"
-             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.50953126;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-          <flowRoot
-             transform="matrix(0.26458332,0,0,0.26458332,23.920013,228.22138)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot2199"
-             xml:space="preserve"><flowRegion
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-               id="flowRegion2195"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-                 y="241.86035"
-                 x="1199.7596"
-                 height="53.755112"
-                 width="326.88553"
-                 id="rect2193" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Bold'"
-               id="flowPara2197">CSV</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <g
-       id="g6902">
-      <g
-         transform="translate(0.52916667)"
-         id="g3746">
-        <rect
-           style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect3614"
-           width="74.726097"
-           height="31.092707"
-           x="255.2383"
-           y="204.9933" />
-        <g
-           transform="translate(152.38517,-39.441574)"
-           id="g3626">
-          <g
-             id="g3624">
-            <g
-               id="g3622">
-              <text
-                 id="text3620"
-                 y="252.59386"
-                 x="140.03703"
-                 style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-                 xml:space="preserve"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-                   y="252.59386"
-                   x="141.01544"
-                   sodipodi:role="line"
-                   id="tspan3630">Cellules sélectionnées </tspan><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-                   y="259.59387"
-                   x="140.03703"
-                   sodipodi:role="line"
-                   id="tspan3632">par MUP-City</tspan></text>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.13055189,0,0,0.13311518,238.28215,153.53866)"
-         id="g2031">
-        <path
-           id="path2017"
-           d="m 447.27292,546.46089 -11.464,-11.464 c -1.342,-1.342 -3.786,-2.354 -5.682,-2.354 h -2.5 -8 -22 c -3.859,0 -7,3.141 -7,7 v 60 c 0,3.859 3.141,7 7,7 h 45 c 3.859,0 7,-3.141 7,-7 v -30 -15 -2.5 c 0,-1.897 -1.012,-4.34 -2.354,-5.682 z m -4.464,1.191 c -0.062,-10e-4 -0.12,-0.009 -0.182,-0.009 h -5 c -1.654,0 -3,-1.346 -3,-3 v -5 c 0,-0.062 -0.008,-0.12 -0.009,-0.181 z m 2.818,51.991 c 0,1.654 -1.346,3 -3,3 h -45 c -1.654,0 -3,-1.346 -3,-3 v -60 c 0,-1.654 1.346,-3 3,-3 h 22 8 c 1.654,0 3,1.346 3,3 v 5 c 0,3.859 3.141,7 7,7 h 5 c 1.654,0 3,1.346 3,3 v 15 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000" />
-        <g
-           id="g2029">
-          <rect
-             y="576.70172"
-             x="403.70264"
-             height="8.09622"
-             width="32.020416"
-             id="rect2019"
-             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:11.25225163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-          <flowRoot
-             transform="matrix(1.1979301,0,0,1.1748626,-1033.7693,286.08281)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot2027"
-             xml:space="preserve"><flowRegion
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-               id="flowRegion2023"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-                 y="241.86035"
-                 x="1199.7596"
-                 height="53.755112"
-                 width="326.88553"
-                 id="rect2021" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Bold'"
-               id="flowPara2025">SHP</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path6354"
-       d="m 255.53416,235.94734 -16.8269,11.80498"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6358)" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path7354"
-       d="m 224.24836,215.35951 0.0789,31.81903"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7358)" />
-    <g
-       id="g1187">
-      <rect
-         y="248.4762"
-         x="191.4409"
-         height="27.67918"
-         width="65.865097"
-         id="rect3126-2"
-         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         inkscape:transform-center-y="33.269597"
-         inkscape:transform-center-x="2.9753298"
-         xml:space="preserve"
-         id="flowRoot1174"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"><flowRegion
-           id="flowRegion1170"
-           style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
-             id="rect1168"
-             width="237.88727"
-             height="98.141304"
-             x="928.76288"
-             y="581.99097"
-             style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara1172"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Comparaison de </flowPara><flowPara
-           id="flowPara1176"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">l'estimation et de l'objectif de </flowPara><flowPara
-           id="flowPara1178"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">création de logements </flowPara></flowRoot>    </g>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path1189"
-       d="m 192.73854,453.95785 16.8269,11.80498"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1381)" />
-    <rect
-       style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1191"
-       width="68.245712"
-       height="20.574379"
-       x="135.77339"
-       y="525.8288" />
-    <g
-       id="g1201"
-       transform="translate(52.47581,422.77685)">
-      <text
-         id="text1199"
-         y="110.38963"
-         x="117.18893"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-           y="110.38963"
-           x="117.97165"
-           sodipodi:role="line"
-           id="tspan1193">Désélection des batiments </tspan><tspan
-           id="tspan1195"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-           y="115.38963"
-           x="117.97165"
-           sodipodi:role="line">sur les cellules les </tspan><tspan
-           id="tspan1197"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-           y="120.38963"
-           x="117.18893"
-           sodipodi:role="line">moins biens évaluées</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-       x="167.37198"
-       y="506.27283"
-       id="text1213"><tspan
-         sodipodi:role="line"
-         x="168.25255"
-         y="506.27283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan1209">nombre de logements </tspan><tspan
-         sodipodi:role="line"
-         x="167.37198"
-         y="513.43335"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan1211">simulés &gt; objectifs</tspan></text>
-    <rect
-       y="422.57114"
-       x="131.69006"
-       height="31.092726"
-       width="61.536041"
-       id="rect1241"
-       style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       transform="matrix(0.53764848,0,0,0.53764848,81.317962,377.09454)"
-       id="g1249">
-      <g
-         id="g1247">
-        <g
-           transform="matrix(0.41057703,0,0,0.41057703,137.36764,117.24539)"
-           id="g1245">
-          <path
-             id="path1243"
-             d="M 54,17.1 H 30.6 L 23.4,11.7 C 23.2,11.6 23,11.5 22.8,11.5 H 12 c -2.8,0 -5,2.2 -5,5 v 32.9 c 0,2.8 2.2,5 5,5 h 42 c 2.8,0 5,-2.2 5,-5 V 22.1 c 0,-2.7 -2.2,-5 -5,-5 z m 3,32.4 c 0,1.7 -1.3,3 -3,3 H 12 c -1.7,0 -3,-1.3 -3,-3 v -20 H 57 Z M 57,27.4 H 9 V 16.5 c 0,-1.7 1.3,-3 3,-3 h 10.5 l 7.2,5.4 c 0.2,0.1 0.4,0.2 0.6,0.2 H 54 c 1.7,0 3,1.3 3,3 z"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g1265"
-       transform="translate(0.248426,171.6317)">
-      <g
-         id="g1263">
-        <g
-           id="g1261">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-             x="161.92027"
-             y="252.59386"
-             id="text1259"><tspan
-               id="tspan1251"
-               sodipodi:role="line"
-               x="161.92027"
-               y="252.59386"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke-width:0.26458338"> </tspan><tspan
-               id="tspan1253"
-               sodipodi:role="line"
-               x="162.89868"
-               y="259.59384"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">Bâtiments simulés </tspan><tspan
-               id="tspan1257"
-               sodipodi:role="line"
-               x="162.89868"
-               y="266.59384"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-   id="tspan1255">par </tspan>SimPLU3D </tspan></text>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g1295"
-       transform="translate(0,218.01051)">
-      <g
-         id="g1277"
-         transform="translate(-33.402529,19.980313)">
-        <rect
-           style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1267"
-           width="66.771561"
-           height="31.092716"
-           x="224.37831"
-           y="164.32236" />
-        <g
-           transform="translate(122.11956,-79.967228)"
-           id="g1275">
-          <text
-             id="text1273"
-             y="252.59386"
-             x="135.34825"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="252.59386"
-               x="136.32666"
-               sodipodi:role="line"
-               id="tspan1269">Objectif de création </tspan><tspan
-               id="tspan1271"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="259.59387"
-               x="135.34825"
-               sodipodi:role="line">de logements</tspan></text>
-        </g>
-      </g>
-      <g
-         id="g1293"
-         transform="matrix(0.61213449,0,0,0.61213449,13.152009,30.128454)">
-        <path
-           style="fill:#000000;stroke-width:0.22302482"
-           inkscape:connector-curvature="0"
-           d="m 351.03348,286.85947 -2.53202,-2.58174 c -0.2964,-0.30222 -0.8362,-0.53013 -1.25496,-0.53013 h -0.55217 -1.76694 -4.85907 c -0.85233,0 -1.54607,0.70737 -1.54607,1.57643 v 13.51222 c 0,0.86906 0.69374,1.57642 1.54607,1.57642 h 9.93902 c 0.85232,0 1.54606,-0.70736 1.54606,-1.57642 v -6.75611 -3.37806 -0.56301 c 0,-0.42721 -0.22351,-0.97738 -0.51992,-1.2796 z m -0.98595,0.26821 c -0.0137,-2.2e-4 -0.0265,-0.002 -0.0402,-0.002 H 348.903 c -0.36531,0 -0.6626,-0.30313 -0.6626,-0.67561 v -1.12602 c 0,-0.014 -0.002,-0.027 -0.002,-0.0408 z m 0.62241,11.70857 c 0,0.37248 -0.29729,0.67561 -0.6626,0.67561 h -9.93902 c -0.36532,0 -0.6626,-0.30313 -0.6626,-0.67561 v -13.51222 c 0,-0.37249 0.29728,-0.67561 0.6626,-0.67561 h 4.85907 1.76694 c 0.36531,0 0.6626,0.30312 0.6626,0.67561 v 1.12602 c 0,0.86906 0.69374,1.57642 1.54607,1.57642 h 1.10434 c 0.36531,0 0.6626,0.30313 0.6626,0.67561 v 3.37806 z"
-           id="path1279" />
-        <g
-           id="g1291">
-          <rect
-             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.50953126;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-             id="rect1281"
-             width="7.0722556"
-             height="1.8232981"
-             x="341.41025"
-             y="293.6698" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot1289"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="matrix(0.26458332,0,0,0.26458332,23.920013,228.22138)"><flowRegion
-               id="flowRegion1285"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"><rect
-                 id="rect1283"
-                 width="326.88553"
-                 height="53.755112"
-                 x="1199.7596"
-                 y="241.86035"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-               id="flowPara1287"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Bold'">CSV</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <g
-       id="g1329"
-       transform="translate(0,218.01051)">
-      <g
-         id="g1311"
-         transform="translate(0.52916667)">
-        <rect
-           y="204.9933"
-           x="255.2383"
-           height="31.092707"
-           width="74.726097"
-           id="rect1297"
-           style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <g
-           id="g1309"
-           transform="translate(152.38517,-39.441574)">
-          <g
-             id="g1307">
-            <g
-               id="g1305">
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-                 x="140.03703"
-                 y="252.59386"
-                 id="text1303"><tspan
-                   id="tspan1299"
-                   sodipodi:role="line"
-                   x="141.01544"
-                   y="252.59386"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">Cellules sélectionnées </tspan><tspan
-                   id="tspan1301"
-                   sodipodi:role="line"
-                   x="140.03703"
-                   y="259.59387"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">par MUP-City</tspan></text>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         id="g1327"
-         transform="matrix(0.13055189,0,0,0.13311518,238.28215,153.53866)">
-        <path
-           style="fill:#000000"
-           inkscape:connector-curvature="0"
-           d="m 447.27292,546.46089 -11.464,-11.464 c -1.342,-1.342 -3.786,-2.354 -5.682,-2.354 h -2.5 -8 -22 c -3.859,0 -7,3.141 -7,7 v 60 c 0,3.859 3.141,7 7,7 h 45 c 3.859,0 7,-3.141 7,-7 v -30 -15 -2.5 c 0,-1.897 -1.012,-4.34 -2.354,-5.682 z m -4.464,1.191 c -0.062,-10e-4 -0.12,-0.009 -0.182,-0.009 h -5 c -1.654,0 -3,-1.346 -3,-3 v -5 c 0,-0.062 -0.008,-0.12 -0.009,-0.181 z m 2.818,51.991 c 0,1.654 -1.346,3 -3,3 h -45 c -1.654,0 -3,-1.346 -3,-3 v -60 c 0,-1.654 1.346,-3 3,-3 h 22 8 c 1.654,0 3,1.346 3,3 v 5 c 0,3.859 3.141,7 7,7 h 5 c 1.654,0 3,1.346 3,3 v 15 z"
-           id="path1313" />
-        <g
-           id="g1325">
-          <rect
-             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:11.25225163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-             id="rect1315"
-             width="32.020416"
-             height="8.09622"
-             x="403.70264"
-             y="576.70172" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot1323"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="matrix(1.1979301,0,0,1.1748626,-1033.7693,286.08281)"><flowRegion
-               id="flowRegion1319"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"><rect
-                 id="rect1317"
-                 width="326.88553"
-                 height="53.755112"
-                 x="1199.7596"
-                 y="241.86035"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-               id="flowPara1321"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Bold'">SHP</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6358)"
-       d="m 255.53416,453.95785 -16.8269,11.80498"
-       id="path1331"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7358)"
-       d="m 224.24836,433.37002 0.0789,31.81903"
-       id="path1333"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)"
-       d="M 202.60151,494.21653 196.736,524.70384"
-       id="path1335"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="csc"
-       inkscape:connector-curvature="0"
-       id="path1339"
-       d="m 170.16367,546.68026 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-       x="146.40929"
-       y="562.83881"
-       id="text1345"><tspan
-         sodipodi:role="line"
-         x="147.19202"
-         y="562.83881"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         id="tspan1341">Tant que nombre de </tspan><tspan
-         sodipodi:role="line"
-         x="146.40929"
-         y="567.83881"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         id="tspan1343">logements simulés &gt; objectifs</tspan></text>
-    <g
-       id="g1377"
-       transform="translate(0,218.01051)">
-      <rect
-         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1363"
-         width="65.865097"
-         height="27.67918"
-         x="191.4409"
-         y="248.4762" />
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot1375"
-         xml:space="preserve"
-         inkscape:transform-center-x="2.9753298"
-         inkscape:transform-center-y="33.269597"><flowRegion
-           style="line-height:51.20000243%;text-align:center;text-anchor:middle"
-           id="flowRegion1367"><rect
-             style="line-height:51.20000243%;text-align:center;text-anchor:middle"
-             y="581.99097"
-             x="928.76288"
-             height="98.141304"
-             width="237.88727"
-             id="rect1365" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
-           id="flowPara1369">Comparaison de </flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
-           id="flowPara1371">l'estimation et de l'objectif de </flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
-           id="flowPara1373">création de logements </flowPara></flowRoot>    </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1713)"
-       d="m 192.73854,682.78774 16.8269,11.80498"
-       id="path1521"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <rect
-       y="754.65869"
-       x="135.77339"
-       height="20.574379"
-       width="68.245712"
-       id="rect1523"
-       style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       transform="translate(52.47581,651.60674)"
-       id="g1533">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-         x="117.18893"
-         y="110.38963"
-         id="text1531"><tspan
-           id="tspan1525"
-           sodipodi:role="line"
-           x="117.97165"
-           y="110.38963"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335">Désélection des batiments </tspan><tspan
-           sodipodi:role="line"
-           x="117.97165"
-           y="115.38963"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-           id="tspan1527">sur les cellules les </tspan><tspan
-           sodipodi:role="line"
-           x="117.18893"
-           y="120.38963"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-           id="tspan1529">moins biens évaluées</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-       x="336.0997"
-       y="741.07623"
-       id="text1537"><tspan
-         sodipodi:role="line"
-         x="336.8335"
-         y="741.07623"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166842px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         id="tspan1535"> </tspan></text>
-    <path
        inkscape:connector-curvature="0"
        id="path1539"
        d="m 296.51616,757.88808 h -5.22548"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3848)" />
-    <text
-       id="text1545"
-       y="735.10272"
-       x="167.37198"
-       style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-       xml:space="preserve"><tspan
-         id="tspan1541"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         y="735.10272"
-         x="168.25255"
-         sodipodi:role="line">nombre de logements </tspan><tspan
-         id="tspan1543"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         y="742.26324"
-         x="167.37198"
-         sodipodi:role="line">simulés &gt; objectifs</tspan></text>
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3848)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        x="279.48605"
        y="730.77496"
-       id="text1551"><tspan
+       id="text1551"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
          sodipodi:role="line"
-         x="279.48605"
+         x="280.36661"
          y="730.77496"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.32354164px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan1547">objectifs &gt; nombre de</tspan><tspan
+         id="tspan1549">objectifs &gt; </tspan><tspan
          sodipodi:role="line"
          x="279.48605"
          y="737.09851"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.32354164px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan1549">logements simulés</tspan></text>
+         id="tspan2349">logements simulés</tspan></text>
     <g
        id="g1561"
-       transform="translate(-70.092492,429.53362)">
+       transform="translate(-70.092492,429.53362)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <rect
          y="313.07117"
          x="301.1431"
@@ -1040,7 +433,10 @@
     </g>
     <g
        id="g1569"
-       transform="translate(-65.967102,418.42111)">
+       transform="translate(-65.967102,418.42111)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <rect
          y="363.6311"
          x="297.01773"
@@ -1065,245 +461,51 @@
        inkscape:connector-curvature="0"
        id="path1571"
        d="m 260.78422,772.50501 v 9.05149"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7806-3)" />
-    <rect
-       style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1573"
-       width="61.536041"
-       height="31.092726"
-       x="131.69006"
-       y="651.401" />
-    <g
-       id="g1581"
-       transform="matrix(0.53764848,0,0,0.53764848,81.317962,605.92443)">
-      <g
-         id="g1579">
-        <g
-           id="g1577"
-           transform="matrix(0.41057703,0,0,0.41057703,137.36764,117.24539)">
-          <path
-             inkscape:connector-curvature="0"
-             d="M 54,17.1 H 30.6 L 23.4,11.7 C 23.2,11.6 23,11.5 22.8,11.5 H 12 c -2.8,0 -5,2.2 -5,5 v 32.9 c 0,2.8 2.2,5 5,5 h 42 c 2.8,0 5,-2.2 5,-5 V 22.1 c 0,-2.7 -2.2,-5 -5,-5 z m 3,32.4 c 0,1.7 -1.3,3 -3,3 H 12 c -1.7,0 -3,-1.3 -3,-3 v -20 H 57 Z M 57,27.4 H 9 V 16.5 c 0,-1.7 1.3,-3 3,-3 h 10.5 l 7.2,5.4 c 0.2,0.1 0.4,0.2 0.6,0.2 H 54 c 1.7,0 3,1.3 3,3 z"
-             id="path1575" />
-        </g>
-      </g>
-    </g>
-    <g
-       transform="translate(0.248426,400.46159)"
-       id="g1597">
-      <g
-         id="g1595">
-        <g
-           id="g1593">
-          <text
-             id="text1591"
-             y="252.59386"
-             x="161.92027"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="252.59386"
-               x="161.92027"
-               sodipodi:role="line"
-               id="tspan1583"> </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="259.59384"
-               x="162.89868"
-               sodipodi:role="line"
-               id="tspan1585">Bâtiments simulés </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               y="266.59384"
-               x="162.89868"
-               sodipodi:role="line"
-               id="tspan1589"><tspan
-   id="tspan1587"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">par </tspan>SimPLU3D </tspan></text>
-        </g>
-      </g>
-    </g>
-    <g
-       transform="translate(0,446.8404)"
-       id="g1627">
-      <g
-         transform="translate(-33.402529,19.980313)"
-         id="g1609">
-        <rect
-           y="164.32236"
-           x="224.37831"
-           height="31.092716"
-           width="66.771561"
-           id="rect1599"
-           style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <g
-           id="g1607"
-           transform="translate(122.11956,-79.967228)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-             x="135.34825"
-             y="252.59386"
-             id="text1605"><tspan
-               id="tspan1601"
-               sodipodi:role="line"
-               x="136.32666"
-               y="252.59386"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338">Objectif de création </tspan><tspan
-               sodipodi:role="line"
-               x="135.34825"
-               y="259.59387"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-               id="tspan1603">de logements</tspan></text>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.61213449,0,0,0.61213449,13.152009,30.128454)"
-         id="g1625">
-        <path
-           id="path1611"
-           d="m 351.03348,286.85947 -2.53202,-2.58174 c -0.2964,-0.30222 -0.8362,-0.53013 -1.25496,-0.53013 h -0.55217 -1.76694 -4.85907 c -0.85233,0 -1.54607,0.70737 -1.54607,1.57643 v 13.51222 c 0,0.86906 0.69374,1.57642 1.54607,1.57642 h 9.93902 c 0.85232,0 1.54606,-0.70736 1.54606,-1.57642 v -6.75611 -3.37806 -0.56301 c 0,-0.42721 -0.22351,-0.97738 -0.51992,-1.2796 z m -0.98595,0.26821 c -0.0137,-2.2e-4 -0.0265,-0.002 -0.0402,-0.002 H 348.903 c -0.36531,0 -0.6626,-0.30313 -0.6626,-0.67561 v -1.12602 c 0,-0.014 -0.002,-0.027 -0.002,-0.0408 z m 0.62241,11.70857 c 0,0.37248 -0.29729,0.67561 -0.6626,0.67561 h -9.93902 c -0.36532,0 -0.6626,-0.30313 -0.6626,-0.67561 v -13.51222 c 0,-0.37249 0.29728,-0.67561 0.6626,-0.67561 h 4.85907 1.76694 c 0.36531,0 0.6626,0.30312 0.6626,0.67561 v 1.12602 c 0,0.86906 0.69374,1.57642 1.54607,1.57642 h 1.10434 c 0.36531,0 0.6626,0.30313 0.6626,0.67561 v 3.37806 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke-width:0.22302482" />
-        <g
-           id="g1623">
-          <rect
-             y="293.6698"
-             x="341.41025"
-             height="1.8232981"
-             width="7.0722556"
-             id="rect1613"
-             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.50953126;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-          <flowRoot
-             transform="matrix(0.26458332,0,0,0.26458332,23.920013,228.22138)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot1621"
-             xml:space="preserve"><flowRegion
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-               id="flowRegion1617"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-                 y="241.86035"
-                 x="1199.7596"
-                 height="53.755112"
-                 width="326.88553"
-                 id="rect1615" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Bold'"
-               id="flowPara1619">CSV</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <g
-       transform="translate(0,446.8404)"
-       id="g1661">
-      <g
-         transform="translate(0.52916667)"
-         id="g1643">
-        <rect
-           style="opacity:1;fill:#6d6d6d;fill-opacity:0.23188405;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1629"
-           width="74.726097"
-           height="31.092707"
-           x="255.2383"
-           y="204.9933" />
-        <g
-           transform="translate(152.38517,-39.441574)"
-           id="g1641">
-          <g
-             id="g1639">
-            <g
-               id="g1637">
-              <text
-                 id="text1635"
-                 y="252.59386"
-                 x="140.03703"
-                 style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-                 xml:space="preserve"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-                   y="252.59386"
-                   x="141.01544"
-                   sodipodi:role="line"
-                   id="tspan1631">Cellules sélectionnées </tspan><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555487px;line-height:7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-                   y="259.59387"
-                   x="140.03703"
-                   sodipodi:role="line"
-                   id="tspan1633">par MUP-City</tspan></text>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="matrix(0.13055189,0,0,0.13311518,238.28215,153.53866)"
-         id="g1659">
-        <path
-           id="path1645"
-           d="m 447.27292,546.46089 -11.464,-11.464 c -1.342,-1.342 -3.786,-2.354 -5.682,-2.354 h -2.5 -8 -22 c -3.859,0 -7,3.141 -7,7 v 60 c 0,3.859 3.141,7 7,7 h 45 c 3.859,0 7,-3.141 7,-7 v -30 -15 -2.5 c 0,-1.897 -1.012,-4.34 -2.354,-5.682 z m -4.464,1.191 c -0.062,-10e-4 -0.12,-0.009 -0.182,-0.009 h -5 c -1.654,0 -3,-1.346 -3,-3 v -5 c 0,-0.062 -0.008,-0.12 -0.009,-0.181 z m 2.818,51.991 c 0,1.654 -1.346,3 -3,3 h -45 c -1.654,0 -3,-1.346 -3,-3 v -60 c 0,-1.654 1.346,-3 3,-3 h 22 8 c 1.654,0 3,1.346 3,3 v 5 c 0,3.859 3.141,7 7,7 h 5 c 1.654,0 3,1.346 3,3 v 15 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000" />
-        <g
-           id="g1657">
-          <rect
-             y="576.70172"
-             x="403.70264"
-             height="8.09622"
-             width="32.020416"
-             id="rect1647"
-             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:11.25225163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-          <flowRoot
-             transform="matrix(1.1979301,0,0,1.1748626,-1033.7693,286.08281)"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot1655"
-             xml:space="preserve"><flowRegion
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-               id="flowRegion1651"><rect
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1"
-                 y="241.86035"
-                 x="1199.7596"
-                 height="53.755112"
-                 width="326.88553"
-                 id="rect1649" /></flowRegion><flowPara
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Bold'"
-               id="flowPara1653">SHP</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path1663"
-       d="m 255.53416,682.78774 -16.8269,11.80498"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6358)" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path1665"
-       d="m 224.24836,662.19991 0.0789,31.81903"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7358)" />
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7806-3)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1667"
        d="M 202.60151,723.04642 196.736,753.53373"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)" />
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9578)"
        d="m 246.13615,722.96868 3.86675,18.45695"
        id="path1669"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 170.16367,775.51015 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
        id="path1671"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <text
        id="text1677"
        y="791.6687"
        x="146.40929"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
          id="tspan1673"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
          y="791.6687"
          x="147.19202"
-         sodipodi:role="line">Tant que nombre de </tspan><tspan
+         sodipodi:role="line">Tant que le nombre de </tspan><tspan
          id="tspan1675"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
          y="796.6687"
@@ -1314,18 +516,24 @@
        d="m 265.12639,812.35227 c 0.0569,11.76809 -31.86581,11.86568 -40.14471,8.0611 -12.17511,-5.5951 -13.94373,-23.66708 5.52639,-23.56125"
        id="path1679"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <text
        id="text1685"
        y="819.52954"
        x="296.25217"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
          id="tspan1681"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458341"
          y="819.52954"
          x="297.03488"
-         sodipodi:role="line">Tant que nombre de </tspan><tspan
+         sodipodi:role="line">Tant que le nombre de </tspan><tspan
          id="tspan1683"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458341"
          y="824.52954"
@@ -1335,46 +543,303 @@
        xml:space="preserve"
        id="flowRoot1693"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,50.484685,595.04343)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,53.162345,595.04343)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><flowRegion
          id="flowRegion1689"
          style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
            id="rect1687"
-           width="181.97009"
-           height="70.027855"
+           width="183.41579"
+           height="88.822647"
            x="928.76288"
            y="581.99097"
            style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara1691"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:51.20000243%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">ouverture de zones fermées à l'urbanisation </flowPara></flowRoot>    <g
-       transform="translate(0,446.8404)"
-       id="g1709">
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:83.20000172%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"><flowSpan
+   style="line-height:99.40000176%"
+   id="flowSpan2351">ouverture de zones fermées </flowSpan>à l'urbanisation </flowPara></flowRoot>    <g
+       id="g1801"
+       transform="translate(0,435.48005)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <rect
-         y="248.4762"
-         x="191.4409"
-         height="27.67918"
-         width="65.865097"
-         id="rect1695"
+         y="246.89348"
+         x="190.65645"
+         height="40.662426"
+         width="99.405174"
+         id="rect1787"
          style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
          inkscape:transform-center-y="33.269597"
          inkscape:transform-center-x="2.9753298"
          xml:space="preserve"
-         id="flowRoot1707"
+         id="flowRoot1799"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"><flowRegion
-           id="flowRegion1699"
+           id="flowRegion1791"
            style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
-             id="rect1697"
-             width="237.88727"
-             height="98.141304"
+             id="rect1789"
+             width="357.49677"
+             height="145.16728"
              x="928.76288"
              y="581.99097"
              style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara1701"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Comparaison de </flowPara><flowPara
-           id="flowPara1703"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">l'estimation et de l'objectif de </flowPara><flowPara
-           id="flowPara1705"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:73.19999933%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">création de logements </flowPara></flowRoot>    </g>
+           id="flowPara1793"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Comparaison de </flowPara><flowPara
+           id="flowPara1795"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
+           id="flowPara1797"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">création de logements </flowPara></flowRoot>    </g>
+    <g
+       id="g1811"
+       transform="translate(0,228.82989)"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <rect
+         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1803"
+         width="68.245712"
+         height="20.574379"
+         x="135.77339"
+         y="525.8288" />
+      <g
+         id="g1809"
+         transform="translate(52.634113,428.93029)">
+        <text
+           id="text1807"
+           y="110.38963"
+           x="117.18893"
+           style="font-style:normal;font-weight:normal;line-height:87.91999817%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:87.91999817%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+             y="110.38963"
+             x="117.18893"
+             sodipodi:role="line"
+             id="tspan1805">Désélection</tspan></text>
+      </g>
+    </g>
+    <text
+       id="text1817"
+       y="735.10272"
+       x="167.37198"
+       style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       xml:space="preserve"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         id="tspan1813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+         y="735.10272"
+         x="168.25255"
+         sodipodi:role="line">logements </tspan><tspan
+         id="tspan1815"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+         y="742.26324"
+         x="167.37198"
+         sodipodi:role="line">simulés &gt; objectifs</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2081)"
+       d="m 170.16367,775.51015 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+       id="path1821"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2399"
+       width="236.5985"
+       height="143.41774"
+       x="109.92627"
+       y="681.9679"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)"
+       d="M 202.60151,545.60859 196.736,576.0959"
+       id="path2429"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path2433"
+       d="m 170.16367,598.07232 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <text
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+       x="146.40929"
+       y="614.2309"
+       id="text2439"><tspan
+         sodipodi:role="line"
+         x="147.19202"
+         y="614.2309"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
+         id="tspan2435">Tant que le nombre de </tspan><tspan
+         sodipodi:role="line"
+         x="146.40929"
+         y="619.2309"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
+         id="tspan2437">logements simulés &gt; objectifs</tspan></text>
+    <g
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       transform="translate(0,258.04222)"
+       id="g2473">
+      <rect
+         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2459"
+         width="99.405174"
+         height="40.662426"
+         x="190.65645"
+         y="246.89348" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot2471"
+         xml:space="preserve"
+         inkscape:transform-center-x="2.9753298"
+         inkscape:transform-center-y="33.269597"><flowRegion
+           style="line-height:51.20000243%;text-align:center;text-anchor:middle"
+           id="flowRegion2463"><rect
+             style="line-height:51.20000243%;text-align:center;text-anchor:middle"
+             y="581.99097"
+             x="928.76288"
+             height="145.16728"
+             width="357.49677"
+             id="rect2461" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+           id="flowPara2465">Comparaison de </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+           id="flowPara2467">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+           id="flowPara2469">création de logements </flowPara></flowRoot>    </g>
+    <g
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       transform="translate(0,51.392055)"
+       id="g2483">
+      <rect
+         y="525.8288"
+         x="135.77339"
+         height="20.574379"
+         width="68.245712"
+         id="rect2475"
+         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(52.634113,428.93029)"
+         id="g2481">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:87.91999817%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+           x="117.18893"
+           y="110.38963"
+           id="text2479"><tspan
+             id="tspan2477"
+             sodipodi:role="line"
+             x="117.18893"
+             y="110.38963"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:87.91999817%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335">Désélection</tspan></text>
+      </g>
+    </g>
+    <text
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       x="167.37198"
+       y="557.66492"
+       id="text2489"><tspan
+         sodipodi:role="line"
+         x="168.25255"
+         y="557.66492"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+         id="tspan2485">logements </tspan><tspan
+         sodipodi:role="line"
+         x="167.37198"
+         y="564.82544"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+         id="tspan2487">simulés &gt; objectifs</tspan></text>
+    <path
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path2491"
+       d="m 170.16367,598.07232 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2081)" />
+    <rect
+       y="504.53006"
+       x="109.92627"
+       height="143.41774"
+       width="236.5985"
+       id="rect2499"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <g
+       id="g2757"
+       transform="translate(0,38.843763)"
+       inkscape:export-filename="./schemCompatibleResult-prez0.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <rect
+         y="246.89348"
+         x="190.65645"
+         height="40.662426"
+         width="99.405174"
+         id="rect2743"
+         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         inkscape:transform-center-y="33.269597"
+         inkscape:transform-center-x="2.9753298"
+         xml:space="preserve"
+         id="flowRoot2755"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"><flowRegion
+           id="flowRegion2747"
+           style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
+             id="rect2745"
+             width="357.49677"
+             height="145.16728"
+             x="928.76288"
+             y="581.99097"
+             style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           id="flowPara2749"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Comparaison de </flowPara><flowPara
+           id="flowPara2751"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
+           id="flowPara2753"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">création de logements </flowPara></flowRoot>    </g>
+    <rect
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2783"
+       width="236.5985"
+       height="143.41774"
+       x="109.92627"
+       y="285.3316"
+       inkscape:export-filename="./schemCompatibleResult-prez0.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
   </g>
 </svg>
