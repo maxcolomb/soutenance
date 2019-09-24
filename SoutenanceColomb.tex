@@ -88,7 +88,7 @@
 	\uncover<2->{	
 		\begin{block}{}
 		\textbf{Modéliser l'articulation de ces contraintes pour tester leurs combinaisons}
-%			Représenter l'articulation entre les différents documents de plannificaiton et d'urbanisme grâce à un modèle de simulation afin de tester la combinaison des différentes règles et contraintes d'aménagements
+%			Représenter l'articulation entre les différents documents de plannificaiton et d'urbanisme grâce à un modèle afin de tester la combinaison des différentes règles et contraintes d'aménagements
 %			\textbf{Tester} les effets combinés des documents d'urbanisme sur le développement résidentiel afin de \textbf{représenter} leurs \textbf{articulation} grâce à la \textbf{modélisation} %et d'expliciter leurs \textbf{}
 		\end{block}
 	}
@@ -100,7 +100,8 @@
 		\small
 		\item<1-> Évaluer le développement résidentiel à différents niveaux d'échelle et selon les contraintes issues de la réglementation
 		\item<2-> Exprimer divers objectifs de la planification~: %critères d'évaluation 
-		\begin{itemize}	
+		\begin{itemize}
+			\footnotesize
 			\item<3-> La création de logements
 			\item<4-> La densité de logements par hectare
 			\item<5-> L'accessibilité (aux transports en communs, ...)
@@ -117,14 +118,14 @@
 \uncover<8->{\begin{block}{Requis}
 \begin{itemize}
 		\small
-		\item Solutions libres et open-source pour une recherche \textbf{vérifiable} et \textbf{reproductible}
-		\item<9> Utilisation de modèles préexistants
+		\item Utilisation de modèles préexistants
+		\item<9> Solutions libres et open-source pour une recherche \textbf{vérifiable} et \textbf{reproductible}
 	\end{itemize}
 \end{block}}
 \end{frame}
 
 \begin{frame}{État de l'art des modèle de développement résidentiel}
-	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 97, Arentze 08, Mustapha 18).
+	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 97, Arentze 08, Mustapha 18). %todo ajouter images?! peut être en mettre un tout petit peu plus
 		\begin{itemize}
 			\item Simulation changement d'état et l'urbanisation 
 			\item Mettre en œuvre de multiples techniques (automates cellulaires, systèmes multi-agents, aide à la décision multi-critère...)
@@ -151,16 +152,15 @@
 \end{frame}
 
 \begin{frame}{État de l'art des modèles génératifs de développements résidentiels}
-	\only<1>{Génération d'îlots urbains}
-	\only<2>{Génération de parcelles}
-	\only<3>{Génération de bâtiments}
+	\only<1>{Génération de parcelles}
+	\only<2>{Génération de bâtiments}
 	%À une échelle très locale, d'autre dynamiques et d'autre types de modèles
 	%	(trouver des références sur l'étude des parcelles cf. rapport JT)
 	\begin{itemize}
-		\item<1-2> Processus géo-historiques \only<1>{GeOpenSim (Perret 2010)} \only<2>{(Perret 2015)} 
-		\item<2-> Génération procédurale \only<2>{(Vanegas 2012)} \only<3>{(BIM)} 
-		\item<2-> Génération paramétrique \only<2>{(Yazýcý 2016)} \only<3>{(Coors 2009)}
-		\item<3> Optimisation sous contrainte (Brasebin 2014)
+		\item<1> Processus géo-historiques \only<2>{(Perret 2015)} %todo relire celui la, pas sur qu'un modèle soit proposé
+		\item<1-> Génération procédurale \only<1>{(Vanegas 2012)} \only<2>{(BIM)} 
+		\item<1-> Génération paramétrique \only<1>{(Yazýcý 2016)} \only<2>{(Coors 2009)}
+		\item<2> Optimisation sous contrainte (Brasebin 2014)
 	\end{itemize}
 \end{frame}
 
@@ -173,43 +173,29 @@ Les approches intégrées, telles que les LUTI (Land-Use and Transportation Inte
 \end{itemize}
 Inconvénients~:
 \begin{itemize}
-	\item Simulations très dynamiques
 	\item Modélisation des mobilités non nécessaires à notre problème
 \end{itemize}
 \uncover<2>{Approches du couplage du modèle en phase avec mes objectifs agissant à \textbf{différentes échelles}}
 \end{frame}
 
 \begin{frame}{Problématique}
-	Comment \textbf{simuler} le \textbf{développement résidentiel} d'une région urbaine à un niveau \textbf{très détaillé}, afin d'identifier et d'explorer les effets combinés des différents types de \textbf{documents de planification et d'urbanisme} ?
+	Comment \textbf{simuler} le \textbf{développement résidentiel} \\
+	d'une région urbaine à un niveau \textbf{très détaillé}, \\
+	afin d'identifier et d'explorer les effets combinés \\
+	des différents types de \textbf{documents de planification et d'urbanisme} ?
 \end{frame}
 
 \begin{frame}{Objectif de la thèse}
-%	\uncover<2->{\begin{block}{}
-%			Comportement particulier
-	%		\begin{itemize}
-	%			\footnotesize
-				%\item Sans calibration provenant des développements résidentiels passés pour pouvoir se concentrer sur l'effet des documents d'urbanisme 
-%				\item Sans dynamique temporelles pour exprimer le potentiel de développement résidentiel à un instant précis
-%			\end{itemize}
-%	\end{block}}
 	\begin{block}{}
 		Développer un \textbf{outil d'aide à la décision} pour l'aménagement, couplant différentes approches de simulation du développement résidentiel, appelé \textbf{ArtiScales}
 	\end{block}
-\end{frame}
-
-\begin{frame}{Objectifs inhérents aux modèles prospectifs d'aide à la décision}
-\begin{block}{}
-	\textbf{Objectifs}\\
-	Modélise \textbf{un ou plusieurs phénomènes} réels\\
-	Simule l'état du système étudié face à ce(s) phénomène(s)\\
-	%	Simulations réapplicables et systématisables\\
-\end{block}
 \uncover<2->{	
 	\begin{block}{}
 		\textbf{Utilisations}\\
-		Permettre de comparer plusieurs \textbf{scénarios}\\	
-		Représenter des futurs potentiels, recherchés, redoutés\\
+		Permettre de comparer plusieurs \textbf{scénarios} de développement résidentiels\\	
+		Représenter des futurs hypothètiques, recherchés, redoutés\\
 		Utilisation en tant qu'\textbf{outil} pour l'\textbf{aide} à la conception de documents %et non pour une rédaction \textit{automatisée} - Possibilitées plutôt que prédictions
+		%faire tendre vers un état voulu et explorer les potentialités sont des objectifs secondaires - ajouter? 
 	\end{block}
 }
 \end{frame}
@@ -221,13 +207,11 @@ Inconvénients~:
 \begin{frame}<1>[label=plan]
 \frametitle{Plan de la présentation}
 	\begin{itemize}
-		\item Fonctionnement d'\textbf{ArtiScales} et de ses \textbf{modules}
+		\item Méthodologie d'\textbf{ArtiScales} et de ses \textbf{modules}
 		\item \textbf{Analyse et validation} des modules d'ArtiScales
 		\item \textbf{Expérimentation} d'ArtiScales
 	\end{itemize}
 \end{frame}
-
-
 
 
 \section{ArtiScales}
@@ -254,6 +238,7 @@ Inconvénients~:
 	\only<5>{\includegraphics[width=11.5cm]{Images/schemGenPrez4.png}}
 	\only<6>{\includegraphics[width=11.5cm]{Images/schemGenPrez5.png}}
 	\only<7>{\includegraphics[width=11.5cm]{Images/schemGenPrez6.png}}
+	%todo ajouter une étape de validation sur chaque flèche
 \end{frame}
 
 
@@ -289,7 +274,7 @@ Inconvénients~:
 				{\footnotesize exemple de variations stochastiques des résultats de MUP-City}
 		\end{block}}
 	\end{block}
-	
+	%todo ajouter la prise en main du modèle pour automatiser les 
 \end{frame}
 
 \subsection[Parcel Manager]{Parcel Manager pour la gestion du tissus parcellaire}
@@ -299,13 +284,14 @@ Inconvénients~:
 
 \begin{frame}{Présentation du modèle}
  	\centering
- \only<1>{\includegraphics[width=10cm]{Images/schemGenParcelManager-prez-1.png}}
- \only<2>{\includegraphics[width=10cm]{Images/schemGenParcelManager-prez0.png}}
- \only<3>{\includegraphics[width=10cm]{Images/schemGenParcelManager-prez1.png}}
- \only<4>{\includegraphics[width=10cm]{Images/schemGenParcelManager-prez2.png}}
+ \only<1>{\includegraphics[width=9.5cm]{Images/schemGenParcelManager-prez-1.png}}
+ \only<2>{\includegraphics[width=9.5cm]{Images/schemGenParcelManager-prez0.png}}
+ \only<3>{\includegraphics[width=9.5cm]{Images/schemGenParcelManager-prez1.png}}
+ \only<4>{\includegraphics[width=9.5cm]{Images/schemGenParcelManager-prez2.png}}
 \end{frame}
 
 \begin{frame}{Algorithme de découpage parcellaire}
+%todo definitly décomposer cette algo et travailler sur le lien avec les mécanismes
 	\only<1>{{\footnotesize Adapté de Vannegas, 2012}
 	\\
 	\centering{\includegraphics[width=9cm]{Images/decompositionParcelle-prez.png}}}
@@ -313,7 +299,7 @@ Inconvénients~:
 \end{frame}
 	
 \begin{frame}<1>[label=PM]
-	\frametitle{Algorithmes de recomposition parcellaire}
+	\frametitle{Mécanismes de recomposition parcellaire}
 	\begin{itemize}
 		\item \alert<1>{Densification}
 		\item \alert<2>{Recomposition parcellaire totale}
@@ -362,7 +348,7 @@ Inconvénients~:
 		\begin{block}{}
 		\centering{\includegraphics[width=6.5cm]{Images/detachedHouse.png}}
 		\\
-		{\footnotesize $[5-30]$ logements }	
+		{\footnotesize logement individuel}	
 	\end{block}}
 	\only<2>{\textbf{Pavillon de lotissement}\\
 	\begin{block}{}
@@ -389,6 +375,8 @@ Inconvénients~:
 		\\
 		{\footnotesize $[30-60]$ logements}	
 	\end{block}}
+\only<6>{Type de contraintes non native - temps de calculs importants}
+%todo illu d'un ordi qui mouline
 \end{frame}
 
 \begin{frame}{Estimation de logements}
@@ -401,6 +389,7 @@ Inconvénients~:
 
 \begin{frame}{Construction du modèle ArtiScales}
 	\centering{\includegraphics[width=11cm]{Images/schemGen-prez-apports}}
+	%todo ajouter les processus de validation nécessaires
 \end{frame}
 
 \section{Validation des modules d'ArtiScales}
@@ -486,23 +475,23 @@ Inconvénients~:
 		\item Dimension fractale, accessibilité ... 
 	\end{itemize}
 	}
-	\only<2>{\begin{block}{Scénario d'étalement résidentiel}
+	\only<2>{\begin{block}{Scénario d'\textbf{étalement} résidentiel}
 	\vspace{0.4cm}
 		{\footnotesize Scénario de développement résidentiel \textbf{uniforme}, \textbf{peu intense} et \textbf{extensif}~:}
 		\begin{block}{}
 			\centering{\includegraphics[width=11cm]{Images/MUP/ManuN5Bazomm.png}}
 		\end{block}
 	\end{block}}
-	\only<3>{\begin{block}{Scénario d'extension résidentielle ciblée}
+	\only<3>{\begin{block}{Scénario de \textbf{développement} résidentielle \textbf{ciblée}}
 	\vspace{0.4cm}
-		{\footnotesize Scénario de développement résidentiel \textbf{contrasté}, \textbf{intense} et \textbf{extensif}~:}
+		{\footnotesize Scénario de développement résidentiel \textbf{contrasté}, \textbf{extensif} et \textbf{intense}~:}
 		\begin{block}{}
 			\centering{\includegraphics[width=11cm]{Images/MUP/ManuN6Stzomm.png}}
 		\end{block}
 	\end{block}}
-	\only<4>{\begin{block}{Scénario d'intensification de la densité résidentielle}
+	\only<4>{\begin{block}{Scénario d'\textbf{intensification} de la densité résidentielle}
 	\vspace{0.4cm}
-		{\footnotesize	Scénario de développement résidentiel \textbf{peu extensif}, \textbf{uniforme} et \textbf{très intense}~:}
+		{\footnotesize	Scénario de développement résidentiel \textbf{peu extensif} et \textbf{très intense}~:}
 		\begin{block}{}
 			\centering{\includegraphics[width=11cm]{Images/MUP/ManuN7Yagzomm.png}}
 		\end{block}
@@ -531,7 +520,7 @@ Inconvénients~:
 		\end{itemize}
 	}
 	\only<2>{
-		\begin{block}{Scénario d'\textbf{étalement résidentiel}}
+		\begin{block}{Scénario d'\textbf{étalement} résidentiel}
 			\begin{itemize}
 				\item Variable selon la position éloignée de la grille de décomposition
 				\item Peu variable selon d'autre paramètres techniques
@@ -541,7 +530,7 @@ Inconvénients~:
 \only<3>{\centering{\includegraphics[width=10cm]{Images/MUP/mouvGridN5-20.png}\\
 {\footnotesize exemple de l'application d'un décalage de 20 mètres à la grille de décomposition}}}
 	\only<4>{
-		\begin{block}{Scénario d'\textbf{extension résidentielle ciblée}}
+		\begin{block}{Scénario de \textbf{développement} résidentiel \textbf{ciblé}}
 			\begin{itemize}
 				\item Potentiellement très variable du fait du \textbf{caractère aléatoire}
 				\item Très variable selon la taille des cellules
@@ -553,7 +542,7 @@ Inconvénients~:
 		{\footnotesize exemple de réplications stochastique}}}
 
 	\only<6>{
-		\begin{block}{Scénario d'\textbf{intensification de la densité résidentielle}}
+		\begin{block}{Scénario d'\textbf{intensification} de la densité résidentielle}
 			\begin{itemize}
 				\item Variable du fait du \textbf{caractère aléatoire}
 				\item Localement très sensible à la position de la grille de décomposition
