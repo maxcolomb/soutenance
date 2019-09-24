@@ -15,12 +15,14 @@
 \newcommand\FontImportant{\fontsize{15}{20}\selectfont}
 \newcommand\FontMoyenImportant{\fontsize{14}{17}\selectfont}
 \newcommand\FontPetit{\fontsize{8}{6}\selectfont}
-\title{Simulation de formes réalistes de développement résidentiel, de l'échelle du bâtiment à celle de l'ensemble d'une région urbaine}
+\title{\vspace{1cm}Simulation de formes réalistes de développement résidentiel, de l'échelle du bâtiment à celle de l'ensemble d'une région urbaine}
 \author{Maxime Colomb}
-\subtitle{\textit{Sous la direction de M. Brasebin, J. Perret \& C. Tannier}
-	\\Soutenance de thèse}
+\subtitle{\footnotesize\textit{Sous la direction de Mickaël Brasebin, Julien Perret \& Cécile Tannier}
+  \\Soutenance de thèse
+\\ {\tiny\'Ecole doctorale MSTIC - spécialité ``sciences et technologies de l'information géographique''}}
 
-\titlegraphic{\includegraphics[height=1.1cm]{Images/logoIGN.png}\hfill\includegraphics[height=1.1cm]{Images/logoThema.jpg}}
+\titlegraphic{\vspace{-0.5cm}\includegraphics[height=1.1cm]{Images/logoIGN.png}\hfill\includegraphics[height=1.1cm]{Images/logoThema.jpg}\hfill\includegraphics[height=0.6cm]{Images/logo-upe.png}}
+\date{27 septembre 2019}
 
 \makeatletter
 \newcommand\addsectiontotoc[1]{%
@@ -38,10 +40,21 @@
 \setbeamercolor{section in head/foot}{parent=palette primary}
 
 \addtobeamertemplate{frametitle}{}{%
-  \begin{textblock*}{5cm}(11cm,0.1cm)
+  \begin{textblock*}{5cm}(11.3cm,0.03cm)
     \insertsectionnavigation{4cm}
   \end{textblock*}
 }
+
+% Début du code pour faire apparaître un sommaire avant chaque section
+%% \AtBeginSection[]{
+%%    \begin{frame}{Plan}
+%%    %%% affiche en début de chaque section, les noms de sections et
+%%    %%% noms de sous-sections de la section en cours.
+%%    \tableofcontents[currentsection,hideallsubsections]
+%%    \end{frame} 
+%% }
+% Fin
+
 \begin{document}
 
 \maketitle
@@ -63,7 +76,7 @@
 	\end{block}
 \end{frame}
 
-\begin{frame}{Divers documents d'aménagement réglementant l'extension résidentielle} 
+\begin{frame}{Divers documents d'aménagement réglementant\\ l'extension résidentielle} 
 	\only<1>{\includegraphics[width=11cm]{Images/planification-globale-Prez0.png}}
 	\only<2>{\includegraphics[width=11cm]{Images/planification-globale-Prez1.png}}
 	\only<3>{\includegraphics[width=11cm]{Images/planification-globale-Prez2.png}}
@@ -95,13 +108,13 @@
 \end{frame}
 
 \begin{frame}{Objectifs de la modélisation}
-	\begin{block}{Objectifs}
+  \begin{block}{Objectifs}
 	\begin{itemize}
-		\small
+		\footnotesize
 		\item<1-> Évaluer le développement résidentiel à différents niveaux d'échelle et selon les contraintes issues de la réglementation
 		\item<2-> Exprimer divers objectifs de la planification~: %critères d'évaluation 
 		\begin{itemize}
-			\footnotesize
+			\scriptsize
 			\item<3-> La création de logements
 			\item<4-> La densité de logements par hectare
 			\item<5-> L'accessibilité (aux transports en communs, ...)
@@ -110,21 +123,21 @@
 	\end{block}
 	\uncover<6->{\begin{block}{Moyens}
 	\begin{itemize}
-		\small
+		\footnotesize
 		\item Représentation des états intermédiaires non nécessaires
 		\item<7-> Pas de reproduction des phénomènes antérieurs
 \end{itemize}	
 \end{block}}
 \uncover<8->{\begin{block}{Requis}
 \begin{itemize}
-		\small
+		\footnotesize
 		\item Utilisation de modèles préexistants
 		\item<9> Solutions libres et open-source pour une recherche \textbf{vérifiable} et \textbf{reproductible}
 	\end{itemize}
 \end{block}}
 \end{frame}
 
-\begin{frame}{État de l'art des modèle de développement résidentiel}
+\begin{frame}{État de l'art des modèles de développement résidentiel}
 	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 97, Arentze 08, Mustapha 18). %todo ajouter images?! peut être en mettre un tout petit peu plus
 		\begin{itemize}
 			\item Simulation changement d'état et l'urbanisation 
@@ -151,7 +164,7 @@
 	\end{itemize}}
 \end{frame}
 
-\begin{frame}{État de l'art des modèles génératifs de développements résidentiels}
+\begin{frame}{État de l'art des modèles génératifs de \\développements résidentiels}
 	\only<1>{Génération de parcelles}
 	\only<2>{Génération de bâtiments}
 	%À une échelle très locale, d'autre dynamiques et d'autre types de modèles
@@ -164,7 +177,7 @@
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{État de l'art des modèles intégrés simulant le développement résidentiel}
+\begin{frame}{État de l'art des modèles intégrés simulant le \\développement résidentiel}
 Les approches intégrées, telles que les LUTI (Land-Use and Transportation Interaction), permettent de~:
 \begin{itemize}
 	\item Simuler les interactions entre différents modèles (occupation du sol, mobilités, systèmes économiques ...) 
@@ -392,7 +405,7 @@ Inconvénients~:
 	%todo ajouter les processus de validation nécessaires
 \end{frame}
 
-\section{Validation des modules d'ArtiScales}
+\section[Validation]{Validation des modules d'ArtiScales}
 
 \subsection{Validation du modèle MUP-City}
 
@@ -459,7 +472,7 @@ Inconvénients~:
 
 \againframe<4>{parScen}
 
-\begin{frame}{MUP-City : caractère extensif ou non de l'extension résidentielle}
+\begin{frame}{MUP-City : caractère extensif ou non de \\l'extension résidentielle}
 \vspace{1cm}
 \hspace*{-0.5cm}\centering{\includegraphics[width=12cm]{Images/MUP/illuYagMoy.png}}
 %\centering{\includegraphics[width=11.5cm]{Images/MUP/Agreg.png}}
@@ -467,7 +480,7 @@ Inconvénients~:
 {\footnotesize exemple de différentes agrégations des règles additionnelles d'aménagement, résultant en un scénario sélectionnant des cellules uniformément intéressantes à urbaniser ou non}
 \end{frame}
 
-\begin{frame}{Validation de différentes configurations spatiales de MUP-City}
+\begin{frame}{Validation de différentes configurations spatiales de \\MUP-City}
 	\only<1>{Indicateurs utilisés
 	\begin{itemize}
 		\item Nombre de cellules selon et leurs localisations
@@ -603,14 +616,14 @@ Inconvénients~:
 	\end{itemize}}
 \end{frame}
 
-\section{Expérimentation d'ArtiScales sur l'aire urbaine de Besançon}
+\section[Expérimentation]{Expérimentation d'ArtiScales sur l'aire urbaine de Besançon}
 \subsection{Évaluation du fonctionnement d'ArtiScales}
 \begin{frame}
 \subsectionpage
 \end{frame}
 
 
-\begin{frame}{ArtiScales : Expérimentation menée au cours de la thèse}
+\begin{frame}{ArtiScales : Expérimentation menée}
 	\only<1>{\begin{block}
 		\textbf{ Objectifs de l'expérimentation}\\
 		\begin{itemize}
@@ -728,7 +741,7 @@ Inconvénients~:
 	\hspace*{-0.5cm}\includegraphics[width=12cm]{cartes/schemaRNU.png}
 \end{frame}
 
-\begin{frame}{Possibilité de génération automatique de Cartes Communales}
+\begin{frame}{Possibilité de génération automatique de \\Cartes Communales}
 Génération automatique de zonage~:
 \begin{itemize}
 	\small
@@ -781,7 +794,7 @@ Génération automatique de zonage~:
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Perspectives d'utilisation d'ArtiScales dans l'aide à la décision territoriale}
+\begin{frame}{Perspectives d'utilisation d'ArtiScales dans \\l'aide à la décision territoriale}
 	Rendre variable certaines restrictions afin de rendre compatibles entre eux les règlements.
 	\\
 	par exemple : 
