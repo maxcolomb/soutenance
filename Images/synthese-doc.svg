@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.62736338"
-     inkscape:cx="468.44475"
-     inkscape:cy="172.61383"
+     inkscape:zoom="0.8872258"
+     inkscape:cx="518.31103"
+     inkscape:cy="234.07272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -173,11 +173,11 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1093"
-       d="M 636.09974,1034.1484 V 591.25718"
+       d="M 636.0997,1034.1484 V 591.25718"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 424.76694,1034.1484 V 591.25718"
+       d="M 424.76695,1034.1484 V 591.25718"
        id="path1095"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -213,17 +213,17 @@
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16862"
        xml:space="preserve"
-       transform="translate(425.29427,-63.416147)"><flowRegion
+       transform="translate(409.66516,-74.355034)"><flowRegion
          id="flowRegion16864"
          style="font-family:sans-serif"><rect
            style="font-size:19.40116692px;font-family:sans-serif"
            y="665.5946"
            x="16.203072"
-           height="100.90746"
-           width="177.33844"
+           height="99.85083"
+           width="208.6602"
            id="rect16866" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-         id="flowPara16870">Position des bâtiments</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.49999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
+         id="flowPara16870">Emplacement du développement  résidentiel</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16810"
        xml:space="preserve"
@@ -277,7 +277,7 @@
        style="font-style:normal;font-weight:normal;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot16962"
        xml:space="preserve"
-       transform="translate(620.91098,136.61192)"><flowRegion
+       transform="translate(619.98933,124.11194)"><flowRegion
          style="line-height:1;font-family:sans-serif"
          id="flowRegion16964"><rect
            style="font-size:19.40116692px;line-height:1;font-family:sans-serif"
@@ -287,7 +287,7 @@
            width="165.00194"
            id="rect16966" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-         id="flowPara16968">Types de bâtiments</flowPara></flowRoot>    <flowRoot
+         id="flowPara16968">Type des opérations de constrution</flowPara></flowRoot>    <flowRoot
        transform="translate(537.98503,318.09303)"
        xml:space="preserve"
        id="flowRoot16912"
@@ -485,20 +485,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <flowRoot
-       transform="translate(425.29427,-63.416147)"
-       xml:space="preserve"
-       id="flowRoot967"
-       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         style="font-family:sans-serif"
-         id="flowRegion963"><rect
-           id="rect961"
-           width="177.33844"
-           height="100.90746"
-           x="16.203072"
-           y="665.5946"
-           style="font-size:19.40116692px;font-family:sans-serif" /></flowRegion><flowPara
-         id="flowPara965"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Position des bâtiments</flowPara></flowRoot>    <flowRoot
        transform="translate(786.0924,125.40569)"
        xml:space="preserve"
        id="flowRoot979"
@@ -512,7 +498,7 @@
            y="665.5946"
            style="font-size:19.40116692px;line-height:1;font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Objectifs de <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle">Objectif de <flowSpan
    style="font-weight:bold;font-size:25.00000191px"
    id="flowSpan975">création de logements</flowSpan></flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -530,7 +516,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.24999809px;line-height:1.25;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
          id="flowPara985">Type des logements</flowPara></flowRoot>    <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 802.23932,1034.1484 V 591.25718"
+       d="M 802.23933,1034.1484 V 591.25718"
        id="path1035"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -541,7 +527,7 @@
        d="M 968.37912,1034.1484 V 591.25718"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.03472888;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.10418672, 3.10418672;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="translate(-64.390248,-12.71999)"
+       transform="translate(-64.390248,-7.4366684)"
        id="g1049">
       <flowRoot
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -557,7 +543,7 @@
              width="185.29034"
              id="rect1039" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.00000191px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';text-align:center;text-anchor:middle"
-           id="flowPara1045">Orientation du developpement résidentiel </flowPara></flowRoot>    </g>
+           id="flowPara1045">Orientation </flowPara></flowRoot>    </g>
     <g
        id="g995"
        transform="translate(113.59546,253.11871)">
