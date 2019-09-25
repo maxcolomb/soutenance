@@ -159,8 +159,8 @@
 	\vspace{-0.2cm}
 	\begin{itemize}
 		\small
-		\item Modélisation descriptive du modèle
-		\item<7-> Représentation des états intermédiaires non nécessaires
+		\item Modélisation descriptive
+		\item<7-> Représentation des états intermédiaires non nécessaires %todo reprendre etat sinal = état initial
 		\item<8-> Pas de reproduction des phénomènes antérieurs
 	\end{itemize}	
 	\end{block}}
@@ -176,62 +176,76 @@
 \end{frame}
 
 \begin{frame}{État de l'art des modèles de développement résidentiel}
-	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 97, Arentze 08, Mustapha 18). %todo ajouter images?! peut être en mettre un tout petit peu plus
+	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 199797, Arentze 2008, Tannier 2010, Mustapha 2018). %todo ajouter images?! peut être en mettre un tout petit peu plus
 		\begin{itemize}
 			\item Simulation du changement d'état de l'occupation du sol et particulièrement de l'urbanisation
 			\item Poursuis de nombreux objectifs~:
 			\begin{itemize}
-				\item Exploratoire (Potentiels d'urbanisation, )
-				\item Prévisionnel (marché immobilier (), changements démographiques (Destinie ()) %todo refs
-				\item Prospectif (Évolutions possibles (Tannier 2010))
+				\item Exploratoire (Potentiels d'urbanisation)
+				\item Prévisionnel (marché immobilier, changements démographiques)
+				\item Prospectif (Évolutions possibles)
 			\end{itemize}
-			\item Mettre en œuvre de multiples techniques (automates cellulaires, systèmes multi-agents, aide à la décision multi-critère...)
+%			\item Mise en œuvre de multiples techniques (automates cellulaires, systèmes multi-agents, aide à la décision multi-critère...) %todo trouver une raison à l'oral ou suppr hétérogé
 		\end{itemize}
-		\only<1>{Inconvénients~: 
+		Limites par rapport à nos objectifs~:
 		\begin{itemize}
 			\item Espace géographique simplifié
 			\item Peu de place pour la prise en compte des réglementations
 			\item Souvent calibrés sur des dynamiques passées
-		\end{itemize}}
+		\end{itemize}
 	}
 \end{frame}
 
-\begin{frame}{État de l'art des modèles génératifs de \\développements résidentiels}
-	\only<1>{Génération de parcelles}
-	\only<2>{Génération de bâtiments}
-	%À une échelle très locale, d'autre dynamiques et d'autre types de modèles
-	%	(trouver des références sur l'étude des parcelles cf. rapport JT)
+\begin{frame}{État de l'art des modèles intégrés simulant le \\développement résidentiel}
+	Les approches intégrées, telles que les LUTI (Land-Use and Transportation Interaction), permettent de~:
 	\begin{itemize}
-		\item<1> Processus géo-historiques \only<2>{(Perret 2015)} %todo relire celui la, pas sur qu'un modèle soit proposé
-		\item<1-> Génération procédurale \only<1>{(Vanegas 2012)} \only<2>{(BIM)} 
-		\item<1-> Génération paramétrique \only<1>{(Yazýcý 2016)} \only<2>{(Coors 2009)}
-		\item<2-> Optimisation sous contrainte (Brasebin 2014)
+		\item Simuler les interactions entre différents modèles (occupation du sol, mobilités, systèmes économiques ...) 
+		\item Articuler différents systèmes modélisés 
+		%	\item Spécialement conçue pour une approche \textit{prospective} %TODO redire
 	\end{itemize}
-	Inconvénients~: 
+	Limites par rapport à nos objectifs~:
+	\begin{itemize}
+		\item Modélisation des mobilités non nécessaires à notre problème
+	\end{itemize}
+	\uncover<2>{Approches du couplage du modèle en phase avec mes objectifs agissant à \textbf{différentes échelles}}
+\end{frame}
+
+\begin{frame}{État de l'art des modèles génératifs de \\développements résidentiels}
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			Génération de parcelles
+			\\
+			\includegraphics[width=2.7cm]{Images/parcel.png}
+			\begin{itemize}
+				\small
+				\item Processus géo-historiques (Perret 2015)
+				\item Génération procédurale (Vanegas 2012) 
+				\item Génération paramétrique (Yazýcý 2016) 
+			\end{itemize}
+		\end{column}
+	\begin{column}{0.5\textwidth}
+			Génération de bâtiments
+			\\
+			\includegraphics[width=3cm]{Images/bat.png}
+		\begin{itemize}
+			\small
+			\item Génération procédurale (BIM) 
+			\item Génération paramétrique (Coors 2009)
+			\item Optimisation sous contrainte (Brasebin 2014)
+		\end{itemize}
+	\end{column}
+	\end{columns}
+	\vspace{0.2cm}
+	Limites par rapport à nos objectifs~:
 	\begin{itemize}
 		\item Appliqué à un niveau très local %Pas de configurations spatiale proposé à une large échelle 
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{État de l'art des modèles intégrés simulant le \\développement résidentiel}
-Les approches intégrées, telles que les LUTI (Land-Use and Transportation Interaction), permettent de~:
-\begin{itemize}
-	\item Simuler les interactions entre différents modèles (occupation du sol, mobilités, systèmes économiques ...) 
-	\item Articuler différents systèmes modélisés 
-%	\item Spécialement conçue pour une approche \textit{prospective} %TODO redire
-\end{itemize}
-Inconvénients~:
-\begin{itemize}
-	\item Modélisation des mobilités non nécessaires à notre problème
-\end{itemize}
-\uncover<2>{Approches du couplage du modèle en phase avec mes objectifs agissant à \textbf{différentes échelles}}
-\end{frame}
-
 \begin{frame}{Problématique}
 	\centering{Comment \textbf{simuler} le \textbf{développement résidentiel} \\
 	d'une région urbaine à un niveau \textbf{très détaillé}, \\
-	afin d'identifier et d'explorer les effets combinés \\
-	des différents types de \textbf{documents de planification et d'urbanisme} ?}
+	afin d'identifier et d'explorer les effets combinés	des différents types de \textbf{documents de planification et d'urbanisme} ?}
 \end{frame}
 
 \begin{frame}{Objectif de la thèse}
@@ -455,7 +469,7 @@ Inconvénients~:
 		\item Surface paramétrable de ces classes
 		\item Distribution paramétrable des logements dans l'immeuble 
 	\end{itemize}
-%todo ajouter une image d'immeuble texturé en 3D
+%todo ajouter une image d'immeuble texturé en 3D ?
 \end{frame}
 
 \begin{frame}{Construction du modèle ArtiScales}
@@ -555,21 +569,27 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 		\item Dimension fractale, accessibilité ... 
 	\end{itemize}
 	}
-	\only<2>{\begin{block}{Scénario d'\textbf{étalement} résidentiel}
-	\vspace{0.4cm}
+	\only<2>{\begin{block}{}
+		Scénario d'\textbf{étalement} résidentiel
+	\\
+		\vspace{0.4cm}
 		{\footnotesize Scénario de développement résidentiel \textbf{uniforme}, \textbf{peu intense} et \textbf{extensif}~:}
 		\begin{block}{}
 			\centering{\includegraphics[width=11cm]{Images/MUP/ManuN5Bazomm.png}}
 		\end{block}
 	\end{block}}
-	\only<3>{\begin{block}{Scénario de \textbf{développement} résidentielle \textbf{ciblée}}
-	\vspace{0.4cm}
+	\only<3>{\begin{block}{}
+		Scénario de \textbf{développement} résidentielle \textbf{ciblée}
+	\\
+		\vspace{0.4cm}
 		{\footnotesize Scénario de développement résidentiel \textbf{contrasté}, \textbf{extensif} et \textbf{intense}~:}
 		\begin{block}{}
 			\centering{\includegraphics[width=11cm]{Images/MUP/ManuN6Stzomm.png}}
 		\end{block}
 	\end{block}}
-	\only<4>{\begin{block}{Scénario d'\textbf{intensification} de la densité résidentielle}
+	\only<4>{\begin{block}{}
+	Scénario d'\textbf{intensification} de la densité résidentielle
+	\\
 	\vspace{0.4cm}
 		{\footnotesize	Scénario de développement résidentiel \textbf{peu extensif} et \textbf{très intense}~:}
 		\begin{block}{}
@@ -703,15 +723,15 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 \end{frame}
 
 \begin{frame}{ArtiScales : Exécution du code informatique}
-\begin{itemize}
-	\item temps \textbf{théorique} sur un ordinateur personnel~: \textbf{5 jours}
-	\item temps \textbf{théorique} sur la grille de calcul européenne~: \textbf{6 heures}
-	\item temps \textbf{constaté} sur la grille européenne~: \textbf{2 jours}
-\end{itemize}
+	\begin{itemize}
+		\item temps \textbf{théorique} sur un ordinateur personnel~: \textbf{5 jours}
+		\item temps \textbf{théorique} sur la grille de calcul européenne~: \textbf{6 heures}
+		\item temps \textbf{constaté} sur la grille européenne~: \textbf{2 jours}
+	\end{itemize}
 \end{frame}
 
 \begin{frame}{ArtiScales : Protocole des simulations}
-	\begin{block}{Deux scénarios de développement résidentiel (+ variantes}
+	\begin{block}{Deux scénarios de développement résidentiel (+ variantes)}
 		\begin{itemize}
 			\small
 			\item Développement ciblée (développement résidentiel \textbf{contrasté}, \textbf{intense} et \textbf{extensif})
@@ -728,14 +748,14 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 \end{frame}
 
 \begin{frame}{ArtiScales : Densité nette de logements par $m^{2}$}
-			\only<1>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/dens/dens0.png}}}
-			\only<2>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/dens/dens1.png}}}
-			\only<3>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/dens/dens2.png}}}
+	\only<1>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/dens/dens0.png}}}
+	\only<2>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/dens/dens1.png}}}
+	\only<3>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/dens/dens2.png}}}
 \end{frame}
 
 \begin{frame}{ArtiScales : Simulation de logements}
-			\only<1>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/lgt/lgt0.png}}}
-			\only<2>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/lgt/lgt1.png}}}
+	\only<1>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/lgt/lgt0.png}}}
+	\only<2>{\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/lgt/lgt1.png}}}
 \end{frame}
 
 \begin{frame}{ArtiScales : Simulation de logements}
@@ -783,8 +803,8 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 \begin{frame}{Compatibilité entre les documents}
 	Incompatibilité entre les objectifs de création de logements et les documents d'urbanisme %(objectifs sur-dimensionnés ?)
 	\\
-	\only<1>{\includegraphics[width=10cm]{cartes/nancray.png}}
-	\only<2>{\includegraphics[width=10cm]{cartes/nancray2.png}}
+	\only<1>{\includegraphics[width=11cm]{cartes/NancrayDDense3D.png}}
+	\only<2>{\includegraphics[width=11cm]{cartes/NancrayDPD3D.png}}
 	\only<3>{\includegraphics[width=11cm]{cartes/AvanneRNUInf.png}}
 	\only<4->{Possibilité de rétro-action~:
 		\only<5>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez0.png}}
@@ -817,8 +837,6 @@ Génération automatique de zonage~:
 
 \section{Conclusion et perspectives}
 %todo rendre un peu moins morne?
-
-
 
 \begin{frame}{ArtiScales : Conclusions}
 	\begin{block}{}
@@ -1070,11 +1088,8 @@ Pour chaque commune~:
 \end{frame}
 
 
-\subsection{Comparaison des variantes}
 
 \begin{frame}{Présentation rapide des résultats des variantes}
-\textit{pas sur d'en parler si ?}
-\textit{min/max sur les quatre scénarios des tableaux et cartes pour situer ces différences}
 \begin{block}{Neuf variantes de développement résidentiels}
 	\vspace{0.1cm}
 	Deux réplications de la modification des paramètres techniques~:
@@ -1087,7 +1102,9 @@ Pour chaque commune~:
 \end{block}
 \end{frame}
 
-
+\begin{frame}{Présentation rapide des résultats des variantes}
+	\includegraphics[width=10cm]{cartes/CVNbBat.png}
+\end{frame}
 
 \begin{frame}{Opportunités pour l'IGN}
 %	\centering{\includegraphics[width=4cm]{Images/franceGPU.png}}\\

@@ -16,8 +16,8 @@
    inkscape:export-filename="./schemCompatibleResult-prez2.png"
    id="svg7489"
    version="1.1"
-   viewBox="0 0 236.97149 143.61819"
-   height="143.61818mm"
+   viewBox="0 0 236.97149 164.07399"
+   height="164.07397mm"
    width="236.97148mm">
   <sodipodi:namedview
      inkscape:measure-end="82.4116,483.792"
@@ -34,9 +34,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="403.10201"
-     inkscape:cx="484.25775"
-     inkscape:zoom="0.48909148"
+     inkscape:cy="481.88413"
+     inkscape:cx="247.37122"
+     inkscape:zoom="0.3458399"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -45,6 +45,97 @@
      id="base" />
   <defs
      id="defs7483">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2553"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2551"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2331"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2329" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2003"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2001" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1843"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1841"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1575"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1573"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1078"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1076"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
@@ -67,7 +158,8 @@
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow1Lend">
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
@@ -231,10 +323,10 @@
     </marker>
     <inkscape:perspective
        id="perspective6543"
-       inkscape:persp3d-origin="130.99588 : 61.397756 : 1"
-       inkscape:vp_z="261.99176 : 92.096636 : 1"
-       inkscape:vp_y="0 : 999.99994 : 0"
-       inkscape:vp_x="0 : 92.096636 : 1"
+       inkscape:persp3d-origin="130.99588 : 61.397752 : 1"
+       inkscape:vp_z="261.99176 : 92.09663 : 1"
+       inkscape:vp_y="0 : 999.99987 : 0"
+       inkscape:vp_x="0 : 92.09663 : 1"
        sodipodi:type="inkscape:persp3d" />
     <marker
        inkscape:isstock="true"
@@ -333,7 +425,8 @@
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow1Mend">
+       inkscape:stockid="Arrow1Mend"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          transform="matrix(-0.4,0,0,-0.4,-4,0)"
@@ -370,302 +463,376 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-109.83064,-682.08269)"
+     transform="translate(-109.83064,-681.9679)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path1539"
-       d="m 296.51616,757.88808 h -5.22548"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3848)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-       x="279.48605"
-       y="730.77496"
-       id="text1551"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><tspan
-         sodipodi:role="line"
-         x="280.36661"
-         y="730.77496"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.32354164px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan1549">objectifs &gt; </tspan><tspan
-         sodipodi:role="line"
-         x="279.48605"
-         y="737.09851"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.32354164px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan2349">logements simulés</tspan></text>
-    <g
-       id="g1561"
-       transform="translate(-70.092492,429.53362)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100">
-      <rect
-         y="313.07117"
-         x="301.1431"
-         height="30.141546"
-         width="59.467182"
-         id="rect1553"
-         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.45967925;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text1559"
-         y="324.24036"
-         x="330.60022"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458338"
-           y="324.24036"
-           x="330.60022"
-           id="tspan1555"
-           sodipodi:role="line">Parcel</tspan><tspan
-           id="tspan1557"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458338"
-           y="337.46951"
-           x="330.60022"
-           sodipodi:role="line">Manager</tspan></text>
-    </g>
-    <g
-       id="g1569"
-       transform="translate(-65.967102,418.42111)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100">
-      <rect
-         y="363.6311"
-         x="297.01773"
-         height="30.141546"
-         width="59.467182"
-         id="rect1563"
-         style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.45967925;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text1567"
-         y="382.48459"
-         x="299.75555"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.26458338"
-           y="382.48459"
-           x="299.75555"
-           id="tspan1565"
-           sodipodi:role="line">SimPLU3D</tspan></text>
-    </g>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path1571"
-       d="m 260.78422,772.50501 v 9.05149"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7806-3)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path1667"
-       d="M 202.60151,723.04642 196.736,753.53373"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9578)"
-       d="m 246.13615,722.96868 3.86675,18.45695"
-       id="path1669"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 170.16367,775.51015 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
-       id="path1671"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <text
-       id="text1677"
-       y="791.6687"
-       x="146.40929"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
-       xml:space="preserve"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><tspan
-         id="tspan1673"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         y="791.6687"
-         x="147.19202"
-         sodipodi:role="line">Tant que le nombre de </tspan><tspan
-         id="tspan1675"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         y="796.6687"
-         x="146.40929"
-         sodipodi:role="line">logements simulés &gt; objectifs</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-5)"
-       d="m 265.12639,812.35227 c 0.0569,11.76809 -31.86581,11.86568 -40.14471,8.0611 -12.17511,-5.5951 -13.94373,-23.66708 5.52639,-23.56125"
-       id="path1679"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <text
-       id="text1685"
-       y="819.52954"
-       x="296.25217"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
-       xml:space="preserve"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><tspan
-         id="tspan1681"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458341"
-         y="819.52954"
-         x="297.03488"
-         sodipodi:role="line">Tant que le nombre de </tspan><tspan
-         id="tspan1683"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458341"
-         y="824.52954"
-         x="296.25217"
-         sodipodi:role="line">logements simulés &lt; objectifs</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1693"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,53.162345,595.04343)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><flowRegion
-         id="flowRegion1689"
-         style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
-           id="rect1687"
-           width="183.41579"
-           height="88.822647"
-           x="928.76288"
-           y="581.99097"
-           style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara1691"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:83.20000172%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"><flowSpan
-   style="line-height:99.40000176%"
-   id="flowSpan2351">ouverture de zones fermées </flowSpan>à l'urbanisation </flowPara></flowRoot>    <g
-       id="g1801"
-       transform="translate(0,435.48005)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100">
-      <rect
-         y="246.89348"
-         x="190.65645"
-         height="40.662426"
-         width="99.405174"
-         id="rect1787"
-         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <flowRoot
-         inkscape:transform-center-y="33.269597"
-         inkscape:transform-center-x="2.9753298"
-         xml:space="preserve"
-         id="flowRoot1799"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"><flowRegion
-           id="flowRegion1791"
-           style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
-             id="rect1789"
-             width="357.49677"
-             height="145.16728"
-             x="928.76288"
-             y="581.99097"
-             style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara1793"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Comparaison de </flowPara><flowPara
-           id="flowPara1795"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
-           id="flowPara1797"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">création de logements </flowPara></flowRoot>    </g>
-    <g
-       id="g1811"
-       transform="translate(0,228.82989)"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100">
-      <rect
-         style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect1803"
-         width="68.245712"
-         height="20.574379"
-         x="135.77339"
-         y="525.8288" />
-      <g
-         id="g1809"
-         transform="translate(52.634113,428.93029)">
-        <text
-           id="text1807"
-           y="110.38963"
-           x="117.18893"
-           style="font-style:normal;font-weight:normal;line-height:87.91999817%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:87.91999817%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-             y="110.38963"
-             x="117.18893"
-             sodipodi:role="line"
-             id="tspan1805">Désélection</tspan></text>
-      </g>
-    </g>
-    <text
-       id="text1817"
-       y="735.10272"
-       x="167.37198"
-       style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
-       xml:space="preserve"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100"><tspan
-         id="tspan1813"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         y="735.10272"
-         x="168.25255"
-         sodipodi:role="line">logements </tspan><tspan
-         id="tspan1815"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         y="742.26324"
-         x="167.37198"
-         sodipodi:role="line">simulés &gt; objectifs</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2081)"
-       d="m 170.16367,775.51015 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
-       id="path1821"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc"
-       inkscape:export-filename="./schemCompatibleResult-prez2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
     <rect
-       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.49228907;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2399"
        width="236.5985"
-       height="143.41774"
+       height="164.07397"
        x="109.92627"
        y="681.9679"
        inkscape:export-filename="./schemCompatibleResult-prez2.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
+    <rect
+       y="504.53006"
+       x="109.92627"
+       height="143.41774"
+       width="236.5985"
+       id="rect2499"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <g
+       id="g1813"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3848)"
+         d="m 296.51616,776.82199 h -5.22548"
+         id="path1539"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         id="text1551"
+         y="730.77496"
+         x="279.48605"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         xml:space="preserve"><tspan
+           id="tspan1549"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.32354164px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+           y="730.77496"
+           x="280.36661"
+           sodipodi:role="line">objectifs &gt; </tspan><tspan
+           id="tspan2349"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.32354164px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+           y="737.09851"
+           x="279.48605"
+           sodipodi:role="line">logements simulés</tspan></text>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         transform="translate(-70.092492,448.46753)"
+         id="g1561">
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.45967925;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1553"
+           width="59.467182"
+           height="30.141546"
+           x="301.1431"
+           y="313.07117" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+           x="330.60022"
+           y="324.24036"
+           id="text1559"><tspan
+             sodipodi:role="line"
+             id="tspan1555"
+             x="330.60022"
+             y="324.24036"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458338">Parcel</tspan><tspan
+             sodipodi:role="line"
+             x="330.60022"
+             y="337.46951"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458338"
+             id="tspan1557">Manager</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         transform="translate(-65.967102,437.35502)"
+         id="g1569">
+        <rect
+           style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.45967925;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1563"
+           width="59.467182"
+           height="30.141546"
+           x="297.01773"
+           y="363.6311" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+           x="299.75555"
+           y="382.48459"
+           id="text1567"><tspan
+             sodipodi:role="line"
+             id="tspan1565"
+             x="299.75555"
+             y="382.48459"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333397px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.26458338">SimPLU3D</tspan></text>
+      </g>
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7806-3)"
+         d="m 260.78422,791.43892 v 9.05149"
+         id="path1571"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)"
+         d="M 202.60151,723.04642 196.736,753.53373"
+         id="path1667"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1669"
+         d="m 246.13615,722.96868 3.86675,18.45695"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9578)" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path1671"
+         d="m 170.16367,775.51015 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
+         x="146.40929"
+         y="791.6687"
+         id="text1677"><tspan
+           sodipodi:role="line"
+           x="147.19202"
+           y="791.6687"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
+           id="tspan1673">Tant que le nombre de </tspan><tspan
+           sodipodi:role="line"
+           x="146.40929"
+           y="796.6687"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
+           id="tspan1675">logements simulés &gt; objectifs</tspan></text>
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path1679"
+         d="m 265.12639,831.28618 c 0.0569,11.76809 -31.86581,11.86568 -40.14471,8.0611 -12.17511,-5.5951 -13.94373,-23.66708 5.52639,-23.56125"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-5)" />
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458341"
+         x="296.25217"
+         y="838.46344"
+         id="text1685"><tspan
+           sodipodi:role="line"
+           x="297.03488"
+           y="838.46344"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458341"
+           id="tspan1681">Tant que le nombre de </tspan><tspan
+           sodipodi:role="line"
+           x="296.25217"
+           y="843.46344"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458341"
+           id="tspan1683">logements simulés &lt; objectifs</tspan></text>
+      <flowRoot
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         transform="matrix(0.26458333,0,0,0.26458333,53.162345,613.97734)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1693"
+         xml:space="preserve"><flowRegion
+           style="line-height:51.20000243%;text-align:center;text-anchor:middle"
+           id="flowRegion1689"><rect
+             style="line-height:51.20000243%;text-align:center;text-anchor:middle"
+             y="581.99097"
+             x="928.76288"
+             height="88.822647"
+             width="183.41579"
+             id="rect1687" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:83.20000172%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+           id="flowPara1691"><flowSpan
+   id="flowSpan2351"
+   style="line-height:99.40000176%">ouverture de zones fermées </flowSpan>à l'urbanisation </flowPara></flowRoot>      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         transform="translate(0,435.48005)"
+         id="g1801">
+        <rect
+           style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1787"
+           width="99.405174"
+           height="40.662426"
+           x="190.65645"
+           y="246.89348" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot1799"
+           xml:space="preserve"
+           inkscape:transform-center-x="2.9753298"
+           inkscape:transform-center-y="33.269597"><flowRegion
+             style="line-height:51.20000243%;text-align:center;text-anchor:middle"
+             id="flowRegion1791"><rect
+               style="line-height:51.20000243%;text-align:center;text-anchor:middle"
+               y="581.99097"
+               x="928.76288"
+               height="145.16728"
+               width="357.49677"
+               id="rect1789" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+             id="flowPara1793">Comparaison de </flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+             id="flowPara1795">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
+             id="flowPara1797">création de logements </flowPara></flowRoot>      </g>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         transform="translate(0,228.82989)"
+         id="g1811">
+        <rect
+           y="525.8288"
+           x="135.77339"
+           height="20.574379"
+           width="68.245712"
+           id="rect1803"
+           style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           transform="translate(52.634113,428.93029)"
+           id="g1809">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;line-height:87.91999817%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+             x="117.18893"
+             y="110.38963"
+             id="text1807"><tspan
+               id="tspan1805"
+               sodipodi:role="line"
+               x="117.18893"
+               y="110.38963"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:87.91999817%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335">Désélection</tspan></text>
+        </g>
+      </g>
+      <text
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         x="167.37198"
+         y="735.10272"
+         id="text1817"><tspan
+           sodipodi:role="line"
+           x="168.25255"
+           y="735.10272"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+           id="tspan1813">logements </tspan><tspan
+           sodipodi:role="line"
+           x="167.37198"
+           y="742.26324"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
+           id="tspan1815">simulés &gt; objectifs</tspan></text>
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path1821"
+         d="m 170.16367,775.51015 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2081)" />
+      <g
+         id="g1520"
+         transform="translate(199.3508,662.80897)">
+        <g
+           transform="translate(-30.984351,-2.4863986)"
+           id="g1523">
+          <flowRoot
+             transform="matrix(0.22086708,0,0,0.22520363,-13.943804,-106.77206)"
+             style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot2211-3"
+             xml:space="preserve"><flowRegion
+               style="font-family:sans-serif;text-align:center;text-anchor:middle"
+               id="flowRegion2207-6"><rect
+                 style="font-family:sans-serif;text-align:center;text-anchor:middle"
+                 y="843.8576"
+                 x="296.88446"
+                 height="50.386871"
+                 width="368.95151"
+                 id="rect2205-7" /></flowRegion><flowPara
+               id="flowPara2158-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.75189972px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Cellules carrées de 20 mètres</flowPara></flowRoot>          <rect
+             y="82.841156"
+             x="50.911274"
+             height="7.571312"
+             width="83.012939"
+             id="rect1513"
+             style="fill:none;fill-opacity:1;stroke:#f20000;stroke-width:0.53100002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1074"
+         d="m 260.78422,751.19281 v 9.05149"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1078)"
+         inkscape:export-filename="./schemCompatibleResult-prez2.png"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+    </g>
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez2.png"
+       y="681.9679"
+       x="109.92627"
+       height="164.07397"
+       width="236.5985"
+       id="rect1815"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.49228907;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez1.png"
+       y="460.17059"
+       x="109.92627"
+       height="164.07397"
+       width="236.5985"
+       id="rect2161"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.49228907;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        inkscape:export-filename="./schemCompatibleResult-prez1.png"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8350)"
-       d="M 202.60151,545.60859 196.736,576.0959"
-       id="path2429"
+       d="M 202.60151,501.24913 196.736,531.73644"
+       id="path2191"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
@@ -674,8 +841,8 @@
        inkscape:export-filename="./schemCompatibleResult-prez1.png"
        sodipodi:nodetypes="csc"
        inkscape:connector-curvature="0"
-       id="path2433"
-       d="m 170.16367,598.07232 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+       id="path2195"
+       d="m 170.16367,553.71286 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
     <text
        inkscape:export-ydpi="100"
@@ -684,27 +851,27 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458338"
        x="146.40929"
-       y="614.2309"
-       id="text2439"><tspan
+       y="569.8714"
+       id="text2201"><tspan
          sodipodi:role="line"
          x="147.19202"
-         y="614.2309"
+         y="569.8714"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         id="tspan2435">Tant que le nombre de </tspan><tspan
+         id="tspan2197">Tant que le nombre de </tspan><tspan
          sodipodi:role="line"
          x="146.40929"
-         y="619.2309"
+         y="574.8714"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458338"
-         id="tspan2437">logements simulés &gt; objectifs</tspan></text>
+         id="tspan2199">logements simulés &gt; objectifs</tspan></text>
     <g
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        inkscape:export-filename="./schemCompatibleResult-prez1.png"
-       transform="translate(0,258.04222)"
-       id="g2473">
+       transform="translate(0,213.68276)"
+       id="g2235">
       <rect
          style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect2459"
+         id="rect2221"
          width="99.405174"
          height="40.662426"
          x="190.65645"
@@ -712,47 +879,47 @@
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot2471"
+         id="flowRoot2233"
          xml:space="preserve"
          inkscape:transform-center-x="2.9753298"
          inkscape:transform-center-y="33.269597"><flowRegion
            style="line-height:51.20000243%;text-align:center;text-anchor:middle"
-           id="flowRegion2463"><rect
+           id="flowRegion2225"><rect
              style="line-height:51.20000243%;text-align:center;text-anchor:middle"
              y="581.99097"
              x="928.76288"
              height="145.16728"
              width="357.49677"
-             id="rect2461" /></flowRegion><flowPara
+             id="rect2223" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
-           id="flowPara2465">Comparaison de </flowPara><flowPara
+           id="flowPara2227">Comparaison de </flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
-           id="flowPara2467">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
+           id="flowPara2229">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle"
-           id="flowPara2469">création de logements </flowPara></flowRoot>    </g>
+           id="flowPara2231">création de logements </flowPara></flowRoot>    </g>
     <g
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        inkscape:export-filename="./schemCompatibleResult-prez1.png"
-       transform="translate(0,51.392055)"
-       id="g2483">
+       transform="translate(0,7.0326)"
+       id="g2245">
       <rect
          y="525.8288"
          x="135.77339"
          height="20.574379"
          width="68.245712"
-         id="rect2475"
+         id="rect2237"
          style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.58803529;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          transform="translate(52.634113,428.93029)"
-         id="g2481">
+         id="g2243">
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;line-height:87.91999817%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
            x="117.18893"
            y="110.38963"
-           id="text2479"><tspan
-             id="tspan2477"
+           id="text2241"><tspan
+             id="tspan2239"
              sodipodi:role="line"
              x="117.18893"
              y="110.38963"
@@ -766,40 +933,60 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:5.79437494px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
        x="167.37198"
-       y="557.66492"
-       id="text2489"><tspan
+       y="513.30542"
+       id="text2251"><tspan
          sodipodi:role="line"
          x="168.25255"
-         y="557.66492"
+         y="513.30542"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan2485">logements </tspan><tspan
+         id="tspan2247">logements </tspan><tspan
          sodipodi:role="line"
          x="167.37198"
-         y="564.82544"
+         y="520.46594"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:5.79437494px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458335"
-         id="tspan2487">simulés &gt; objectifs</tspan></text>
+         id="tspan2249">simulés &gt; objectifs</tspan></text>
     <path
        inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
        inkscape:export-filename="./schemCompatibleResult-prez1.png"
        sodipodi:nodetypes="csc"
        inkscape:connector-curvature="0"
-       id="path2491"
-       d="m 170.16367,598.07232 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
+       id="path2253"
+       d="m 170.16367,553.71286 c 0.0569,12.93687 -30.62168,12.02624 -38.90058,8.22166 -12.17511,-5.5951 -11.37413,-18.39263 3.76824,-18.2868"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2081)" />
     <rect
-       y="504.53006"
-       x="109.92627"
-       height="143.41774"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.49228907;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2273"
        width="236.5985"
-       id="rect2499"
-       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       height="164.07397"
+       x="109.92627"
+       y="460.17059"
        inkscape:export-filename="./schemCompatibleResult-prez1.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="./schemCompatibleResult-prez0.png"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2501"
+       width="236.5985"
+       height="143.41774"
+       x="109.92627"
+       y="253.52045" />
+    <rect
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.49228907;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2503"
+       width="236.5985"
+       height="164.07397"
+       x="109.92627"
+       y="209.16098"
+       inkscape:export-filename="./schemCompatibleResult-prez0.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <g
-       id="g2757"
-       transform="translate(0,38.843763)"
+       id="g2529"
+       transform="translate(0,-37.32686)"
        inkscape:export-filename="./schemCompatibleResult-prez0.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100">
@@ -808,38 +995,38 @@
          x="190.65645"
          height="40.662426"
          width="99.405174"
-         id="rect2743"
+         id="rect2515"
          style="opacity:1;fill:#f39312;fill-opacity:0.28985506;fill-rule:nonzero;stroke:#000000;stroke-width:0.5816797;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
          inkscape:transform-center-y="33.269597"
          inkscape:transform-center-x="2.9753298"
          xml:space="preserve"
-         id="flowRoot2755"
+         id="flowRoot2527"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:51.20000243%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="matrix(0.26458333,0,0,0.26458333,-52.967239,95.466748)"><flowRegion
-           id="flowRegion2747"
+           id="flowRegion2519"
            style="line-height:51.20000243%;text-align:center;text-anchor:middle"><rect
-             id="rect2745"
+             id="rect2517"
              width="357.49677"
              height="145.16728"
              x="928.76288"
              y="581.99097"
              style="line-height:51.20000243%;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-           id="flowPara2749"
+           id="flowPara2521"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">Comparaison de </flowPara><flowPara
-           id="flowPara2751"
+           id="flowPara2523"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">l'estimation d'ArtiScales et de l'objectif de </flowPara><flowPara
-           id="flowPara2753"
+           id="flowPara2525"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.33333206px;line-height:99.90000129%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;text-anchor:middle">création de logements </flowPara></flowRoot>    </g>
     <rect
-       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect2783"
-       width="236.5985"
-       height="143.41774"
-       x="109.92627"
-       y="285.3316"
-       inkscape:export-filename="./schemCompatibleResult-prez0.png"
+       inkscape:export-ydpi="100"
        inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
+       inkscape:export-filename="./schemCompatibleResult-prez0.png"
+       y="209.16098"
+       x="109.92627"
+       height="164.07397"
+       width="236.5985"
+       id="rect2549"
+       style="fill:none;fill-opacity:0.52325583;stroke:none;stroke-width:4.49228907;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
