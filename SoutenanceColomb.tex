@@ -15,13 +15,15 @@
 \newcommand\FontImportant{\fontsize{15}{20}\selectfont}
 \newcommand\FontMoyenImportant{\fontsize{14}{17}\selectfont}
 \newcommand\FontPetit{\fontsize{8}{6}\selectfont}
-\title{\vspace{1cm}Simulation de formes réalistes de développement résidentiel, de l'échelle du bâtiment à celle de l'ensemble d'une région urbaine}
+\title{Simulation de formes réalistes de développement résidentiel, de l'échelle du bâtiment à celle de l'ensemble d'une région urbaine}
 \author{Maxime Colomb}
-\subtitle{\footnotesize\textit{Sous la direction de Mickaël Brasebin, Julien Perret \& Cécile Tannier}
-  \\Soutenance de thèse
-\\ {\tiny\'Ecole doctorale MSTIC - spécialité ``sciences et technologies de l'information géographique''}}
+\subtitle{
+  \tiny
+  Soutenance de thèse de doctorat de l'Université Paris-Est\\
+  \'Ecole doctorale MSTIC - spécialité ``sciences et technologies de l'information géographique''
+}
 
-\titlegraphic{\vspace{-0.5cm}\includegraphics[height=1.1cm]{Images/logoIGN.png}\hfill\includegraphics[height=1.1cm]{Images/logoThema.jpg}\hfill\includegraphics[height=0.6cm]{Images/logo-upe.png}}
+\titlegraphic{\vspace{-0.cm}\includegraphics[height=1.1cm]{Images/logoIGN.png}\hfill\includegraphics[height=1.1cm]{Images/logoThema.jpg}\hfill\includegraphics[height=0.6cm]{Images/logo-upe.png}}
 \date{27 septembre 2019}
 
 \makeatletter
@@ -38,6 +40,8 @@
 
 \setbeamerfont*{section in head/foot}{size=\miniscule}
 \setbeamercolor{section in head/foot}{parent=palette primary}
+\setbeamerfont{title}{size=\large}
+\setbeamerfont{date}{size=\scriptsize}
 
 \addtobeamertemplate{frametitle}{}{%
   \begin{textblock*}{5cm}(11.3cm,0.03cm)
@@ -54,7 +58,34 @@
 %%    \end{frame} 
 %% }
 % Fin
-
+\defbeamertemplate*{title page}{customized}[1][]
+{
+     \usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\par
+     \usebeamerfont{title}\inserttitle\par
+     \smallskip
+     \usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par
+     \smallskip
+     \usebeamerfont{author}\insertauthor\par
+     \usebeamerfont{institute}\insertinstitute\par
+     \hfill\usebeamerfont{date}\insertdate\par
+     \miniscule
+     \textbf{Composition du jury~:}\\
+     \begin{center}
+       \begin{tabular}{m{2cm}m{5cm}m{2cm}}
+         \toprule
+         Cyrille Genre-Grandpierre&Professeur des Universit\'es, Universit\'e d'Avignon - UMR Espace&Rapporteur\\
+         Jacques Teller&Professeur, Universit\'e de Li\`ege, Belgique&Rapporteur\\
+         \midrule
+         H\'el\`ene Houot&Ma\^itre de conf\'erence, Universit\'e de Franche-Comt\'e - UMR Th\'eMA&Examinatrice\\
+         Florent Le N\'echet&Ma\^itre de conf\'erences, Universit\'e Paris-Est - UMR LVMT&Examinateur\\
+         \midrule
+         Micka\"el Brasebin&Dr., Ing\'enieur des Travaux Cartographiques d'\'Etat, IGN/LaSTIG - ENSG&Encadrant\\
+         Julien Perret&Directeur de Recherche du D\'eveloppement Durable, IGN/LaSTIG - ENSG&Directeur de th\`ese\\
+         C\'ecile Tannier&Directrice de Recherche CNRS - UMR Th\'eMA&Directrice de th\`ese\\
+         \bottomrule
+       \end{tabular}
+     \end{center}
+}
 \begin{document}
 
 \maketitle
