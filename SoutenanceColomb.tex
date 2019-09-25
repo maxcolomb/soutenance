@@ -17,10 +17,14 @@
 \newcommand\FontPetit{\fontsize{8}{6}\selectfont}
 \title{Simulation de formes réalistes de développement résidentiel, de l'échelle du bâtiment à celle de l'ensemble d'une région urbaine}
 \author{Maxime Colomb}
-\subtitle{\textit{Sous la direction de M. Brasebin, J. Perret \& C. Tannier}
-	\\Soutenance de thèse}
+\subtitle{
+  \tiny
+  Soutenance de thèse de doctorat de l'Université Paris-Est\\
+  \'Ecole doctorale MSTIC - spécialité ``sciences et technologies de l'information géographique''
+}
 
-\titlegraphic{\includegraphics[height=1.1cm]{Images/logoIGN.png}\hfill\includegraphics[height=1.1cm]{Images/logoThema.jpg}}
+\titlegraphic{\vspace{-0.cm}\includegraphics[height=1.1cm]{Images/logoIGN.png}\hfill\includegraphics[height=1.1cm]{Images/logoThema.jpg}\hfill\includegraphics[height=0.6cm]{Images/logo-upe.png}}
+\date{27 septembre 2019}
 
 \makeatletter
 \newcommand\addsectiontotoc[1]{%
@@ -36,11 +40,51 @@
 
 \setbeamerfont*{section in head/foot}{size=\miniscule}
 \setbeamercolor{section in head/foot}{parent=palette primary}
+\setbeamerfont{title}{size=\large}
+\setbeamerfont{date}{size=\scriptsize}
 
 \addtobeamertemplate{frametitle}{}{%
-  \begin{textblock*}{5cm}(11cm,0.1cm)
+  \begin{textblock*}{5cm}(11.3cm,0.03cm)
     \insertsectionnavigation{4cm}
   \end{textblock*}
+}
+
+% Début du code pour faire apparaître un sommaire avant chaque section
+%% \AtBeginSection[]{
+%%    \begin{frame}{Plan}
+%%    %%% affiche en début de chaque section, les noms de sections et
+%%    %%% noms de sous-sections de la section en cours.
+%%    \tableofcontents[currentsection,hideallsubsections]
+%%    \end{frame} 
+%% }
+% Fin
+\defbeamertemplate*{title page}{customized}[1][]
+{
+     \usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\par
+     \usebeamerfont{title}\inserttitle\par
+     \smallskip
+     \usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par
+     \smallskip
+     \usebeamerfont{author}\insertauthor\par
+     \usebeamerfont{institute}\insertinstitute\par
+     \hfill\usebeamerfont{date}\insertdate\par
+     \miniscule
+     \textbf{Composition du jury~:}\\
+     \begin{center}
+       \begin{tabular}{m{2cm}m{5cm}m{2cm}}
+         \toprule
+         Cyrille Genre-Grandpierre&Professeur des Universit\'es, Universit\'e d'Avignon - UMR Espace&Rapporteur\\
+         Jacques Teller&Professeur, Universit\'e de Li\`ege, Belgique&Rapporteur\\
+         \midrule
+         H\'el\`ene Houot&Ma\^itre de conf\'erence, Universit\'e de Franche-Comt\'e - UMR Th\'eMA&Examinatrice\\
+         Florent Le N\'echet&Ma\^itre de conf\'erences, Universit\'e Paris-Est - UMR LVMT&Examinateur\\
+         \midrule
+         Micka\"el Brasebin&Dr., Ing\'enieur des Travaux Cartographiques d'\'Etat, IGN/LaSTIG - ENSG&Encadrant\\
+         Julien Perret&Directeur de Recherche du D\'eveloppement Durable, IGN/LaSTIG - ENSG&Directeur de th\`ese\\
+         C\'ecile Tannier&Directrice de Recherche CNRS - UMR Th\'eMA&Directrice de th\`ese\\
+         \bottomrule
+       \end{tabular}
+     \end{center}
 }
 \begin{document}
 
@@ -63,7 +107,7 @@
 	\end{block}
 \end{frame}
 
-\begin{frame}{Divers documents d'aménagement réglementant l'extension résidentielle} 
+\begin{frame}{Divers documents d'aménagement réglementant\\ l'extension résidentielle} 
 	\only<1>{\includegraphics[width=11cm]{Images/planification-globale-Prez0.png}}
 	\only<2>{\includegraphics[width=11cm]{Images/planification-globale-Prez1.png}}
 	\only<3>{\includegraphics[width=11cm]{Images/planification-globale-Prez2.png}}
@@ -95,14 +139,15 @@
 \end{frame}
 
 \begin{frame}{Objectifs de la modélisation}
-	\begin{block}{Objectifs}
+  \begin{block}{Objectifs}
 	\begin{itemize}
 	\vspace{-0.2cm}
 		\small
-		\item<1-> Simuler et évaluer le développement résidentiel à différents niveaux d'échelle selon les contraintes issues de la réglementation
+		\item<1-> Simuler et évaluer le développement résidentiel à différents niveaux d'échelle et selon les contraintes issues de la réglementation
+
 		\item<2-> Exprimer divers objectifs de la planification~: %critères d'évaluation 
 		\begin{itemize}
-			\footnotesize
+			\scriptsize
 			\item<3-> La création de logements
 			\item<4-> La densité de logements par hectare
 			\item<5-> L'accessibilité (aux transports en communs, ...)
@@ -130,7 +175,7 @@
 	\end{block}}
 \end{frame}
 
-\begin{frame}{État de l'art des modèle de développement résidentiel}
+\begin{frame}{État de l'art des modèles de développement résidentiel}
 	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 97, Arentze 08, Mustapha 18). %todo ajouter images?! peut être en mettre un tout petit peu plus
 		\begin{itemize}
 			\item Simulation du changement d'état de l'occupation du sol et particulièrement de l'urbanisation
@@ -151,7 +196,7 @@
 	}
 \end{frame}
 
-\begin{frame}{État de l'art des modèles génératifs de développements résidentiels}
+\begin{frame}{État de l'art des modèles génératifs de \\développements résidentiels}
 	\only<1>{Génération de parcelles}
 	\only<2>{Génération de bâtiments}
 	%À une échelle très locale, d'autre dynamiques et d'autre types de modèles
@@ -168,7 +213,7 @@
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{État de l'art des modèles intégrés simulant le développement résidentiel}
+\begin{frame}{État de l'art des modèles intégrés simulant le \\développement résidentiel}
 Les approches intégrées, telles que les LUTI (Land-Use and Transportation Interaction), permettent de~:
 \begin{itemize}
 	\item Simuler les interactions entre différents modèles (occupation du sol, mobilités, systèmes économiques ...) 
@@ -417,7 +462,7 @@ Inconvénients~:
 	\centering{\includegraphics[width=11cm]{Images/schemGen-prez-apports}}
 \end{frame}
 
-\section{Validation des modules d'ArtiScales}
+\section[Validation]{Validation des modules d'ArtiScales}
 
 \subsection{Validation du modèle MUP-City}
 
@@ -494,7 +539,7 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 
 \againframe<4>{parScen}
 
-\begin{frame}{MUP-City : caractère extensif ou non de l'extension résidentielle}
+\begin{frame}{MUP-City : caractère extensif ou non de \\l'extension résidentielle}
 \vspace{1cm}
 \hspace*{-0.5cm}\centering{\includegraphics[width=12cm]{Images/MUP/illuYagMoy.png}}
 %\centering{\includegraphics[width=11.5cm]{Images/MUP/Agreg.png}}
@@ -502,7 +547,7 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 {\footnotesize exemple de différentes agrégations des règles additionnelles d'aménagement, résultant en un scénario sélectionnant des cellules uniformément intéressantes à urbaniser ou non}
 \end{frame}
 
-\begin{frame}{Validation de différentes configurations spatiales de MUP-City}
+\begin{frame}{Validation de différentes configurations spatiales de \\MUP-City}
 	\only<1>{Indicateurs utilisés
 	\begin{itemize}
 		\item Nombre de cellules selon leurs localisations
@@ -633,10 +678,9 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 	\end{itemize}}
 \end{frame}
 
-\section{Expérimentation d'ArtiScales sur l'aire urbaine de Besançon}
+\section[Expérimentation]{Expérimentation d'ArtiScales sur l'aire urbaine de Besançon}
 
-
-\begin{frame}{ArtiScales : Expérimentation menée au cours de la thèse}
+\begin{frame}{ArtiScales : Expérimentation menée}
 	\only<1>{\begin{block}
 		\textbf{ Objectifs de l'expérimentation}\\
 		\begin{itemize}
@@ -755,7 +799,7 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 	\hspace*{-0.5cm}\includegraphics[width=12cm]{cartes/schemaRNU.png}
 \end{frame}
 
-\begin{frame}{Possibilité de génération automatique de Cartes Communales}
+\begin{frame}{Possibilité de génération automatique de \\Cartes Communales}
 Génération automatique de zonage~:
 \begin{itemize}
 	\small
@@ -808,7 +852,7 @@ Génération automatique de zonage~:
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Perspectives d'utilisation d'ArtiScales dans l'aide à la décision territoriale}
+\begin{frame}{Perspectives d'utilisation d'ArtiScales dans \\l'aide à la décision territoriale}
 	Comparer certaines versions de documents en modifiant certaines contraintes des règlements
 	\\
 	Par exemple : 
