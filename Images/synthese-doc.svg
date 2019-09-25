@@ -149,17 +149,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="549.72777"
-     inkscape:cy="-807.61881"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="430.08043"
+     inkscape:cy="-1055.9325"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      width="298mm"
-     inkscape:window-width="1613"
-     inkscape:window-height="995"
-     inkscape:window-x="1347"
-     inkscape:window-y="27"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata4752">
@@ -185,14 +185,6 @@
        cy="2061.2849"
        rx="66.124786"
        ry="56.721718"
-       inkscape:export-filename="./synthese-doc2.png"
-       inkscape:export-xdpi="100"
-       inkscape:export-ydpi="100" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#ffb6b6;stroke-width:3.63989639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-3)"
-       d="m 424.76695,2103.1185 v 47.1862"
-       id="path1484-3"
-       inkscape:connector-curvature="0"
        inkscape:export-filename="./synthese-doc2.png"
        inkscape:export-xdpi="100"
        inkscape:export-ydpi="100" />
@@ -1732,5 +1724,13 @@
                id="flowPara1472" /></flowRoot>        </g>
       </g>
     </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffb6b6;stroke-width:3.63989639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-3)"
+       d="m 424.76695,2103.1185 v 47.1862"
+       id="path1484-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="./synthese-doc2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
   </g>
 </svg>
