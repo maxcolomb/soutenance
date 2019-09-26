@@ -1,5 +1,5 @@
 \documentclass[xcolor=table]{beamer}
-\usetheme[progressbar=frametitle]{metropolis}
+\usetheme[progressbar=frametitle, sectionpage=none]{metropolis}
 \usepackage{appendixnumberbeamer}
 
 \usepackage[absolute,overlay]{textpos}
@@ -85,6 +85,24 @@
          \bottomrule
        \end{tabular}
      \end{center}
+}
+\defbeamertemplate{section page}{progressbarcomplete}{
+  \centering
+  \begin{minipage}{22em}
+    \raggedright
+    \usebeamercolor[fg]{section title}
+    \usebeamerfont{section title}
+    \insertsection\\[-1ex]
+    \usebeamertemplate*{progress bar in section page}
+    \par
+    \ifx\insertsubsection\@empty\else%
+    \usebeamercolor[fg]{subsection title}%
+    \usebeamerfont{subsection title}%
+    \insertsubsection
+    \fi
+  \end{minipage}
+  \par
+  \vspace{\baselineskip}
 }
 \begin{document}
 
@@ -277,7 +295,12 @@
 		\item \alert<3>{\textbf{Expérimentation} d'ArtiScales}
 	\end{itemize}
 \end{frame}
-
+%\metropolis@enablesectionpage
+\AtBeginSection{
+  %\sectionpage
+  \frame[plain,c,noframenumbering]{\sectionpage}
+}
+\setbeamertemplate{section page}[progressbarcomplete]
 
 \section{ArtiScales}
 
