@@ -15,6 +15,9 @@
 \newcommand\FontImportant{\fontsize{15}{20}\selectfont}
 \newcommand\FontMoyenImportant{\fontsize{14}{17}\selectfont}
 \newcommand\FontPetit{\fontsize{8}{6}\selectfont}
+
+\definecolor{green}{cmyk}{1,0,1,0.12}
+
 \title{Simulation de formes réalistes de développement résidentiel, de l'échelle du bâtiment à celle de l'ensemble d'une région urbaine}
 \author{Maxime Colomb}
 \subtitle{
@@ -93,17 +96,16 @@
 \begin{frame}{Contexte : le phénomène d'étalement urbain}
 	\begin{block}{}
 		\begin{itemize}
-			\item Correspond aux souhaits d'un grand nombre de ménages
+			\item Urbanisation non contrôlée de terrains non-bâtis en marge des centres urbains
+			\begin{itemize}
+				\item Dynamiques résidentielles prépondérantes (Joly 03, Wiel 13)
+			\end{itemize}
 			\item Multiples effets négatifs
 			\item Objectif de régulation des pouvoirs publics
 		\end{itemize}
 		\includegraphics[height=2.5cm]{Images/consome.jpg}
 		\includegraphics[height=2.5cm]{Images/sto.jpeg}
 		\includegraphics[height=2.5cm]{Images/maiz.jpg}
-	\end{block}
-	\begin{block}{}
-	\uncover<2>{Dynamiques résidentielles prépondérantes (Joly 03, Wiel 13)}
-		%Le logement étant le principal levier de ce développement, nous nous concentrons sur le développement résidentiel 
 	\end{block}
 \end{frame}
 
@@ -139,19 +141,19 @@
 \end{frame}
 
 \begin{frame}{Objectifs de la modélisation}
-  \begin{block}{Objectifs}
-	\begin{itemize}
-	\vspace{-0.2cm}
-		\small
-		\item<1-> Simuler et évaluer le développement résidentiel à différents niveaux d'échelle et selon les contraintes issues de la réglementation
-
-		\item<2-> Exprimer divers objectifs de la planification~: %critères d'évaluation 
+		\begin{block}{Objectifs}
 		\begin{itemize}
-			\scriptsize
-			\item<3-> La création de logements
-			\item<4-> La densité de logements par hectare
-			\item<5-> L'accessibilité (aux transports en communs, ...)
-		\end{itemize}
+		\vspace{-0.2cm}
+			\small
+			\item<1-> Simuler et évaluer le développement résidentiel à différents niveaux d'échelle et selon les contraintes issues de la réglementation
+	
+			\item<2-> Exprimer divers objectifs de la planification~: %critères d'évaluation 
+			\begin{itemize}
+				\scriptsize
+				\item<3-> La création de logements
+				\item<4-> La densité de logements par hectare
+				\item<5-> L'accessibilité (aux transports en communs, ...)
+			\end{itemize}
 		\end{itemize}
 	\end{block}
 	\vspace{-0.5cm}
@@ -160,7 +162,7 @@
 	\begin{itemize}
 		\small
 		\item Modélisation descriptive
-		\item<7-> Représentation des états intermédiaires non nécessaires %todo reprendre etat sinal = état initial
+		\item<7-> Passage d'un état initial à un état final %Représentation des états intermédiaires non nécessaires, on ne simule pas une évolution
 		\item<8-> Pas de reproduction des phénomènes antérieurs
 	\end{itemize}	
 	\end{block}}
@@ -176,7 +178,7 @@
 \end{frame}
 
 \begin{frame}{État de l'art des modèles de développement résidentiel}
-	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 199797, Arentze 2008, Tannier 2010, Mustapha 2018). %todo ajouter images?! peut être en mettre un tout petit peu plus
+	\only<1>{Les modèles d'\textbf{occupation du sol} (Batty 1997, Arentze 2008, Tannier 2010, Mustapha 2018). %todo ajouter images?! peut être en mettre un tout petit peu plus ?
 		\begin{itemize}
 			\item Simulation du changement d'état de l'occupation du sol et particulièrement de l'urbanisation
 			\item Poursuis de nombreux objectifs~:
@@ -258,7 +260,6 @@
 			\item Permettre de comparer plusieurs \textbf{scénarios} de développement résidentiels\\	
 			\item Représenter des futurs hypothètiques, recherchés, redoutés\\
 %		Utilisation en tant qu'\textbf{outil} pour l'\textbf{aide} à la conception de documents %et non pour une rédaction \textit{automatisée} - 
-			\item Possibilitées plutôt que prédictions
 		%faire tendre vers un état voulu et explorer les potentialités sont des objectifs secondaires - ajouter? 
 		\end{itemize}
 	\end{block}
@@ -520,45 +521,40 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 \end{frame}
 
 \begin{frame}{MUP-City : intensité du développement résidentiel}
-\vspace{1cm}
-\centering{
-  \includegraphics[width=11.5cm]{Images/MUP/Intens.png}\\
-  \includegraphics[width=4cm]{Images/MUP/legend.png}
-}
-\\
-{\footnotesize Exemples d'un scénario peu dense et d'un scénario modérément dense}
+	\vspace{1cm}
+	\centering{\includegraphics[width=11.5cm]{Images/MUP/Intens.png}\\
+	\includegraphics[width=4cm]{Images/MUP/legend.png}}
+	\\
+	{\footnotesize Exemples d'un scénario peu dense et d'un scénario modérément dense}
 \end{frame}
 
 \againframe<2>{parScen}
 
 \begin{frame}{MUP-City : uniformité du développement résidentiel}
-\vspace{1cm}
-\centering{
-  \includegraphics[width=11.5cm]{Images/MUP/Unif.png}\\
-  \includegraphics[width=4cm]{Images/MUP/legend.png}
-}
-\\
-{\footnotesize Exemples d'un scénario uniforme et d'un scénario contrasté}
+	\vspace{1cm}
+	\centering{\includegraphics[width=11.5cm]{Images/MUP/Unif.png}\\
+		\includegraphics[width=4cm]{Images/MUP/legend.png}}
+	\\
+	{\footnotesize Exemples d'un scénario uniforme et d'un scénario contrasté}
 \end{frame}
 
 \againframe<3>{parScen}
 
 \begin{frame}{MUP-City : orientation du développement résidentiel}
-\vspace{1cm}
-\hspace*{-0.5cm}\centering{\includegraphics[width=8cm]{Images/MUP/Ahp.png}}
-\includegraphics[width=3cm]{Images/legendAHP.png}
-\\
-{\footnotesize Exemple de différentes orientations poursuivies par le développement résidentiel}
+	\vspace{1cm}
+	\hspace*{-0.5cm}\centering{\includegraphics[width=8cm]{Images/MUP/Ahp.png}}
+	\includegraphics[width=3cm]{Images/legendAHP.png}
+	\\
+	{\footnotesize Exemple de différentes orientations poursuivies par le développement résidentiel}
 \end{frame}
 
 \againframe<4>{parScen}
 
 \begin{frame}{MUP-City : caractère extensif ou non de \\l'extension résidentielle}
-\vspace{1cm}
-\hspace*{-0.5cm}\centering{\includegraphics[width=12cm]{Images/MUP/illuYagMoy.png}}
-%\centering{\includegraphics[width=11.5cm]{Images/MUP/Agreg.png}}
-
-{\footnotesize exemple de différentes agrégations des règles additionnelles d'aménagement, résultant en un scénario sélectionnant des cellules uniformément intéressantes à urbaniser ou non}
+	\vspace{1cm}
+	\hspace*{-0.5cm}\centering{\includegraphics[width=11cm]{Images/MUP/illuYagMoy.png}}
+	
+	{\footnotesize exemple de différentes agrégations des règles additionnelles d'aménagement, résultant en un scénario sélectionnant des cellules uniformément intéressantes à urbaniser ou non}
 \end{frame}
 
 \begin{frame}{Validation de différentes configurations spatiales de \\MUP-City}
@@ -579,7 +575,7 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 		\end{block}
 	\end{block}}
 	\only<3>{\begin{block}{}
-		Scénario de \textbf{développement} résidentielle \textbf{ciblée}
+		Scénario de \textbf{développement} résidentiel \textbf{ciblée}
 	\\
 		\vspace{0.4cm}
 		{\footnotesize Scénario de développement résidentiel \textbf{contrasté}, \textbf{extensif} et \textbf{intense}~:}
@@ -624,9 +620,9 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 		\begin{block}{}
 			Scénario de \textbf{développement} résidentiel \textbf{ciblé}
 			\begin{itemize}
-				\item Potentiellement très variable du fait du \textbf{caractère aléatoire}
-				\item Très variable selon la taille des cellules
 				\item Variable selon la position éloignée de la grille de décomposition
+				\item Très variable selon la taille des cellules
+				\item Potentiellement très variable du fait du \textbf{caractère aléatoire}
 			\end{itemize}
 		\end{block}	
 	}
@@ -639,7 +635,7 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 			\begin{itemize}
 				\item Variable du fait du \textbf{caractère aléatoire}
 				\item Localement très sensible à la position de la grille de décomposition
-				\item Cellules situées dans différents types de zonage
+				\item Taille des cellules selon différents types de zonage
 			\end{itemize}
 		\end{block}	
 	}
@@ -722,11 +718,13 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 	}
 \end{frame}
 
-\begin{frame}{ArtiScales : Exécution du code informatique}
+\begin{frame}{ArtiScales : Exécution du code informatique} 
+	Nécessité d'une grande puissance de calcul
+\\
+	\textbf{Distribution} sur divers environnements parrallélisés grâce à OpenMOLE
 	\begin{itemize}
-		\item temps \textbf{théorique} sur un ordinateur personnel~: \textbf{5 jours}
-		\item temps \textbf{théorique} sur la grille de calcul européenne~: \textbf{6 heures}
-		\item temps \textbf{constaté} sur la grille européenne~: \textbf{2 jours}
+		\item Grille de calcul européenne
+		\item Cluster du LADIS
 	\end{itemize}
 \end{frame}
 
@@ -759,9 +757,9 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 \end{frame}
 
 \begin{frame}{ArtiScales : Simulation de logements}
+	\only<1-3>{
 	\begin{table}[h]
 		\caption{Comparaison de la création de logements mesurée par le SCoT avec les estimations des simulations d'ArtiScales}
-		\label{Result:ConstLgt}
 		\tiny
 		\begin{center}
 		\begin{tabular}{m{2.3cm}m{1.4cm}m{1.05cm}m{1cm}m{1cm}m{1cm}m{1cm}}
@@ -774,24 +772,48 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 			Nombre de logements produits en 4 ans\footnote{d'après l'évaluation du SCoT sur la période 2012-2016}&
 			\cellcolor[gray]{0.8}paramétrage \textit{dense} & \cellcolor[gray]{0.8}paramétrage \textit{modérément dense}& \cellcolor[gray]{0.8}paramétrage \textit{dense} & \cellcolor[gray]{0.8}paramétrage \textit{modérément dense} \\ \hline
 			
-				\hline
-				Ville centre&18 200 \only<2->{(7 280)}&2 621 \only<3->{\textbf{-2\%}}&2 841&3 891&3 192&3 777\\\hline
-				\rowcolor[gray]{0.9}Communes périphériques&3 500 \only<2->{(1 400)}&505 \only<3->{\textbf{-2\%}}&2 017&1 519&1 764&1 425\\\hline
-				Communes relais &1 250 \only<2->{(500)}&147 \only<3->{\textbf{-4\%}}&402&489&331&356\\\hline
-			% 	\only<1-3>{\rowcolor[gray]{0.9}} \only<4>{\rowcolor[gray]{0.5}} Communes équipées&600 \only<2->{(240)}&42 \only<3->{\textbf{-9\%}}&123&21&102&17\\\hline
-				\rowcolor[gray]{0.9} Communes équipées&600 \only<2->{(240)}&42 \only<3->{\textbf{-9\%}}&123&21&102&17\\\hline
-				Halte ferroviaire&2 200 \only<2->{(880)}&328 \only<3->{\textbf{-1\%}}&3 248&948&1 207&613\\\hline
-				\rowcolor[gray]{0.9}Commune hors armature&5 250 \only<2->{(2 100)}&1 055 \only<3->{\textbf{+4\%}}&4 274&1 908&3 511&1 433\\\hline 
+			\hline
+			Ville centre&18 200 \only<2->{(7 280)}&2 621 \only<3->{\textbf{-2\%}}&2 841&3 891&3 192&3 777\\\hline
+			\rowcolor[gray]{0.9}Communes périphériques&3 500 \only<2->{(1 400)}&505 \only<3->{\textbf{-2\%}}&2 017&1 519&1 764&1 425\\\hline
+			Communes relais &1 250 \only<2->{(500)}&147 \only<3->{\textbf{-4\%}}&402&489&331&356\\\hline
+			\rowcolor[gray]{0.9} Communes équipées&600 \only<2->{(240)}&42 \only<3->{\textbf{-9\%}}&123&21&102&17\\\hline
+			Halte ferroviaire&2 200 \only<2->{(880)}&328 \only<3->{\textbf{-1\%}}&3 248&948&1 207&613\\\hline
+			\rowcolor[gray]{0.9}Commune hors armature&5 250 \only<2->{(2 100)}&1 055 \only<3->{\textbf{+4\%}}&4 274&1 908&3 511&1 433\\\hline 
 			\end{tabular}
 		\end{center}
 	\end{table}
+	}
 	\only<2>{De 2012 à 2016, on compte 60\% de \textit{renouvellement urbain}}
-	\only<3->{En 4 ans~: Production de logements en deçà des objectifs}
+	\only<3>{En 4 ans~: Production de logements en deçà des objectifs}
+	\only<4>{	\begin{table}[h]
+			\caption{Comparaison de la création de logements mesurée par le SCoT avec les estimations des simulations d'ArtiScales}
+			\tiny
+			\begin{center}
+				\begin{tabular}{m{2.3cm}m{1.4cm}m{1.05cm}m{1cm}m{1cm}m{1cm}m{1cm}}
+					\rowcolor[gray]{0.8}
+					\multicolumn{3}{c}{Densité moyenne simulée pour le scénario~:}&\multicolumn{2}{c}{\textbf{étalement ciblé}} &\multicolumn{2}{c}{\textbf{intensification}}\\
+					
+					\rowcolor[gray]{0.9}
+					Typologie de l'armature &
+					Objectif du SCoT sur 25 ans&
+					Nombre de logements produits en 4 ans\footnote{d'après l'évaluation du SCoT sur la période 2012-2016}&
+					\cellcolor[gray]{0.8}paramétrage \textit{dense} & \cellcolor[gray]{0.8}paramétrage \textit{modérément dense}& \cellcolor[gray]{0.8}paramétrage \textit{dense} & \cellcolor[gray]{0.8}paramétrage \textit{modérément dense} \\ \hline
+					
+					\hline
+					Ville centre&18 200 (7 280)&2 621\textbf{-2\%}&2 841&3 891&3 192&3 777\\\hline
+					\rowcolor[gray]{0.9}Communes périphériques&3 500 (1 400)&505 \textbf{-2\%}&2 017&1 519&1 764&1 425\\\hline
+					Communes relais &1 250 (500)&147 \textbf{-4\%}&402&489&331&356\\\hline
+					\rowcolor{green} Communes équipées&600 (240)&42 \textbf{-9\%}&123&21&102&17\\\hline
+					Halte ferroviaire&2 200 (880)&328 \textbf{-1\%}&3 248&948&1 207&613\\\hline
+					\rowcolor[gray]{0.9}Commune hors armature&5 250 (2 100)&1 055 \textbf{+4\%}&4 274&1 908&3 511&1 433\\\hline 
+				\end{tabular}
+			\end{center}
+	\end{table}}
 \end{frame}
 
 
 \begin{frame}{ArtiScales : Comparaison avec les variantes}
-\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/compVar/diffStoch.png}}
+\hspace*{-0.9cm}\centering{\includegraphics[width=12.5cm]{Images/compVar/compSeed.png}}
 \only<2>{\textit{deuxième carte à venir comparant le scénario \textbf{intense} avec des cellules plus petites}}
 \end{frame}
 
@@ -800,17 +822,19 @@ Différentes catégories de \textbf{paramètres techniques}~:\\
 	\subsectionpage
 \end{frame}
 
-\begin{frame}{Compatibilité entre les documents}
+\begin{frame}{Incompatibilité entre les documents}
 	Incompatibilité entre les objectifs de création de logements et les documents d'urbanisme %(objectifs sur-dimensionnés ?)
 	\\
 	\only<1>{\includegraphics[width=11cm]{cartes/NancrayDDense3D.png}}
 	\only<2>{\includegraphics[width=11cm]{cartes/NancrayDPD3D.png}}
 	\only<3>{\includegraphics[width=11cm]{cartes/AvanneRNUInf.png}}
-	\only<4->{Possibilité de rétro-action~:
-		\only<5>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez0.png}}
-		\only<6>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez1.png}}
-		\only<7>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez2.png}}
-	}
+\end{frame}
+
+\begin{frame}{Incompatibilité entre les documents \\ Rétro-action sur le zonage}
+	\only<1>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez0.png}}
+	\only<2>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez1.png}}
+	\only<3>{\includegraphics[width=9cm]{Images/schemCompatibleResult-prez2.png}}
+%
 \end{frame}
 
 \begin{frame}{Détecter la nécessité d'un zonage}
@@ -836,7 +860,6 @@ Génération automatique de zonage~:
 
 
 \section{Conclusion et perspectives}
-%todo rendre un peu moins morne?
 
 \begin{frame}{ArtiScales : Conclusions}
 	\begin{block}{}
@@ -865,6 +888,9 @@ Génération automatique de zonage~:
 \begin{frame}{Apports de la thèse}
 	\begin{itemize}
 		\item Création d'un modèle de développement résidentiel complexe
+		\begin{itemize}
+			\item Création d'un modèle de gestion parcellaire
+		\end{itemize}
 		\item Analyse de la variabilité des modules composant ce modèle
 		\item Utilisation de cette variabilité pour proposer différentes orientations d'aménagement
 	\end{itemize}
